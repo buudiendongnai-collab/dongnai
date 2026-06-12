@@ -250,6 +250,48 @@
       "attachments": [],
       "createdAt": "2026-06-12T04:03:30",
       "updatedAt": "2026-06-12T04:03:30"
+    },
+    {
+      "id": "db052086fe8b4e10a0b00fab3b981ed3",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "813290",
+        "Tên Bưu cục": "bcvh Long Khánh",
+        "Họ và tên người sử dụng": "Trương Thị Thu Hiền",
+        "Mã HRM": "00018410",
+        "Bộ phận / Phòng ban": "bcvh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-LK-BCP-222",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "GBT1TR2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "119 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19043",
+        "Office": "Microsoft Office 64-bit Components 2013",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.101.222",
+        "MAC Address": "B8:85:84:A8:E4:1A"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "scanner",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T04:05:15",
+      "updatedAt": "2026-06-12T04:05:15"
     }
   ]
 }
