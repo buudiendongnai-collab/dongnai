@@ -5006,6 +5006,48 @@
       "attachments": [],
       "createdAt": "2026-06-12T09:50:10",
       "updatedAt": "2026-06-12T09:50:10"
+    },
+    {
+      "id": "7771fc9568f948dfb966a46663a460b5",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "815300",
+        "Tên Bưu cục": "LONG THÀNH",
+        "Họ và tên người sử dụng": "NGUYỄN NGỌC THẢO VY",
+        "Mã HRM": "00260473",
+        "Bộ phận / Phòng ban": "GIAO DỊCH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-LT-GD249",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "B2GH862",
+        "CPU": "Intel(R) Core(TM) i3-4160T CPU @ 3.10GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "240 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.200.38.42",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON LP 2900",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "DELFI",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T09:54:48",
+      "updatedAt": "2026-06-12T09:54:48"
     }
   ]
 }
