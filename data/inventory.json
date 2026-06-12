@@ -1070,6 +1070,48 @@
       ],
       "createdAt": "2026-06-12T04:31:18",
       "updatedAt": "2026-06-12T04:31:18"
+    },
+    {
+      "id": "39f2b1c889774ec7864e8ee3de4c19e5",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "815300",
+        "Tên Bưu cục": "Long Thành",
+        "Họ và tên người sử dụng": "Lê Thị Việt Sử",
+        "Mã HRM": "00017895",
+        "Bộ phận / Phòng ban": "Tổ Kế Toán",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-LT-PT4",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H310M S2H 2.0",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Pentium(R) Gold G5400 CPU @ 3.70GHz",
+        "RAM": "15.9 GB",
+        "Ổ cứng": "501 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise LTSC 10.0.17763",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.120.160",
+        "MAC Address": "B4:2E:99:94:45:70"
+      },
+      "attachments": [
+        {
+          "type": "photocopier",
+          "name": "RECOH MP 3554",
+          "serial": "M2941"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Zebra",
+          "serial": "DS22"
+        }
+      ],
+      "createdAt": "2026-06-12T04:33:52",
+      "updatedAt": "2026-06-12T04:33:52"
     }
   ]
 }
