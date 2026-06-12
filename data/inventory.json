@@ -2595,6 +2595,48 @@
       ],
       "createdAt": "2026-06-12T07:30:29",
       "updatedAt": "2026-06-12T07:30:29"
+    },
+    {
+      "id": "d5ce1339cfb947d1964269ba38535b32",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "815470",
+        "Tên Bưu cục": "LONG ĐỨC",
+        "Họ và tên người sử dụng": "NGUYỄN THỊ GIANG",
+        "Mã HRM": "00017727",
+        "Bộ phận / Phòng ban": "BC LONG ĐỨC",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-BH-LD150",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC52214GR",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "240 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2019 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.200.38.44",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON LBP243",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRA DS22",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T07:32:05",
+      "updatedAt": "2026-06-12T07:32:05"
     }
   ]
 }
