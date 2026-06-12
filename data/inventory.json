@@ -30,6 +30,43 @@
       "attachments": [],
       "createdAt": "2026-06-12T03:20:44",
       "updatedAt": "2026-06-12T03:20:44"
+    },
+    {
+      "id": "d10c5e08286c4572be9bb6f224569eec",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "PHÒNG TCHC",
+        "Tên Bưu cục": "PHÒNG HC",
+        "Họ và tên người sử dụng": "LƯƠNG THỊ TUYẾT LAN",
+        "Mã HRM": "0083449",
+        "Bộ phận / Phòng ban": "HC",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-95VVCF0",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC52214PJ",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "703 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "Microsoft Office Professional 2019 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.71.146.124",
+        "MAC Address": "10:B6:76:9E:14:3C"
+      },
+      "attachments": [
+        {
+          "type": "photocopier",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T03:24:54",
+      "updatedAt": "2026-06-12T03:24:54"
     }
   ]
 }
