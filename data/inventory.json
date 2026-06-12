@@ -1470,6 +1470,48 @@
       ],
       "createdAt": "2026-06-12T06:22:26",
       "updatedAt": "2026-06-12T06:22:26"
+    },
+    {
+      "id": "e3833f458229403490a00346d2404ead",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "811240",
+        "Tên Bưu cục": "BCVHBH1",
+        "Họ và tên người sử dụng": "TRẦN THỊ KIỀU MY",
+        "Mã HRM": "00018922",
+        "Bộ phận / Phòng ban": "BCVHBH1",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI_TTP_P1241",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP 280 G3 MT",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE7354X6P",
+        "CPU": "Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "111 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows, ESET Smart Security",
+        "IP Address": "10.71.154.241",
+        "MAC Address": "3C:52:82:4F:6D:E5"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "INTERMEC PC43D",
+          "serial": "357C162043"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "HONEY WELL CCB01",
+          "serial": "22042B5482"
+        }
+      ],
+      "createdAt": "2026-06-12T06:25:30",
+      "updatedAt": "2026-06-12T06:25:30"
     }
   ]
 }
