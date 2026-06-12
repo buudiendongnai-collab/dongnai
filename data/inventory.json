@@ -698,6 +698,37 @@
       ],
       "createdAt": "2026-06-12T04:17:27",
       "updatedAt": "2026-06-12T04:17:27"
+    },
+    {
+      "id": "c99fff30f9644dd5b6293c869ce1f487",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "812270",
+        "Tên Bưu cục": "TMDT",
+        "Họ và tên người sử dụng": "NGUYỄN THỊ PHƯƠNG LÊ",
+        "Mã HRM": "00017804",
+        "Bộ phận / Phòng ban": "tmdt",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI_BH_KH230",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP 280 G4 MT Business PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CG93238S9",
+        "CPU": "Intel(R) Core(TM) i3-9100 CPU @ 3.60GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "119 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional 2019 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.128.230",
+        "MAC Address": "C4:65:16:35:2D:12"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-12T04:17:53",
+      "updatedAt": "2026-06-12T04:17:53"
     }
   ]
 }
