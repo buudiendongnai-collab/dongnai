@@ -146,6 +146,37 @@
       ],
       "createdAt": "2026-06-12T03:43:47",
       "updatedAt": "2026-06-12T03:43:47"
+    },
+    {
+      "id": "d46a039a55ef4938ac4733472e30793a",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "81000",
+        "Tên Bưu cục": "BƯU ĐIỆN KHU VỰC BIÊN HÒA VĨNH CỬU",
+        "Họ và tên người sử dụng": "NGUYỄN THỊ HỒNG PHƯỢNG",
+        "Mã HRM": "XX",
+        "Bộ phận / Phòng ban": "BƯU ĐIỆN KHU VỰC BIÊN HÒA VĨNH CỬU",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-KD-PH126",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP EliteDesk 800 G4 SFF",
+        "Năm sản xuất": "",
+        "Serial Number": "JPH842Z4BW",
+        "CPU": "Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.22621",
+        "Office": "Microsoft Office Professional 2021 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.149.126",
+        "MAC Address": "10:E7:C6:3A:9D:D6"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-12T03:55:51",
+      "updatedAt": "2026-06-12T03:55:51"
     }
   ]
 }
