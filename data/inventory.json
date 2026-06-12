@@ -1512,6 +1512,53 @@
       ],
       "createdAt": "2026-06-12T06:25:30",
       "updatedAt": "2026-06-12T06:25:30"
+    },
+    {
+      "id": "f8f6bc10ffd543dab1db80331f35ed42",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "815470",
+        "Tên Bưu cục": "LONG ĐỨC",
+        "Họ và tên người sử dụng": "NGUYỄN THỊ LAN ANH",
+        "Mã HRM": "00017733",
+        "Bộ phận / Phòng ban": "BC LONG ĐỨC",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-BH-LD130",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "B1GDH62",
+        "CPU": "Intel(R) Core(TM) i3-4160T CPU @ 3.10GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "111 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.119.130",
+        "MAC Address": "64:00:6A:00:2C:95"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON LBP2900",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "ZEBRA ZD620",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRA DS22",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T06:26:59",
+      "updatedAt": "2026-06-12T06:26:59"
     }
   ]
 }
