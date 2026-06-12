@@ -3314,6 +3314,43 @@
       ],
       "createdAt": "2026-06-12T08:02:15",
       "updatedAt": "2026-06-12T08:02:15"
+    },
+    {
+      "id": "012d72a1f05f4c0c99576150406a9594",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "815110",
+        "Tên Bưu cục": "THẠNH PHÚ",
+        "Họ và tên người sử dụng": "NGUYỄN THỊ THỦY",
+        "Mã HRM": "00018263",
+        "Bộ phận / Phòng ban": "BĐP TÂN TRIỀU",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-VC-TP140",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 9020",
+        "Năm sản xuất": "",
+        "Serial Number": "CCM86Z1",
+        "CPU": "Intel(R) Core(TM) i3-4160 CPU @ 3.60GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "579 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.124.140",
+        "MAC Address": "F8:B1:56:9A:7A:E9"
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "02911375516",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T08:02:32",
+      "updatedAt": "2026-06-12T08:02:32"
     }
   ]
 }
