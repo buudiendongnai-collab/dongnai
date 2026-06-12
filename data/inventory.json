@@ -4552,6 +4552,48 @@
       ],
       "createdAt": "2026-06-12T08:57:35",
       "updatedAt": "2026-06-12T08:57:35"
+    },
+    {
+      "id": "607c3e086d904f18904e6e51a077ae06",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "831060",
+        "Tên Bưu cục": "bcvh dx",
+        "Họ và tên người sử dụng": "nguyễn thị út",
+        "Mã HRM": "00222833",
+        "Bộ phận / Phòng ban": "bcp",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BPC-KTVC-BCP-UT",
+        "Loại máy": "Desktop",
+        "Hãng": "Hewlett-Packard",
+        "Model": "HP Pro 3330 MT",
+        "Năm sản xuất": "",
+        "Serial Number": "SGH348TYDM",
+        "CPU": "Intel(R) Core(TM) i3-3240 CPU @ 3.40GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.77.67.64",
+        "MAC Address": "2C:44:FD:21:F4:F3"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "hp - m402d",
+          "serial": "phc3f07675"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "zebra - ds2278",
+          "serial": "21040523700831"
+        }
+      ],
+      "createdAt": "2026-06-12T09:04:48",
+      "updatedAt": "2026-06-12T09:04:48"
     }
   ]
 }
