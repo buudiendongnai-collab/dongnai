@@ -1633,6 +1633,37 @@
       ],
       "createdAt": "2026-06-12T06:34:52",
       "updatedAt": "2026-06-12T06:34:52"
+    },
+    {
+      "id": "97496fe1a38a4da6ae43e9e5af6bafd3",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "816320",
+        "Tên Bưu cục": "BCVH CẨM MỸ",
+        "Họ và tên người sử dụng": "VÕ MINH TOÀN",
+        "Mã HRM": "00018511",
+        "Bộ phận / Phòng ban": "BCVH CẨM MỸ",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-N57D905",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H81M-DS2",
+        "Năm sản xuất": "",
+        "Serial Number": "To be filled by O.E.M.",
+        "CPU": "Intel(R) Core(TM) i3-4170 CPU @ 3.70GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "111 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2013",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.71.104.203",
+        "MAC Address": "40:8D:5C:F4:38:5F"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-12T06:36:38",
+      "updatedAt": "2026-06-12T06:36:38"
     }
   ]
 }
