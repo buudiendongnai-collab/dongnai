@@ -1112,6 +1112,43 @@
       ],
       "createdAt": "2026-06-12T04:33:52",
       "updatedAt": "2026-06-12T04:33:52"
+    },
+    {
+      "id": "75b2653e663d45b4b9f8af5c53151249",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "8157",
+        "Tên Xã": "LA NGÀ",
+        "Mã Bưu cục": "814390",
+        "Tên Bưu cục": "BUU CỤC LA NGÀ",
+        "Họ và tên người sử dụng": "NGUYỄN THỊ HẰNG",
+        "Mã HRM": "00081697",
+        "Bộ phận / Phòng ban": "BUU CỤC LA NGÀ",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-DQ-LN3",
+        "Loại máy": "Desktop",
+        "Hãng": "ASUS",
+        "Model": "All Series",
+        "Năm sản xuất": "",
+        "Serial Number": "System Serial Number",
+        "CPU": "Intel(R) Core(TM) i5-4670 CPU @ 3.40GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2021 - en-us",
+        "Antivirus": "Trellix Endpoint Security, Windows Defender",
+        "IP Address": "10.71.108.3",
+        "MAC Address": "58:11:22:91:5D:33"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T04:36:27",
+      "updatedAt": "2026-06-12T04:36:27"
     }
   ]
 }
