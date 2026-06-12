@@ -3964,6 +3964,43 @@
       ],
       "createdAt": "2026-06-12T08:31:24",
       "updatedAt": "2026-06-12T08:31:24"
+    },
+    {
+      "id": "4baa9c5529bf47b4a6baba1bf13d387b",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "830100",
+        "Tên Bưu cục": "ktt",
+        "Họ và tên người sử dụng": "huy",
+        "Mã HRM": "0000001",
+        "Bộ phận / Phòng ban": "ktt",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BPC-KTVC-8",
+        "Loại máy": "Desktop",
+        "Hãng": "Hewlett-Packard",
+        "Model": "HP Pro 3330 MT",
+        "Năm sản xuất": "",
+        "Serial Number": "SGH348TYDX",
+        "CPU": "Intel(R) Core(TM) i3-3240 CPU @ 3.40GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.77.67.70",
+        "MAC Address": "2C:44:FD:21:F4:EB"
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "Zebra - DS2278",
+          "serial": "24278523705248"
+        }
+      ],
+      "createdAt": "2026-06-12T08:32:54",
+      "updatedAt": "2026-06-12T08:32:54"
     }
   ]
 }
