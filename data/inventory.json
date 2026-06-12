@@ -1988,6 +1988,53 @@
       ],
       "createdAt": "2026-06-12T06:58:02",
       "updatedAt": "2026-06-12T06:58:02"
+    },
+    {
+      "id": "de6f9193ec544cefa91ecd5e53cd497d",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "813200",
+        "Tên Bưu cục": "Bưu điện phường Long Khánh",
+        "Họ và tên người sử dụng": "Phạm Thị Thu Hương",
+        "Mã HRM": "00018365",
+        "Bộ phận / Phòng ban": "Giao dịch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-LK-VP-201",
+        "Loại máy": "HP",
+        "Hãng": "System manufacturer",
+        "Model": "System Product Name",
+        "Năm sản xuất": "",
+        "Serial Number": "System Serial Number",
+        "CPU": "AMD Ryzen 3 3200G with Radeon Vega Graphics",
+        "RAM": "5.9 GB",
+        "Ổ cứng": "226 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Home and Student 2016 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.101.201",
+        "MAC Address": "40:B0:76:D9:AC:5B"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "LBP2900",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Xprinter",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRA",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T07:00:08",
+      "updatedAt": "2026-06-12T07:00:08"
     }
   ]
 }
