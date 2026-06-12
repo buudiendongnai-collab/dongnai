@@ -4703,6 +4703,37 @@
       "attachments": [],
       "createdAt": "2026-06-12T09:15:36",
       "updatedAt": "2026-06-12T09:15:36"
+    },
+    {
+      "id": "125456205bb64db69ebfa9655c863f72",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "810000",
+        "Tên Bưu cục": "Biên Hòa GD",
+        "Họ và tên người sử dụng": "Đinh Thị Mây",
+        "Mã HRM": "00017551",
+        "Bộ phận / Phòng ban": "GDTT Biên Hòa",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BHXH1",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "Vostro 3668",
+        "Năm sản xuất": "",
+        "Serial Number": "CQHB2K2",
+        "CPU": "Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "",
+        "Antivirus": "Trellix Endpoint Security, Windows Defender",
+        "IP Address": "10.71.128.137",
+        "MAC Address": "50:9A:4C:09:B8:09"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-12T09:16:02",
+      "updatedAt": "2026-06-12T09:16:02"
     }
   ]
 }
