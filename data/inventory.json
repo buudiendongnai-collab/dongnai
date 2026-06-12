@@ -4432,6 +4432,48 @@
       ],
       "createdAt": "2026-06-12T08:55:42",
       "updatedAt": "2026-06-12T08:55:42"
+    },
+    {
+      "id": "0d47c0cb60ff4320b3cd0d785b048e62",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "831060",
+        "Tên Bưu cục": "bcvh dx",
+        "Họ và tên người sử dụng": "huong",
+        "Mã HRM": "00000001",
+        "Bộ phận / Phòng ban": "chia chon",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BPC-BCPDX2",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "Vostro 3667",
+        "Năm sản xuất": "",
+        "Serial Number": "DGS80J2",
+        "CPU": "Intel(R) Core(TM) i3-6100 CPU @ 3.70GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "465 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.77.67.63",
+        "MAC Address": "48:4D:7E:BE:B9:AD"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "brother - hl l2321D",
+          "serial": "e37393m9n977266"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "zebra - zd620",
+          "serial": "22201523424860"
+        }
+      ],
+      "createdAt": "2026-06-12T08:57:46",
+      "updatedAt": "2026-06-12T08:57:46"
     }
   ]
 }
