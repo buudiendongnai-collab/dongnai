@@ -2386,6 +2386,58 @@
       ],
       "createdAt": "2026-06-12T07:21:22",
       "updatedAt": "2026-06-12T07:21:22"
+    },
+    {
+      "id": "55345faad6f748fdb9355a989583b567",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "815300",
+        "Tên Xã": "long thành",
+        "Mã Bưu cục": "815380",
+        "Tên Bưu cục": "bình sơn",
+        "Họ và tên người sử dụng": "lê thị kim hà",
+        "Mã HRM": "00017926",
+        "Bộ phận / Phòng ban": "vhx binh son",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "dell",
+        "Loại máy": "",
+        "Hãng": "dell",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "win 10",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon",
+          "serial": "lbpb030"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "",
+          "serial": "sl41"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "imarcone",
+          "serial": "mc364607787"
+        },
+        {
+          "type": "scanner",
+          "name": "mindeo",
+          "serial": "ve01026746"
+        }
+      ],
+      "createdAt": "2026-06-12T07:23:05",
+      "updatedAt": "2026-06-12T07:23:05"
     }
   ]
 }
