@@ -5110,6 +5110,43 @@
       "attachments": [],
       "createdAt": "2026-06-12T11:25:10",
       "updatedAt": "2026-06-12T11:25:10"
+    },
+    {
+      "id": "af742bd9e81540819b848c8d2df9510c",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "811810",
+        "Tên Bưu cục": "BƯU CỤC TÂN HIỆP",
+        "Họ và tên người sử dụng": "ĐỖ HỒNG THU THỦY",
+        "Mã HRM": "00017597",
+        "Bộ phận / Phòng ban": "NHÂN VIÊN KINH DOANH TẠI ĐIỂM PHỤC VỤ -BƯU CỤC TÂN HIỆP",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-BH-TNH132",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "Vostro 3800",
+        "Năm sản xuất": "",
+        "Serial Number": "2XN3V72",
+        "CPU": "Intel(R) Core(TM) i3-4170 CPU @ 3.70GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "240 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.126.132",
+        "MAC Address": "64:00:6A:18:49:0F"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON LPB2900",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T11:32:30",
+      "updatedAt": "2026-06-12T11:32:30"
     }
   ]
 }
