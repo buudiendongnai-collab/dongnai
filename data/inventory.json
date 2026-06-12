@@ -2480,6 +2480,37 @@
       ],
       "createdAt": "2026-06-12T07:25:50",
       "updatedAt": "2026-06-12T07:25:50"
+    },
+    {
+      "id": "b10537f182734dcb85abf24ee701580c",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "812690",
+        "Tên Bưu cục": "KCN BIÊN HÒA GD",
+        "Họ và tên người sử dụng": "NGUYỄN THỊ THANH THÙY",
+        "Mã HRM": "00017666",
+        "Bộ phận / Phòng ban": "GIAO DỊCH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "Compaq",
+        "Loại máy": "F191",
+        "Hãng": "",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-06-12T07:26:23",
+      "updatedAt": "2026-06-12T07:26:23"
     }
   ]
 }
