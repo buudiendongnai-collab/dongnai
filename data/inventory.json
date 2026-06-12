@@ -4201,6 +4201,43 @@
       ],
       "createdAt": "2026-06-12T08:43:43",
       "updatedAt": "2026-06-12T08:43:43"
+    },
+    {
+      "id": "39849a8d20dd4cf0afde179e4e5648c3",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "830100",
+        "Tên Bưu cục": "ktt",
+        "Họ và tên người sử dụng": "huy",
+        "Mã HRM": "0000001",
+        "Bộ phận / Phòng ban": "giao nhan",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BPC-KTVC-1",
+        "Loại máy": "Desktop",
+        "Hãng": "To Be Filled By O.E.M.",
+        "Model": "To Be Filled By O.E.M.",
+        "Năm sản xuất": "",
+        "Serial Number": "To Be Filled By O.E.M.",
+        "CPU": "Intel(R) Core(TM) i3-4170 CPU @ 3.70GHz",
+        "RAM": "3.7 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.77.67.66",
+        "MAC Address": "70:85:C2:04:54:CA"
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "Zebra - Ds2278",
+          "serial": "21040523700830"
+        }
+      ],
+      "createdAt": "2026-06-12T08:46:50",
+      "updatedAt": "2026-06-12T08:46:50"
     }
   ]
 }
