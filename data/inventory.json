@@ -3740,41 +3740,35 @@
       "updatedAt": "2026-06-12T08:14:54"
     },
     {
-      "id": "52e724a3e51f4fa192c473bd848c34ff",
+      "id": "1c4c59627a1a44148f33f43f0241d5f9",
       "category": "3. Máy Tính",
       "fields": {
         "Mã BĐ Xã": "",
         "Tên Xã": "",
-        "Mã Bưu cục": "812970",
-        "Tên Bưu cục": "BƯU CỤC HÓA AN",
-        "Họ và tên người sử dụng": "DƯƠNG THỊ ANH ĐÀO",
-        "Mã HRM": "00017795",
-        "Bộ phận / Phòng ban": "GIAO DỊCH VIÊN",
+        "Mã Bưu cục": "",
+        "Tên Bưu cục": "",
+        "Họ và tên người sử dụng": "",
+        "Mã HRM": "",
+        "Bộ phận / Phòng ban": "",
         "Mã vật tư": "",
-        "Tên máy (Hostname)": "DNI-BH-HAN3",
-        "Loại máy": "Desktop",
-        "Hãng": "Hewlett-Packard",
-        "Model": "500-315x",
-        "Năm sản xuất": "1",
-        "Serial Number": "4CE4410J33",
-        "CPU": "Intel(R) Core(TM) i3-4150 CPU @ 3.50GHz",
-        "RAM": "3.9 GB",
-        "Ổ cứng": "165 GB",
-        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
-        "Office": "Microsoft Office Professional 2019 - en-us",
-        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
-        "IP Address": "10.71.161.3",
-        "MAC Address": "60:02:92:1E:A1:AE"
+        "Tên máy (Hostname)": "",
+        "Loại máy": "",
+        "Hãng": "",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
       },
-      "attachments": [
-        {
-          "type": "laser_printer",
-          "name": "cannon lpb 243dw",
-          "serial": ""
-        }
-      ],
-      "createdAt": "2026-06-12T08:19:33",
-      "updatedAt": "2026-06-12T08:19:33"
+      "attachments": [],
+      "createdAt": "2026-06-12T08:19:35",
+      "updatedAt": "2026-06-12T08:19:35"
     }
   ]
 }
