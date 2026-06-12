@@ -4734,6 +4734,53 @@
       "attachments": [],
       "createdAt": "2026-06-12T09:16:02",
       "updatedAt": "2026-06-12T09:16:02"
+    },
+    {
+      "id": "092227b8bf0b42e5a0b6d097d5d958c4",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "815530",
+        "Tên Bưu cục": "bưu cục phước tân",
+        "Họ và tên người sử dụng": "nguyễn thị huyền",
+        "Mã HRM": "00017703",
+        "Bộ phận / Phòng ban": "bưu điện phường trấn biên",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-BH-PT4",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Slimline Desktop PC 270-p0xx",
+        "Năm sản xuất": "",
+        "Serial Number": "CNV8130G67",
+        "CPU": "Intel(R) Core(TM) i3-7100T CPU @ 3.40GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "113 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "ESET Security, Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.124.4",
+        "MAC Address": "80:CE:62:EE:B7:DF"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon L11121E",
+          "serial": "1"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "xprinter",
+          "serial": "1"
+        },
+        {
+          "type": "scanner",
+          "name": "honeywell",
+          "serial": "1"
+        }
+      ],
+      "createdAt": "2026-06-12T09:29:58",
+      "updatedAt": "2026-06-12T09:29:58"
     }
   ]
 }
