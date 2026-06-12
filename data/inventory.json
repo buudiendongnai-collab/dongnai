@@ -5048,6 +5048,37 @@
       ],
       "createdAt": "2026-06-12T09:54:48",
       "updatedAt": "2026-06-12T09:54:48"
+    },
+    {
+      "id": "52f7f4296c924fca85b39bd6c4f765d0",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "811430",
+        "Tên Bưu cục": "BƯU CỤC TAM HIỆP",
+        "Họ và tên người sử dụng": "LÊ THỊ THANH HUYỀN",
+        "Mã HRM": "00227643",
+        "Bộ phận / Phòng ban": "NHÂN VIÊN KINH DOANH TẠI ĐIỂM",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-BH-TMH140",
+        "Loại máy": "desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "optiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "4GB",
+        "Ổ cứng": "500GB",
+        "Hệ điều hành": "Win 110 pro",
+        "Office": "2019",
+        "Antivirus": "kasperkey endpoind",
+        "IP Address": "10.71.127.140",
+        "MAC Address": "B8-85-84-A8-E3-E8"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-12T11:06:31",
+      "updatedAt": "2026-06-12T11:06:31"
     }
   ]
 }
