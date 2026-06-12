@@ -2239,6 +2239,48 @@
       "attachments": [],
       "createdAt": "2026-06-12T07:12:07",
       "updatedAt": "2026-06-12T07:12:07"
+    },
+    {
+      "id": "7b2dd5b3ec7e4d53b35fc5527105d174",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "813200",
+        "Tên Bưu cục": "LONG KHÁNH",
+        "Họ và tên người sử dụng": "TRẦN VŨ THỤY HUỲNH KHANG",
+        "Mã HRM": "0018384",
+        "Bộ phận / Phòng ban": "HCC P LONG KHÁNH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BS01-1CUALK",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP 280 G3 MT",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE731392C",
+        "CPU": "Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "472 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19043",
+        "Office": "Microsoft Office Professional Plus 2016 - en-us",
+        "Antivirus": "CyRadar Endpoint Detection and Response, CyRadar Endpoint Detection and Response, Windows Defender, Kaspersky Anti‑Virus",
+        "IP Address": "10.175.109.48",
+        "MAC Address": "40:B0:34:1B:DB:58"
+      },
+      "attachments": [
+        {
+          "type": "photocopier",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T07:13:20",
+      "updatedAt": "2026-06-12T07:13:20"
     }
   ]
 }
