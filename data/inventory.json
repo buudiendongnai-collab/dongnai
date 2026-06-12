@@ -1758,6 +1758,37 @@
       ],
       "createdAt": "2026-06-12T06:41:08",
       "updatedAt": "2026-06-12T06:41:08"
+    },
+    {
+      "id": "366309ce068646b6b5f7e3ee9e989857",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "811820",
+        "Tên Bưu cục": "HỐ NAI",
+        "Họ và tên người sử dụng": "LÊ THỊ HẰNG",
+        "Mã HRM": "00017582",
+        "Bộ phận / Phòng ban": "BƯU CỤC HỐ NAI",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-BH-HN194",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "Vostro 3800",
+        "Năm sản xuất": "",
+        "Serial Number": "2WQ2V72",
+        "CPU": "Intel(R) Core(TM) i3-4170 CPU @ 3.70GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "705 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.126.194",
+        "MAC Address": "64:00:6A:18:20:0A"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-12T06:44:42",
+      "updatedAt": "2026-06-12T06:44:42"
     }
   ]
 }
