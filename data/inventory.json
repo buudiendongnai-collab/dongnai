@@ -1664,6 +1664,53 @@
       "attachments": [],
       "createdAt": "2026-06-12T06:36:38",
       "updatedAt": "2026-06-12T06:36:38"
+    },
+    {
+      "id": "d3ccb4a2a166489f80bd40942eb2213d",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "814010",
+        "Tên Bưu cục": "vhx suối cát xuân lộc đồng nai",
+        "Họ và tên người sử dụng": "trần thị thanh",
+        "Mã HRM": "00018495",
+        "Bộ phận / Phòng ban": "nhân viên kinh doanh tại điểm phục vụ",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "hp",
+        "Loại máy": "",
+        "Hãng": "",
+        "Model": "HP ProDesk 600 G5 Desktop Mini",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC01132P4",
+        "CPU": "Intel(R) Core(TM) i3-9100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "239 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.8",
+        "MAC Address": "38:22:E2:18:8B:A1"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "máy in canon LBP2900",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "HPRT",
+          "serial": ""
+        },
+        {
+          "type": "scanner",
+          "name": "symbol",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T06:41:42",
+      "updatedAt": "2026-06-12T06:41:42"
     }
   ]
 }
