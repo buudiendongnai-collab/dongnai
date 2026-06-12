@@ -4474,6 +4474,37 @@
       ],
       "createdAt": "2026-06-12T08:57:46",
       "updatedAt": "2026-06-12T08:57:46"
+    },
+    {
+      "id": "9ba8c8b5b0f140beb9171c512286309a",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "831060",
+        "Tên Bưu cục": "bcvh dx",
+        "Họ và tên người sử dụng": "huong",
+        "Mã HRM": "0000000",
+        "Bộ phận / Phòng ban": "chia chon",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BPC-BCPDX-1",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "Vostro 3670",
+        "Năm sản xuất": "",
+        "Serial Number": "4PBN6Q2",
+        "CPU": "Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "118 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.77.67.53",
+        "MAC Address": "8C:EC:4B:73:F8:02"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-12T08:58:28",
+      "updatedAt": "2026-06-12T08:58:28"
     }
   ]
 }
