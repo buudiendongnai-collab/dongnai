@@ -3425,6 +3425,43 @@
       ],
       "createdAt": "2026-06-12T08:05:19",
       "updatedAt": "2026-06-12T08:05:19"
+    },
+    {
+      "id": "7cde4f44046c495a86e0b7b3bc47abc4",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "8164070",
+        "Tên Bưu cục": "VHX QUẢNG TIẾN",
+        "Họ và tên người sử dụng": "LÊ THỊ THU THỦY",
+        "Mã HRM": "00018120",
+        "Bộ phận / Phòng ban": ".",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DELL",
+        "Loại máy": "",
+        "Hãng": "",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "Honeywell",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T08:05:40",
+      "updatedAt": "2026-06-12T08:05:40"
     }
   ]
 }
