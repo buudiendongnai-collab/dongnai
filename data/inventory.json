@@ -3225,6 +3225,48 @@
       ],
       "createdAt": "2026-06-12T07:52:22",
       "updatedAt": "2026-06-12T07:52:22"
+    },
+    {
+      "id": "01c89ceaf2f44a45bd78b9f8fc4f9fab",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "811980",
+        "Tên Bưu cục": "TRẢNG DÀI",
+        "Họ và tên người sử dụng": "PHẠM THỊ MỸ HƯƠNG",
+        "Mã HRM": "00017592",
+        "Bộ phận / Phòng ban": "GIAO DỊCH VIÊN",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI_BH_TD71",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3070",
+        "Năm sản xuất": "",
+        "Serial Number": "FZNX033",
+        "CPU": "Intel(R) Core(TM) i3-9100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "113 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.127.71",
+        "MAC Address": "A4:BB:6D:A4:8B:7F"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "ZEBRA ZD620",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "HONEYWELL, SYMBOL",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T07:59:41",
+      "updatedAt": "2026-06-12T07:59:41"
     }
   ]
 }
