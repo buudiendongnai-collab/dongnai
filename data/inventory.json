@@ -2668,6 +2668,37 @@
       "attachments": [],
       "createdAt": "2026-06-12T07:33:45",
       "updatedAt": "2026-06-12T07:33:45"
+    },
+    {
+      "id": "df8e4b0d05494b0b8521dac0a8bd0dca",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "810000",
+        "Tên Bưu cục": "BƯU ĐIỆN BIÊN HOA",
+        "Họ và tên người sử dụng": "LÊ MINH PHƯƠNG",
+        "Mã HRM": "00017449",
+        "Bộ phận / Phòng ban": "BƯU ĐIỆN BIÊN HOA",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-BH-KT220",
+        "Loại máy": "Desktop",
+        "Hãng": "ASUS",
+        "Model": "All Series",
+        "Năm sản xuất": "",
+        "Serial Number": "System Serial Number",
+        "CPU": "Intel(R) Core(TM) i5-4690 CPU @ 3.50GHz",
+        "RAM": "15,9 GB",
+        "Ổ cứng": "471 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.148.220",
+        "MAC Address": "78:24:AF:C2:24:AE"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-12T07:34:24",
+      "updatedAt": "2026-06-12T07:34:24"
     }
   ]
 }
