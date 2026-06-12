@@ -1228,6 +1228,48 @@
       ],
       "createdAt": "2026-06-12T04:39:06",
       "updatedAt": "2026-06-12T04:39:06"
+    },
+    {
+      "id": "df6b8c7e694747f2af86741e955216b8",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "812270",
+        "Tên Bưu cục": "TMDT",
+        "Họ và tên người sử dụng": "TRẦN THỊ KIM OANH",
+        "Mã HRM": "XX",
+        "Bộ phận / Phòng ban": "TMDT",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-BH-TM144",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "GFZBH32",
+        "CPU": "Intel(R) Core(TM) i3-4150T CPU @ 3.00GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.154.144",
+        "MAC Address": "F8:BC:12:A5:7E:C8"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "XPRINT",
+          "serial": "s420buh236210717"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRA",
+          "serial": "DS22091215645"
+        }
+      ],
+      "createdAt": "2026-06-12T04:41:30",
+      "updatedAt": "2026-06-12T04:41:30"
     }
   ]
 }
