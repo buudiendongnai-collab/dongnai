@@ -292,6 +292,37 @@
       ],
       "createdAt": "2026-06-12T04:05:15",
       "updatedAt": "2026-06-12T04:05:15"
+    },
+    {
+      "id": "66d1fc72e2e14b7f89f3d3727c123026",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "812270",
+        "Tên Bưu cục": "TMDT",
+        "Họ và tên người sử dụng": "PHẠM THỊ THUỲ LINH",
+        "Mã HRM": "00017485",
+        "Bộ phận / Phòng ban": "TMDT",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BH-TMDT-152",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3046",
+        "Năm sản xuất": "",
+        "Serial Number": "GC6H2K2",
+        "CPU": "Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz",
+        "RAM": "11.9 GB",
+        "Ổ cứng": "447 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.71.128.152",
+        "MAC Address": "50:9A:4C:0F:57:96"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-12T04:05:57",
+      "updatedAt": "2026-06-12T04:05:57"
     }
   ]
 }
