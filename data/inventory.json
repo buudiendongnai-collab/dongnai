@@ -729,6 +729,38 @@
       "attachments": [],
       "createdAt": "2026-06-12T04:17:53",
       "updatedAt": "2026-06-12T04:17:53"
+    },
+    {
+      "id": "529c22ee2a0b461fbccf83b3a71432a7",
+      "category": "7. Cân Điện Tử",
+      "fields": {
+        "Mã Tỉnh": "",
+        "Tên Tỉnh": "",
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "815400",
+        "Tên Bưu cục": "VHX BÌNH AN",
+        "Họ và tên người sử dụng": "HUỲNH THỊ CẨM NHUNG",
+        "Mã HRM": "00017930",
+        "Bộ phận / Phòng ban": "VHX BÌNH AN",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "VMC-TTS",
+        "Loại cân (Cân bàn/Cân bưu kiện...)": "",
+        "Hãng sản xuất": "",
+        "Model": "",
+        "Tải trọng tối đa (vd: 30kg, 100kg)": "",
+        "Serial Number": "",
+        "Năm sản xuất": "",
+        "Ngày kiểm định gần nhất": "",
+        "Thời hạn kiểm định tiếp theo": "",
+        "Vị trí lắp đặt/Sử dụng": "",
+        "Tình trạng hoạt động": "",
+        "Ghi chú": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-06-12T04:18:15",
+      "updatedAt": "2026-06-12T04:18:15"
     }
   ]
 }
