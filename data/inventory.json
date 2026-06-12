@@ -3462,6 +3462,37 @@
       ],
       "createdAt": "2026-06-12T08:05:40",
       "updatedAt": "2026-06-12T08:05:40"
+    },
+    {
+      "id": "0518defab6514c78b107544be13753f3",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "815460",
+        "Tên Bưu cục": "Bưu Cục Tam Phước",
+        "Họ và tên người sử dụng": "Thái Văn Thừa",
+        "Mã HRM": "00017665",
+        "Bộ phận / Phòng ban": "Bưu Điện Phường Tam Phước",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-BH-TMPHUOC6",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "B2FM862",
+        "CPU": "Intel(R) Core(TM) i3-4160T CPU @ 3.10GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "495 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows, 360 Total Security",
+        "IP Address": "10.71.159.34",
+        "MAC Address": "64:00:6A:09:4D:45"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-12T08:06:33",
+      "updatedAt": "2026-06-12T08:06:33"
     }
   ]
 }
