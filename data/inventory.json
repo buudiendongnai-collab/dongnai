@@ -2124,6 +2124,48 @@
       ],
       "createdAt": "2026-06-12T07:05:42",
       "updatedAt": "2026-06-12T07:05:42"
+    },
+    {
+      "id": "c13dcde847d742498738b37ee0a3b583",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "Bưu Điện Phường Dầu Giây",
+        "Mã Bưu cục": "813700",
+        "Tên Bưu cục": "Bưu Cục Thống Nhất",
+        "Họ và tên người sử dụng": "Hoàng Nhã",
+        "Mã HRM": "00018309",
+        "Bộ phận / Phòng ban": "Nhân viên HCC",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-TRRETBJ",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H510M H",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Core(TM) i3-10105 CPU @ 3.70GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "345 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise LTSC 10.0.19043",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.20.30",
+        "MAC Address": "D8:5E:D3:DB:0A:7F"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon 2900",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T07:09:23",
+      "updatedAt": "2026-06-12T07:09:23"
     }
   ]
 }
