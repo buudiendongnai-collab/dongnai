@@ -2438,6 +2438,48 @@
       ],
       "createdAt": "2026-06-12T07:23:05",
       "updatedAt": "2026-06-12T07:23:05"
+    },
+    {
+      "id": "382cc052c11846d98b71807085672c23",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "812610",
+        "Tên Bưu cục": "CHỢ ĐỒN",
+        "Họ và tên người sử dụng": "LÊ DƯƠNG VY THẢO",
+        "Mã HRM": "00017560",
+        "Bộ phận / Phòng ban": "BƯU CỤC CẤP 3",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-BH-CD66",
+        "Loại máy": "Desktop",
+        "Hãng": "Hewlett-Packard",
+        "Model": "500-315x",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE44603VF",
+        "CPU": "Intel(R) Core(TM) i3-4150 CPU @ 3.50GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "225 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.125.66",
+        "MAC Address": "60:02:92:22:5E:94"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "HONEYWELL",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T07:25:50",
+      "updatedAt": "2026-06-12T07:25:50"
     }
   ]
 }
