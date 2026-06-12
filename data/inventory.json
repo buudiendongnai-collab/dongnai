@@ -609,6 +609,53 @@
       "attachments": [],
       "createdAt": "2026-06-12T04:16:09",
       "updatedAt": "2026-06-12T04:16:09"
+    },
+    {
+      "id": "9caa3c35eefc46d0b81de693ee1d7cfe",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "816440",
+        "Tên Bưu cục": "BẮC SƠN",
+        "Họ và tên người sử dụng": "PHẠM THỊ HOÀNG",
+        "Mã HRM": "00018151",
+        "Bộ phận / Phòng ban": "KINH DOANH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-TB-BS132",
+        "Loại máy": "Desktop",
+        "Hãng": "Micro-Star International Co., Ltd.",
+        "Model": "MS-7C89",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "113 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.71.121.132",
+        "MAC Address": "2C:F0:5D:61:4F:B5"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON LBP2900",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "ZEBRA - ZD620",
+          "serial": "D3J91201762"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRA - DS22",
+          "serial": "19123523400712"
+        }
+      ],
+      "createdAt": "2026-06-12T04:16:24",
+      "updatedAt": "2026-06-12T04:16:24"
     }
   ]
 }
