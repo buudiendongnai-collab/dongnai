@@ -219,6 +219,37 @@
       ],
       "createdAt": "2026-06-12T04:01:33",
       "updatedAt": "2026-06-12T04:01:33"
+    },
+    {
+      "id": "b7eb5411cb524bd7a452cb29c5b935a0",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "810000",
+        "Tên Bưu cục": "BƯU ĐIÊN PHƯỜNG TRẤN BIÊN",
+        "Họ và tên người sử dụng": "HỒ KIM HẠNH",
+        "Mã HRM": "00017473",
+        "Bộ phận / Phòng ban": "BƯU ĐIÊN PHƯỜNG TRẤN BIÊN",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-KD-HA110",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H510M H",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.16299",
+        "Office": "Microsoft Office Professional 2019 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.149.114",
+        "MAC Address": "74:56:3C:90:C8:9A"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-12T04:03:30",
+      "updatedAt": "2026-06-12T04:03:30"
     }
   ]
 }
