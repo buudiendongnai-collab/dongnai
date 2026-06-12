@@ -4944,6 +4944,37 @@
       ],
       "createdAt": "2026-06-12T09:48:21",
       "updatedAt": "2026-06-12T09:48:21"
+    },
+    {
+      "id": "b657f805e75a4efcac6ab8264d33e8a2",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "8124",
+        "Tên Bưu cục": "bưu cục bảo vinh",
+        "Họ và tên người sử dụng": "phạm thị thu hà",
+        "Mã HRM": "00018368",
+        "Bộ phận / Phòng ban": "bưu cục bảo vinh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-LK-BCP-239",
+        "Loại máy": "Desktop",
+        "Hãng": "ASUS",
+        "Model": "All Series",
+        "Năm sản xuất": "",
+        "Serial Number": "System Serial Number",
+        "CPU": "Intel(R) Celeron(R) CPU G1840 @ 2.80GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "465 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.14393",
+        "Office": "Microsoft Office Office 64-bit Components 2007",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.123.55",
+        "MAC Address": "70:8B:CD:9E:71:FE"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-12T09:49:01",
+      "updatedAt": "2026-06-12T09:49:01"
     }
   ]
 }
