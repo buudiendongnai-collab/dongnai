@@ -4317,6 +4317,37 @@
       ],
       "createdAt": "2026-06-12T08:48:14",
       "updatedAt": "2026-06-12T08:48:14"
+    },
+    {
+      "id": "11b601c3ab6940c19fb4536358b9f65f",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "8126",
+        "Tên Bưu cục": "KCN BIÊN HÒA GD",
+        "Họ và tên người sử dụng": "NGUYỄN THỊ THANH THÙY",
+        "Mã HRM": "00017666",
+        "Bộ phận / Phòng ban": "GIAO DỊCH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-BH-KCN137",
+        "Loại máy": "Desktop",
+        "Hãng": "Hewlett-Packard",
+        "Model": "500-315x",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE43607SR",
+        "CPU": "Intel(R) Core(TM) i3-4150 CPU @ 3.50GHz",
+        "RAM": "9.9 GB",
+        "Ổ cứng": "235 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.200.38.105",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-12T08:51:27",
+      "updatedAt": "2026-06-12T08:51:27"
     }
   ]
 }
