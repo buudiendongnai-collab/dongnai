@@ -1711,6 +1711,53 @@
       ],
       "createdAt": "2026-06-12T06:41:42",
       "updatedAt": "2026-06-12T06:41:42"
+    },
+    {
+      "id": "b5b5d0568b6846b3af13e5f0af63276f",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "8136",
+        "Tên Xã": "xuân hòa",
+        "Mã Bưu cục": "813920",
+        "Tên Bưu cục": "xuân tâm",
+        "Họ và tên người sử dụng": "hà thị hồng",
+        "Mã HRM": "00069939",
+        "Bộ phận / Phòng ban": "sản xuất",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-SM9BQMT",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "GB20TR2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Professional 2019 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.106.90",
+        "MAC Address": "B8:85:84:A8:C8:5A"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "cannon 2900",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "zdsigner zd620",
+          "serial": ""
+        },
+        {
+          "type": "scanner",
+          "name": "symbol",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T06:41:08",
+      "updatedAt": "2026-06-12T06:41:08"
     }
   ]
 }
