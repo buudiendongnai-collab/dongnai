@@ -4122,6 +4122,43 @@
       ],
       "createdAt": "2026-06-12T08:37:50",
       "updatedAt": "2026-06-12T08:37:50"
+    },
+    {
+      "id": "778b5070ba0647929636abad2556ef36",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "830100",
+        "Tên Bưu cục": "ktt",
+        "Họ và tên người sử dụng": "huy",
+        "Mã HRM": "0000001",
+        "Bộ phận / Phòng ban": "ktt",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BPC-KTVC-5",
+        "Loại máy": "Desktop",
+        "Hãng": "ASUS",
+        "Model": "All Series",
+        "Năm sản xuất": "",
+        "Serial Number": "System Serial Number",
+        "CPU": "Intel(R) Core(TM) i3-4160 CPU @ 3.60GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19042",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.77.67.12",
+        "MAC Address": "58:11:22:C9:53:B4"
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "Zebra -Ds2278",
+          "serial": "18151523400304"
+        }
+      ],
+      "createdAt": "2026-06-12T08:39:46",
+      "updatedAt": "2026-06-12T08:39:46"
     }
   ]
 }
