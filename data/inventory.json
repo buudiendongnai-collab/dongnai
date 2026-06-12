@@ -4238,6 +4238,43 @@
       ],
       "createdAt": "2026-06-12T08:46:50",
       "updatedAt": "2026-06-12T08:46:50"
+    },
+    {
+      "id": "99f86a7165214489acef5d79be672c64",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "815580",
+        "Tên Xã": "",
+        "Mã Bưu cục": "815650",
+        "Tên Bưu cục": "HCVH",
+        "Họ và tên người sử dụng": "Hoàng Thị Nhâm",
+        "Mã HRM": "00017889",
+        "Bộ phận / Phòng ban": "BCVH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-LT-PT7",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "BLXBH32",
+        "CPU": "Intel(R) Core(TM) i3-4150T CPU @ 3.00GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise LTSC 10.0.17763",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.119.29",
+        "MAC Address": "F8:BC:12:A2:D4:BC"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T08:48:03",
+      "updatedAt": "2026-06-12T08:48:03"
     }
   ]
 }
