@@ -578,6 +578,37 @@
       "attachments": [],
       "createdAt": "2026-06-12T04:14:55",
       "updatedAt": "2026-06-12T04:14:55"
+    },
+    {
+      "id": "624126c889fc45e782a6ed691ba8b3b7",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "812270",
+        "Tên Bưu cục": "TMDT",
+        "Họ và tên người sử dụng": "NGUYỄN THỊ THÚY HOA",
+        "Mã HRM": "00263364",
+        "Bộ phận / Phòng ban": "TMDT",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-BH-TMDT39",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC52214QN",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2019 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.128.39",
+        "MAC Address": "10:B6:76:9E:1F:C2"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-12T04:16:09",
+      "updatedAt": "2026-06-12T04:16:09"
     }
   ]
 }
