@@ -907,6 +907,43 @@
       ],
       "createdAt": "2026-06-12T04:22:51",
       "updatedAt": "2026-06-12T04:22:51"
+    },
+    {
+      "id": "5b7491ae902f44f980cb2d982419dc55",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "BC SÔNG RAY",
+        "Tên Xã": "SÔNG RAY - XUÂN ĐÔNG",
+        "Mã Bưu cục": "816130",
+        "Tên Bưu cục": "BC SÔNG RAY",
+        "Họ và tên người sử dụng": "LÊ THỊ HỒNG HƠN",
+        "Mã HRM": "00018537",
+        "Bộ phận / Phòng ban": "NHÂN VIÊN KINH DOANH TẠI ĐIỂM BÁN",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-CM-SRAY52",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H81M-DS2",
+        "Năm sản xuất": "",
+        "Serial Number": "To be filled by O.E.M.",
+        "CPU": "Intel(R) Pentium(R) CPU G3260 @ 3.30GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "346 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.200.38.4",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T04:24:26",
+      "updatedAt": "2026-06-12T04:24:26"
     }
   ]
 }
