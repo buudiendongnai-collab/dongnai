@@ -944,6 +944,48 @@
       ],
       "createdAt": "2026-06-12T04:24:26",
       "updatedAt": "2026-06-12T04:24:26"
+    },
+    {
+      "id": "41bede21334f4f5aaf5c48dabba794b3",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "812270",
+        "Tên Bưu cục": "tmdt",
+        "Họ và tên người sử dụng": "NGUYỄN HUY HOÀNG",
+        "Mã HRM": "XX",
+        "Bộ phận / Phòng ban": "tmdt",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI_BH_TM170",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "GBN0TR2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.154.170",
+        "MAC Address": "B8:85:84:A6:C5:D4"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "ZEBRA",
+          "serial": "D0J210503949"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "zEBRA",
+          "serial": "G24B20051"
+        }
+      ],
+      "createdAt": "2026-06-12T04:26:28",
+      "updatedAt": "2026-06-12T04:26:28"
     }
   ]
 }
