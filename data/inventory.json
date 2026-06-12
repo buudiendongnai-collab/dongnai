@@ -1433,6 +1433,43 @@
       ],
       "createdAt": "2026-06-12T06:20:08",
       "updatedAt": "2026-06-12T06:20:08"
+    },
+    {
+      "id": "2572ce85ff9147a8b08fcc77c70678bc",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "811240",
+        "Tên Bưu cục": "BCVHBH1",
+        "Họ và tên người sử dụng": "NGUYỄN THỊ THÙY TRANG",
+        "Mã HRM": "00105249",
+        "Bộ phận / Phòng ban": "BCVHBH1",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI_TTP_P131",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP 280 G2 MT",
+        "Năm sản xuất": "",
+        "Serial Number": "SGH721Q3T7",
+        "CPU": "Intel(R) Core(TM) i3-6100 CPU @ 3.70GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "111 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "ESET Security, Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.154.31",
+        "MAC Address": "A0:8C:FD:F3:E5:46"
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRA",
+          "serial": "18159523400065"
+        }
+      ],
+      "createdAt": "2026-06-12T06:22:26",
+      "updatedAt": "2026-06-12T06:22:26"
     }
   ]
 }
