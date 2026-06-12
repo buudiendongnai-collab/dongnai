@@ -1270,6 +1270,48 @@
       ],
       "createdAt": "2026-06-12T04:41:30",
       "updatedAt": "2026-06-12T04:41:30"
+    },
+    {
+      "id": "495e84c3726549758775332295587b89",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "812270",
+        "Tên Bưu cục": "tmdt",
+        "Họ và tên người sử dụng": "LÊ NGUYỄN ANH TUẤN",
+        "Mã HRM": "XX",
+        "Bộ phận / Phòng ban": "tmdt",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-BH-TM213",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H510M H V2",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Core(TM) i3-10105 CPU @ 3.70GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft 365 Apps for enterprise - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.154.213",
+        "MAC Address": "74:56:3C:8E:62:C3"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "XPRINT",
+          "serial": "420blh235060050"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRA",
+          "serial": "22164523070035"
+        }
+      ],
+      "createdAt": "2026-06-12T04:44:36",
+      "updatedAt": "2026-06-12T04:44:36"
     }
   ]
 }
