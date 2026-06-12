@@ -4897,6 +4897,53 @@
       ],
       "createdAt": "2026-06-12T09:45:11",
       "updatedAt": "2026-06-12T09:45:11"
+    },
+    {
+      "id": "6aa544f5366246d6813e870ba33e7c50",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "813290",
+        "Tên Bưu cục": "bưu cục vận hành long khánh",
+        "Họ và tên người sử dụng": "nguyễn tấn thọ",
+        "Mã HRM": "00277301",
+        "Bộ phận / Phòng ban": "bưu cục vận hành",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-LK-BCP-16",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC52214NX",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2019 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.101.16",
+        "MAC Address": "10:B6:76:9E:1E:AA"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "scanner",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T09:48:21",
+      "updatedAt": "2026-06-12T09:48:21"
     }
   ]
 }
