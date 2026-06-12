@@ -1149,6 +1149,48 @@
       ],
       "createdAt": "2026-06-12T04:36:27",
       "updatedAt": "2026-06-12T04:36:27"
+    },
+    {
+      "id": "8ba11564fabd4bc3b8b2966752686bb0",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "812270",
+        "Tên Bưu cục": "TMDT",
+        "Họ và tên người sử dụng": "NGUYỄN HUY HOÀNG",
+        "Mã HRM": "XX",
+        "Bộ phận / Phòng ban": "TMDT",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-BH-TM98",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "GCM0TR2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.154.98",
+        "MAC Address": "B8:85:84:A6:C5:B5"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "HONEY WELL",
+          "serial": "PC45D000000200"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "HONEY WELL",
+          "serial": "22069838AB"
+        }
+      ],
+      "createdAt": "2026-06-12T04:37:33",
+      "updatedAt": "2026-06-12T04:37:33"
     }
   ]
 }
