@@ -3566,6 +3566,37 @@
       "attachments": [],
       "createdAt": "2026-06-12T08:10:02",
       "updatedAt": "2026-06-12T08:10:02"
+    },
+    {
+      "id": "2b7cd342e19848b08eec2f1663abce16",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "81000",
+        "Tên Bưu cục": "GDTT BIÊN HÒA",
+        "Họ và tên người sử dụng": "NGUYỄN NHƯ TÚ",
+        "Mã HRM": "00017667",
+        "Bộ phận / Phòng ban": "GDTT",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-BH-GD15",
+        "Loại máy": "Desktop",
+        "Hãng": "Hewlett-Packard",
+        "Model": "HP Pro 3330 MT",
+        "Năm sản xuất": "",
+        "Serial Number": "SGH351S7P4",
+        "CPU": "Intel(R) Core(TM) i3-3240 CPU @ 3.40GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.128.15",
+        "MAC Address": "2C:44:FD:21:80:2E"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-12T08:12:39",
+      "updatedAt": "2026-06-12T08:12:39"
     }
   ]
 }
