@@ -4085,6 +4085,43 @@
       ],
       "createdAt": "2026-06-12T08:36:40",
       "updatedAt": "2026-06-12T08:36:40"
+    },
+    {
+      "id": "ab202a9e2fbf47b18178d519f817d79a",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "812970",
+        "Tên Bưu cục": "BƯU CỤC HOÁ AN",
+        "Họ và tên người sử dụng": "LÊ HỒ KIM TUYẾN",
+        "Mã HRM": "00017675",
+        "Bộ phận / Phòng ban": "gdv",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-BH-HA2",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP ProDesk 400 G3 MT",
+        "Năm sản xuất": "",
+        "Serial Number": "SGH643Q14D",
+        "CPU": "Intel(R) Core(TM) i3-6100 CPU @ 3.70GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "240 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional 2019 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.161.2",
+        "MAC Address": "DC:4A:3E:50:36:F3"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON LBP243dw",
+          "serial": "243dw"
+        }
+      ],
+      "createdAt": "2026-06-12T08:37:50",
+      "updatedAt": "2026-06-12T08:37:50"
     }
   ]
 }
