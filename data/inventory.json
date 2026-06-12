@@ -3063,6 +3063,53 @@
       "attachments": [],
       "createdAt": "2026-06-12T07:46:00",
       "updatedAt": "2026-06-12T07:46:00"
+    },
+    {
+      "id": "7ea9a580e4fe4d24a88012e930d8dc1f",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "815580",
+        "Tên Bưu cục": "BCVH LONG THÀNH",
+        "Họ và tên người sử dụng": "ĐẶNG THỊ KIM YẾN",
+        "Mã HRM": "00225083",
+        "Bộ phận / Phòng ban": "BCVH LONG THÀNH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-LT-VP112",
+        "Loại máy": "Desktop",
+        "Hãng": "ASUS",
+        "Model": "System Product Name",
+        "Năm sản xuất": "",
+        "Serial Number": "System Serial Number",
+        "CPU": "Intel(R) Pentium(R) Gold G6405 CPU @ 4.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "111 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.22621",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.120.112",
+        "MAC Address": "58:11:22:8B:AA:2E"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "SL41",
+          "serial": "SL410023410029"
+        },
+        {
+          "type": "photocopier",
+          "name": "RECOH",
+          "serial": "M2941"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Zebra",
+          "serial": "DS22"
+        }
+      ],
+      "createdAt": "2026-06-12T07:46:55",
+      "updatedAt": "2026-06-12T07:46:55"
     }
   ]
 }
