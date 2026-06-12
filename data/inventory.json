@@ -365,6 +365,37 @@
       ],
       "createdAt": "2026-06-12T04:06:24",
       "updatedAt": "2026-06-12T04:06:24"
+    },
+    {
+      "id": "aa0b0bfca6c544dc8f7d2f29a1c466a7",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "812270",
+        "Tên Bưu cục": "TMDT",
+        "Họ và tên người sử dụng": "TRẦN THỊ ANH ĐÀO",
+        "Mã HRM": "XXX",
+        "Bộ phận / Phòng ban": "TMDT",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-BH-VP173",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Slimline Desktop PC 270-p0xx",
+        "Năm sản xuất": "",
+        "Serial Number": "CNV8130G69",
+        "CPU": "Intel(R) Core(TM) i3-7100T CPU @ 3.40GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "252 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home Single Language 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows, ESET Smart Security",
+        "IP Address": "10.71.128.173",
+        "MAC Address": "80:CE:62:EE:B7:F9"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-12T04:07:53",
+      "updatedAt": "2026-06-12T04:07:53"
     }
   ]
 }
