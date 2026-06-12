@@ -5147,6 +5147,37 @@
       ],
       "createdAt": "2026-06-12T11:32:30",
       "updatedAt": "2026-06-12T11:32:30"
+    },
+    {
+      "id": "fb9d0a5828fc4c0b812818a0891d88f7",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "8327",
+        "Tên Xã": "Bình Phước",
+        "Mã Bưu cục": "830000",
+        "Tên Bưu cục": "Đồng Xoài",
+        "Họ và tên người sử dụng": "Nguyễn Thị Thanh Thủy",
+        "Mã HRM": "00009761",
+        "Bộ phận / Phòng ban": "Giám đốc",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BPC-TCHC-TP",
+        "Loại máy": "Laptop",
+        "Hãng": "Dell Inc.",
+        "Model": "Latitude 3460",
+        "Năm sản xuất": "",
+        "Serial Number": "240T3C2",
+        "CPU": "Intel(R) Core(TM) i3-5005U CPU @ 2.00GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19043",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.14",
+        "MAC Address": "A2:1E:47:13:82:D9"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-12T15:37:05",
+      "updatedAt": "2026-06-12T15:37:05"
     }
   ]
 }
