@@ -1873,6 +1873,37 @@
       ],
       "createdAt": "2026-06-12T06:51:01",
       "updatedAt": "2026-06-12T06:51:01"
+    },
+    {
+      "id": "a5a2b44e2afc44acaec0e672ea3ce936",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "8130",
+        "Tên Bưu cục": "bưu điện xã cẩm mỹ",
+        "Họ và tên người sử dụng": "Phan thị diễm hương",
+        "Mã HRM": "00018509",
+        "Bộ phận / Phòng ban": "kế toán",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-CM-VP-222",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "B08DH62",
+        "CPU": "Intel(R) Core(TM) i3-4160T CPU @ 3.10GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "112 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office 64-bit Components 2013",
+        "Antivirus": "Trellix Endpoint Security",
+        "IP Address": "10.71.104.119",
+        "MAC Address": "64:00:6A:00:2C:48"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-12T06:55:40",
+      "updatedAt": "2026-06-12T06:55:40"
     }
   ]
 }
