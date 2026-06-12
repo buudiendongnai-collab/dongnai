@@ -1191,6 +1191,43 @@
       ],
       "createdAt": "2026-06-12T04:37:33",
       "updatedAt": "2026-06-12T04:37:33"
+    },
+    {
+      "id": "ff5485ab50bd485b99525bcb95b93098",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "8131",
+        "Tên Xã": "bưu điện Sông Ray - Xuân Đông",
+        "Mã Bưu cục": "816130",
+        "Tên Bưu cục": "BC Sông Ray",
+        "Họ và tên người sử dụng": "Lê Thị Hồng Hơn",
+        "Mã HRM": "00018537",
+        "Bộ phận / Phòng ban": "Nhân viên kinh doanh tại điểm bán",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-CM-SRAY5",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "8DZBH32",
+        "CPU": "Intel(R) Core(TM) i3-4150T CPU @ 3.00GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "114 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2013",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.103.5",
+        "MAC Address": "F8:BC:12:A5:7E:96"
+      },
+      "attachments": [
+        {
+          "type": "scanner",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T04:39:06",
+      "updatedAt": "2026-06-12T04:39:06"
     }
   ]
 }
