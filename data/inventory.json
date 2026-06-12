@@ -2208,6 +2208,37 @@
       ],
       "createdAt": "2026-06-12T07:11:17",
       "updatedAt": "2026-06-12T07:11:17"
+    },
+    {
+      "id": "90f300bfd95542469f46c03561a2d9cb",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "816100",
+        "Tên Bưu cục": "BC Cẩm Mỹ",
+        "Họ và tên người sử dụng": "Trần Thị Ngọc Hà",
+        "Mã HRM": "00018508",
+        "Bộ phận / Phòng ban": "BCVH Cẩm Mỹ",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-CM-KD-208",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "3VV71H2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3,9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2013",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.104.208",
+        "MAC Address": "48:4D:7E:D7:28:0D"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-12T07:12:07",
+      "updatedAt": "2026-06-12T07:12:07"
     }
   ]
 }
