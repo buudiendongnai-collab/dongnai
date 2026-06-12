@@ -4672,6 +4672,37 @@
       "attachments": [],
       "createdAt": "2026-06-12T09:10:44",
       "updatedAt": "2026-06-12T09:10:44"
+    },
+    {
+      "id": "a575de94f347476b97276e1039e5ccf3",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "816320",
+        "Tên Bưu cục": "BCVH CẨM MỸ",
+        "Họ và tên người sử dụng": "NGUYỄN THANH HÙNG",
+        "Mã HRM": "00082005",
+        "Bộ phận / Phòng ban": "BCVH CẨM MỸ",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-CM-NV1",
+        "Loại máy": "Desktop",
+        "Hãng": "ASUS",
+        "Model": "All Series",
+        "Năm sản xuất": "",
+        "Serial Number": "System Serial Number",
+        "CPU": "Intel(R) Core(TM) i3-4150 CPU @ 3.50GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "344 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.104.7",
+        "MAC Address": "38:2C:4A:BB:90:41"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-12T09:15:36",
+      "updatedAt": "2026-06-12T09:15:36"
     }
   ]
 }
