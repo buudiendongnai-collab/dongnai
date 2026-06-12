@@ -2866,6 +2866,37 @@
       ],
       "createdAt": "2026-06-12T07:38:39",
       "updatedAt": "2026-06-12T07:38:39"
+    },
+    {
+      "id": "78d78c09845f441592e43cc101ca4c5b",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "810000",
+        "Tên Bưu cục": "BƯU ĐIỆN BIÊN HÒA",
+        "Họ và tên người sử dụng": "NGUYỄN THỊ KIM YẾN",
+        "Mã HRM": "00017716",
+        "Bộ phận / Phòng ban": "BƯU ĐIỆN BIÊN HÒA",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "YEN-BDTP",
+        "Loại máy": "Desktop",
+        "Hãng": "ASUS",
+        "Model": "All Series",
+        "Năm sản xuất": "",
+        "Serial Number": "System Serial Number",
+        "CPU": "Intel(R) Pentium(R) CPU G3250 @ 3.20GHz",
+        "RAM": "5.9 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional 2019 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.148.86",
+        "MAC Address": "9C:5C:8E:CF:33:76"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-12T07:38:50",
+      "updatedAt": "2026-06-12T07:38:50"
     }
   ]
 }
