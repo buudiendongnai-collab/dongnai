@@ -3267,6 +3267,53 @@
       ],
       "createdAt": "2026-06-12T07:59:41",
       "updatedAt": "2026-06-12T07:59:41"
+    },
+    {
+      "id": "38c53d49ae63476bb90dcc998c8f45aa",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "815580",
+        "Tên Bưu cục": "BCVH LONG THÀNH",
+        "Họ và tên người sử dụng": "PHẠM THỤY YẾN NHI",
+        "Mã HRM": "00018039",
+        "Bộ phận / Phòng ban": "BCVH LONG THÀNH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-LT-VP171",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H81M-DS2",
+        "Năm sản xuất": "",
+        "Serial Number": "To be filled by O.E.M.",
+        "CPU": "Intel(R) Core(TM) i3-4170 CPU @ 3.70GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "111 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.120.171",
+        "MAC Address": "1C:1B:0D:94:C0:AD"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "SL41",
+          "serial": "SL410023410031"
+        },
+        {
+          "type": "photocopier",
+          "name": "RECOR",
+          "serial": "M2941"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "ZEBAR",
+          "serial": "DS22"
+        }
+      ],
+      "createdAt": "2026-06-12T08:02:15",
+      "updatedAt": "2026-06-12T08:02:15"
     }
   ]
 }
