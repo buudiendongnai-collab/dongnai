@@ -4641,6 +4641,37 @@
       ],
       "createdAt": "2026-06-12T09:09:02",
       "updatedAt": "2026-06-12T09:09:02"
+    },
+    {
+      "id": "7590266f9a6846e4a74e505823530222",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "810000",
+        "Tên Bưu cục": "Biên Hòa",
+        "Họ và tên người sử dụng": "Trần Ngọc Diễm",
+        "Mã HRM": "00017556",
+        "Bộ phận / Phòng ban": "GDTT Biên Hòa",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-BH-GD138",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3050",
+        "Năm sản xuất": "",
+        "Serial Number": "DQ45LQ2",
+        "CPU": "Intel(R) Core(TM) i5-7500 CPU @ 3.40GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "117 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional 2019 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.128.48",
+        "MAC Address": "54:BF:64:69:4C:EE"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-12T09:10:44",
+      "updatedAt": "2026-06-12T09:10:44"
     }
   ]
 }
