@@ -761,6 +761,53 @@
       "attachments": [],
       "createdAt": "2026-06-12T04:18:15",
       "updatedAt": "2026-06-12T04:18:15"
+    },
+    {
+      "id": "cd4231ab858b48d68ad9fb228235ae64",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "8157",
+        "Tên Xã": "XÃ  LA NGÀ",
+        "Mã Bưu cục": "814390",
+        "Tên Bưu cục": "BƯU CỤC LA NGÀ",
+        "Họ và tên người sử dụng": "NGUYỄN THỊ HẰNG",
+        "Mã HRM": "00018696",
+        "Bộ phận / Phòng ban": "BƯU CỤC LA NGÀ",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-DQ-LANGA12",
+        "Loại máy": "Desktop",
+        "Hãng": "ASUS",
+        "Model": "All Series",
+        "Năm sản xuất": "",
+        "Serial Number": "System Serial Number",
+        "CPU": "Intel(R) Core(TM) i5-4670 CPU @ 3.40GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "113 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19043",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.108.12",
+        "MAC Address": "50:EB:F6:77:1F:97"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "photocopier",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T04:16:16",
+      "updatedAt": "2026-06-12T04:16:16"
     }
   ]
 }
