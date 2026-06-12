@@ -1596,6 +1596,43 @@
       ],
       "createdAt": "2026-06-12T06:33:05",
       "updatedAt": "2026-06-12T06:33:05"
+    },
+    {
+      "id": "9f0dffb0001f434cac44584cab70c53b",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "811240",
+        "Tên Bưu cục": "BCVHBH1",
+        "Họ và tên người sử dụng": "BUU TA",
+        "Mã HRM": "XX",
+        "Bộ phận / Phòng ban": "BCVHBH1",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-TTP-P127",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "B5ZJ862",
+        "CPU": "Intel(R) Core(TM) i3-4160T CPU @ 3.10GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "58 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.154.27",
+        "MAC Address": "64:00:6A:06:2D:8E"
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "HONEY WELL 1472S",
+          "serial": "22067B6F60"
+        }
+      ],
+      "createdAt": "2026-06-12T06:34:52",
+      "updatedAt": "2026-06-12T06:34:52"
     }
   ]
 }
