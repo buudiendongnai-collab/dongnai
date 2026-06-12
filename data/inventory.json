@@ -2511,6 +2511,53 @@
       "attachments": [],
       "createdAt": "2026-06-12T07:26:23",
       "updatedAt": "2026-06-12T07:26:23"
+    },
+    {
+      "id": "1503ff8f867e41108960e88ab61bdaa2",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "815300",
+        "Tên Xã": "long thành",
+        "Mã Bưu cục": "815380",
+        "Tên Bưu cục": "vhx bình sơn",
+        "Họ và tên người sử dụng": "lê thị kim hà",
+        "Mã HRM": "00017926",
+        "Bộ phận / Phòng ban": "vhx",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-LT-BS130",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "693N8F2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "239 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.118.130",
+        "MAC Address": "18:66:DA:29:38:71"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon",
+          "serial": "3060"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "sl41",
+          "serial": "41"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "win deo",
+          "serial": "md2180"
+        }
+      ],
+      "createdAt": "2026-06-12T07:29:20",
+      "updatedAt": "2026-06-12T07:29:20"
     }
   ]
 }
