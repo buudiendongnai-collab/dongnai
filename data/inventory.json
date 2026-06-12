@@ -1559,6 +1559,43 @@
       ],
       "createdAt": "2026-06-12T06:26:59",
       "updatedAt": "2026-06-12T06:26:59"
+    },
+    {
+      "id": "64248738975b426f9cd014a424d96478",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "811240",
+        "Tên Bưu cục": "BCVHBH1",
+        "Họ và tên người sử dụng": "BUU TÁ",
+        "Mã HRM": "XX",
+        "Bộ phận / Phòng ban": "BCVHBH1",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-TTP-P140",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "GC4YSR2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "111 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.22000",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "ESET Security, ESET Security, Windows Defender, Avast Antivirus, ESET Smart Security",
+        "IP Address": "10.71.154.40",
+        "MAC Address": "B8:85:84:A8:E5:AA"
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "HONEY WELL 1472G",
+          "serial": "22067B6327"
+        }
+      ],
+      "createdAt": "2026-06-12T06:33:05",
+      "updatedAt": "2026-06-12T06:33:05"
     }
   ]
 }
