@@ -516,6 +516,37 @@
       ],
       "createdAt": "2026-06-12T04:12:04",
       "updatedAt": "2026-06-12T04:12:04"
+    },
+    {
+      "id": "b7eb3eadd9cc4ace9a68005d4a3bb2a3",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "812270",
+        "Tên Bưu cục": "TMDT",
+        "Họ và tên người sử dụng": "PHAN NGỌC VÂN",
+        "Mã HRM": "00097609",
+        "Bộ phận / Phòng ban": "TMDT",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-BH-HC232",
+        "Loại máy": "Desktop",
+        "Hãng": "Micro-Star International Co., Ltd.",
+        "Model": "MS-7C09",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Core(TM) i3-9100 CPU @ 3.60GHz",
+        "RAM": "7,9 GB",
+        "Ổ cứng": "188 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "Windows Defender, Avast Antivirus",
+        "IP Address": "10.71.128.232",
+        "MAC Address": "2C:F0:5D:A7:E5:C5"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-12T04:13:12",
+      "updatedAt": "2026-06-12T04:13:12"
     }
   ]
 }
