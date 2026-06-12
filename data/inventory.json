@@ -3890,6 +3890,43 @@
       ],
       "createdAt": "2026-06-12T08:30:33",
       "updatedAt": "2026-06-12T08:30:33"
+    },
+    {
+      "id": "1791a19fbbba4d21b446dc50bb276c2e",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "830100",
+        "Tên Bưu cục": "KTDX",
+        "Họ và tên người sử dụng": "huy",
+        "Mã HRM": "00000008",
+        "Bộ phận / Phòng ban": "TBC",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BPC-KTVC-9",
+        "Loại máy": "Desktop",
+        "Hãng": "Acer",
+        "Model": "Aspire XC600",
+        "Năm sản xuất": "",
+        "Serial Number": "DTSLJSV01133004E403000",
+        "CPU": "Intel(R) Core(TM) i3-3240 CPU @ 3.40GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.77.67.133",
+        "MAC Address": "74:27:EA:B3:A1:BD"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "zebra - zd620",
+          "serial": "D3J204204278"
+        }
+      ],
+      "createdAt": "2026-06-12T08:30:52",
+      "updatedAt": "2026-06-12T08:30:52"
     }
   ]
 }
