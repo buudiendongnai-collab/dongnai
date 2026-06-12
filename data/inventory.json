@@ -4390,6 +4390,48 @@
       ],
       "createdAt": "2026-06-12T08:52:08",
       "updatedAt": "2026-06-12T08:52:08"
+    },
+    {
+      "id": "95ef484ef4bb457c838835e4cbf59735",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "831060",
+        "Tên Bưu cục": "bccc",
+        "Họ và tên người sử dụng": "huong",
+        "Mã HRM": "0111111",
+        "Bộ phận / Phòng ban": "chia chojn",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BPC-BCPDX3",
+        "Loại máy": "Desktop",
+        "Hãng": "ASUS",
+        "Model": "All Series",
+        "Năm sản xuất": "",
+        "Serial Number": "System Serial Number",
+        "CPU": "Intel(R) Core(TM) i3-4130 CPU @ 3.40GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2019 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.77.67.62",
+        "MAC Address": "04:42:1A:26:25:1A"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "zebra -zd620",
+          "serial": "d3j183400786"
+        },
+        {
+          "type": "scanner",
+          "name": "zebra - ds2278",
+          "serial": "18146523400210"
+        }
+      ],
+      "createdAt": "2026-06-12T08:55:42",
+      "updatedAt": "2026-06-12T08:55:42"
     }
   ]
 }
