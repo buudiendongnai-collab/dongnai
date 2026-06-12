@@ -4348,6 +4348,48 @@
       "attachments": [],
       "createdAt": "2026-06-12T08:51:29",
       "updatedAt": "2026-06-12T08:51:29"
+    },
+    {
+      "id": "f794849dfaa445baa25d88fdcf2e9944",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "831060",
+        "Tên Bưu cục": "831060",
+        "Họ và tên người sử dụng": "Đỗ Thị Hường",
+        "Mã HRM": "00010240",
+        "Bộ phận / Phòng ban": "BCVH Đồng Xoài",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BPC-BCPDX-TUPN",
+        "Loại máy": "Desktop",
+        "Hãng": "System manufacturer",
+        "Model": "System Product Name",
+        "Năm sản xuất": "",
+        "Serial Number": "System Serial Number",
+        "CPU": "Intel(R) Core(TM) i3-7350K CPU @ 4.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2019 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.77.67.67",
+        "MAC Address": "B0:6E:BF:BC:9E:8E"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP - P2035",
+          "serial": "vnc3641869"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "ZEbRA - LS 2208",
+          "serial": "mất"
+        }
+      ],
+      "createdAt": "2026-06-12T08:52:08",
+      "updatedAt": "2026-06-12T08:52:08"
     }
   ]
 }
