@@ -986,6 +986,53 @@
       ],
       "createdAt": "2026-06-12T04:26:28",
       "updatedAt": "2026-06-12T04:26:28"
+    },
+    {
+      "id": "4468766c899c432bbeff97f6dea34fe7",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "8131",
+        "Tên Xã": "SÔNG RAY XUÂN ĐÔNG",
+        "Mã Bưu cục": "816130",
+        "Tên Bưu cục": "BC SÔNG RAY",
+        "Họ và tên người sử dụng": "LÊ THỊ HỒNG HƠN",
+        "Mã HRM": "00018537",
+        "Bộ phận / Phòng ban": "NHÂN VIÊN KD TẠI ĐIỂM BÁN",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-CM-SRAY54",
+        "Loại máy": "Desktop",
+        "Hãng": "ASUS",
+        "Model": "All Series",
+        "Năm sản xuất": "",
+        "Serial Number": "System Serial Number",
+        "CPU": "Intel(R) Core(TM) i3-4150 CPU @ 3.50GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "126 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.103.54",
+        "MAC Address": "38:D5:47:E2:42:20"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "scanner",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T04:28:26",
+      "updatedAt": "2026-06-12T04:28:26"
     }
   ]
 }
