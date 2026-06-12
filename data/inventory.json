@@ -2349,6 +2349,43 @@
       ],
       "createdAt": "2026-06-12T07:18:24",
       "updatedAt": "2026-06-12T07:18:24"
+    },
+    {
+      "id": "13ef55fe667c44b595b1164b4bbacaf6",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "8110",
+        "Tên Xã": "Bưu Điện Phường Trấn  Biên",
+        "Mã Bưu cục": "8110",
+        "Tên Bưu cục": "Bưu  điện phường Trấn  Biên",
+        "Họ và tên người sử dụng": "Huỳnh Kim Hạnh",
+        "Mã HRM": "00017653",
+        "Bộ phận / Phòng ban": "tổ  nghiệp vụ/phòng kế toán",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HANH-PC",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP ProDesk 600 G3 SFF",
+        "Năm sản xuất": "",
+        "Serial Number": "JPH743P4JL",
+        "CPU": "Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.71.148.33",
+        "MAC Address": "18:60:24:DD:03:CD"
+      },
+      "attachments": [
+        {
+          "type": "photocopier",
+          "name": "LANIER",
+          "serial": "G166R130093"
+        }
+      ],
+      "createdAt": "2026-06-12T07:21:22",
+      "updatedAt": "2026-06-12T07:21:22"
     }
   ]
 }
