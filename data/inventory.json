@@ -4505,6 +4505,53 @@
       "attachments": [],
       "createdAt": "2026-06-12T08:58:28",
       "updatedAt": "2026-06-12T08:58:28"
+    },
+    {
+      "id": "c709481798bf4616ac07835d80622873",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "831060",
+        "Tên Bưu cục": "bcp",
+        "Họ và tên người sử dụng": "Chu Thị Nhài",
+        "Mã HRM": "00009931",
+        "Bộ phận / Phòng ban": "NHạp liêu",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BPC-DXI-KHL3",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H310M S2H 2.0",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Core(TM) i3-9100F CPU @ 3.60GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "240 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19042",
+        "Office": "Microsoft Office Office 64-bit Components 2007",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.77.67.99",
+        "MAC Address": "B4:2E:99:94:41:EF"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon - 2900",
+          "serial": "050972-11"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Zebra zd620",
+          "serial": "D3j183400837"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Zebra -ds2278",
+          "serial": "18145523400481"
+        }
+      ],
+      "createdAt": "2026-06-12T08:57:35",
+      "updatedAt": "2026-06-12T08:57:35"
     }
   ]
 }
