@@ -109,6 +109,43 @@
       ],
       "createdAt": "2026-06-12T03:40:53",
       "updatedAt": "2026-06-12T03:40:53"
+    },
+    {
+      "id": "f2108b45dae84cb9964490d59db7d077",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "8158",
+        "Tên Xã": "Đại Phước",
+        "Mã Bưu cục": "815860",
+        "Tên Bưu cục": "Bưu Cục Đại Phước",
+        "Họ và tên người sử dụng": "Trần Thị Mai Lý",
+        "Mã HRM": "00215024",
+        "Bộ phận / Phòng ban": "Giao dịch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DELL",
+        "Loại máy": "",
+        "Hãng": "",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "Gainscha",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T03:43:47",
+      "updatedAt": "2026-06-12T03:43:47"
     }
   ]
 }
