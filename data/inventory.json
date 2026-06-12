@@ -3535,6 +3535,37 @@
       ],
       "createdAt": "2026-06-12T08:08:50",
       "updatedAt": "2026-06-12T08:08:50"
+    },
+    {
+      "id": "1k524azqmjn000000000000000000000",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "8162",
+        "Tên Xã": "Phường Tam Phước",
+        "Mã Bưu cục": "815460",
+        "Tên Bưu cục": "Bưu Cục Tam Phước",
+        "Họ và tên người sử dụng": "Nguyễn Thị Dinh",
+        "Mã HRM": "00262692",
+        "Bộ phận / Phòng ban": "Bưu Điện Phường Tam Phước",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-BH-TMP75",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "GBPXSR2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "478 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office 2003 Web Components",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.159.32",
+        "MAC Address": "B8:85:84:A8:E4:7F"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-12T08:10:02",
+      "updatedAt": "2026-06-12T08:10:02"
     }
   ]
 }
