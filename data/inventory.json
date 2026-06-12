@@ -1,3 +1,35 @@
 {
-  "records": []
+  "records": [
+    {
+      "id": "67de7e8d1feb4d74b48d110c1bd4f028",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "81",
+        "Tên Bưu cục": "BĐTP Đồng Nai",
+        "Họ và tên người sử dụng": "Nguyễn Hữu Bảo Thịnh",
+        "Mã HRM": "00017471",
+        "Bộ phận / Phòng ban": "Trung tâm Vận hành",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-NV-THI186",
+        "Loại máy": "Desktop",
+        "Hãng": "ASUS",
+        "Model": "System Product Name",
+        "Năm sản xuất": "",
+        "Serial Number": "System Serial Number",
+        "CPU": "11th Gen Intel(R) Core(TM) i5-11400 @ 2.60GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "698 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2016 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Security Cloud, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.0.2",
+        "MAC Address": "7C:10:C9:83:DC:E4"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-12T03:20:44",
+      "updatedAt": "2026-06-12T03:20:44"
+    }
+  ]
 }
