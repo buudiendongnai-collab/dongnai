@@ -3351,6 +3351,43 @@
       ],
       "createdAt": "2026-06-12T08:02:32",
       "updatedAt": "2026-06-12T08:02:32"
+    },
+    {
+      "id": "69aa3f952e0640d0b026ea86293c9510",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "811980",
+        "Tên Bưu cục": "Trảng Dài",
+        "Họ và tên người sử dụng": "võ thị thanh lan",
+        "Mã HRM": "00017589",
+        "Bộ phận / Phòng ban": "gdv",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI_BH_TD72",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP 280 G3 MT",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE7354PD5",
+        "CPU": "Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "706 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.127.72",
+        "MAC Address": "3C:52:82:4F:6B:E3"
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "symbol",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T08:02:40",
+      "updatedAt": "2026-06-12T08:02:40"
     }
   ]
 }
