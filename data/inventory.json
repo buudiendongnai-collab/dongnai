@@ -177,6 +177,48 @@
       "attachments": [],
       "createdAt": "2026-06-12T03:55:51",
       "updatedAt": "2026-06-12T03:55:51"
+    },
+    {
+      "id": "e6a878be87e64a57bc52ad2375bbc2f3",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "815300",
+        "Tên Bưu cục": "long thành",
+        "Họ và tên người sử dụng": "nguyễn thị sông hương",
+        "Mã HRM": "00225080",
+        "Bộ phận / Phòng ban": "GIAO DỊCH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-PQ86DAF",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP 280 G3 MT",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE73749NW",
+        "CPU": "Intel(R) Core(TM) i3-6100 CPU @ 3.70GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "446 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.71.120.57",
+        "MAC Address": "3C:52:82:52:25:BB"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T04:01:33",
+      "updatedAt": "2026-06-12T04:01:33"
     }
   ]
 }
