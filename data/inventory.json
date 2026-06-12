@@ -4823,6 +4823,43 @@
       ],
       "createdAt": "2026-06-12T09:30:04",
       "updatedAt": "2026-06-12T09:30:04"
+    },
+    {
+      "id": "6c8428f8494c4380969d6d20fd861425",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "813500",
+        "Tên Bưu cục": "xuân lập",
+        "Họ và tên người sử dụng": "NGUYỄN THỊ THUỲ LINH",
+        "Mã HRM": "00018387",
+        "Bộ phận / Phòng ban": "GIÁM ĐỐC XÃ PHƯỜNG XUÂN LÂPK",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-LK-VP103",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "B5NLH62",
+        "CPU": "Intel(R) Core(TM) i3-4160T CPU @ 3.10GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "111 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise N LTSC 10.0.19044",
+        "Office": "Microsoft Office Home and Student 2016 - en-us",
+        "Antivirus": "Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.34",
+        "MAC Address": "64:00:6A:06:36:A4"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T09:31:09",
+      "updatedAt": "2026-06-12T09:31:09"
     }
   ]
 }
