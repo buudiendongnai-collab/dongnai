@@ -1349,6 +1349,48 @@
       ],
       "createdAt": "2026-06-12T04:45:06",
       "updatedAt": "2026-06-12T04:45:06"
+    },
+    {
+      "id": "4abee35ff1804c6f8395a96d6d9ab48b",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "812270",
+        "Tên Bưu cục": "tmdt",
+        "Họ và tên người sử dụng": "TRẦN THỊ KIM HẰNG",
+        "Mã HRM": "XX",
+        "Bộ phận / Phòng ban": "TMDT",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-BH-TM124",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "Inspiron 3470",
+        "Năm sản xuất": "",
+        "Serial Number": "68Z49R2",
+        "CPU": "Intel(R) Core(TM) i3-9100T CPU @ 3.10GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26100",
+        "Office": "Microsoft Office Professional Plus 2019 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.154.124",
+        "MAC Address": "8C:EC:4B:8F:7E:7B"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "XPRINT",
+          "serial": "XB420123644"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRA",
+          "serial": "22139623070228"
+        }
+      ],
+      "createdAt": "2026-06-12T04:54:43",
+      "updatedAt": "2026-06-12T04:54:43"
     }
   ]
 }
