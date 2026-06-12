@@ -2788,6 +2788,37 @@
       ],
       "createdAt": "2026-06-12T07:35:11",
       "updatedAt": "2026-06-12T07:35:11"
+    },
+    {
+      "id": "4b2ac918e9544079929db7d5cf65f566",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "810000",
+        "Tên Bưu cục": "BƯU ĐIỆN BIÊN HÒA",
+        "Họ và tên người sử dụng": "NGUYỄN HỒNG TRANG",
+        "Mã HRM": "00017673",
+        "Bộ phận / Phòng ban": "BƯU ĐIỆN BIÊN HÒA",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "ADMIN-PC",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3050",
+        "Năm sản xuất": "",
+        "Serial Number": "DSZ3LQ2",
+        "CPU": "Intel(R) Core(TM) i5-7500 CPU @ 3.40GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "231 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.71.148.95",
+        "MAC Address": "54:BF:64:6B:66:6D"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-12T07:36:49",
+      "updatedAt": "2026-06-12T07:36:49"
     }
   ]
 }
