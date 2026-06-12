@@ -808,6 +808,37 @@
       ],
       "createdAt": "2026-06-12T04:16:16",
       "updatedAt": "2026-06-12T04:16:16"
+    },
+    {
+      "id": "59965f506cf8406d89c23b7f5beaf35a",
+      "category": "5. Đầu Đọc Mã Vạch",
+      "fields": {
+        "Mã Tỉnh": "",
+        "Tên Tỉnh": "",
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "815400",
+        "Tên Bưu cục": "VHX BÌNH AN",
+        "Họ và tên người sử dụng": "HUỲNH THỊ CẨM NHUNG",
+        "Mã HRM": "00017930",
+        "Bộ phận / Phòng ban": "VHX BÌNH AN",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "HONEYWELL",
+        "Hãng": "",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "Loại đọc": "",
+        "Kết nối": "",
+        "Nước sản xuất": "",
+        "Đơn vị bảo hành\n(Nhà cung cấp)": "",
+        "Năm sử dụng": "",
+        "Thời gian bảo hành (Còn/Hết)": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-06-12T04:19:01",
+      "updatedAt": "2026-06-12T04:19:01"
     }
   ]
 }
