@@ -4001,6 +4001,48 @@
       ],
       "createdAt": "2026-06-12T08:32:54",
       "updatedAt": "2026-06-12T08:32:54"
+    },
+    {
+      "id": "f9bac68bb95340488dbf8732946bd857",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "830100",
+        "Tên Bưu cục": "ktt",
+        "Họ và tên người sử dụng": "huy",
+        "Mã HRM": "00000001",
+        "Bộ phận / Phòng ban": "kt",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BPC-KTVC-6",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "9LWBH32",
+        "CPU": "Intel(R) Core(TM) i3-4150T CPU @ 3.00GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "111 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19043",
+        "Office": "Microsoft Office Office 64-bit Components 2007",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.77.67.101",
+        "MAC Address": "64:00:6A:2F:34:80"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "Zebra - zd620",
+          "serial": "d3j204104281"
+        },
+        {
+          "type": "scanner",
+          "name": "zebra - ds2278",
+          "serial": "24278523705245"
+        }
+      ],
+      "createdAt": "2026-06-12T08:35:35",
+      "updatedAt": "2026-06-12T08:35:35"
     }
   ]
 }
