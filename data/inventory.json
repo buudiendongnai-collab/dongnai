@@ -443,6 +443,37 @@
       ],
       "createdAt": "2026-06-12T04:09:03",
       "updatedAt": "2026-06-12T04:09:03"
+    },
+    {
+      "id": "d1323f855e5949f09bd6f687c4982501",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "812270",
+        "Tên Bưu cục": "TMDT",
+        "Họ và tên người sử dụng": "HUỲNH THỊ TỨ HỒNG QUÂN",
+        "Mã HRM": "00260553",
+        "Bộ phận / Phòng ban": "TMDT",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-BH-CSTM240",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "JGZBH32",
+        "CPU": "Intel(R) Core(TM) i3-4150T CPU @ 3.00GHz",
+        "RAM": "5.9 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.128.240",
+        "MAC Address": "F8:BC:12:A5:7E:C0"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-12T04:10:56",
+      "updatedAt": "2026-06-12T04:10:56"
     }
   ]
 }
