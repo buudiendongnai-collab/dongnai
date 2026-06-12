@@ -1946,6 +1946,48 @@
       ],
       "createdAt": "2026-06-12T06:55:49",
       "updatedAt": "2026-06-12T06:55:49"
+    },
+    {
+      "id": "5929ead82e3d44b5bd2d1be40ad9e804",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "814077",
+        "Tên Bưu cục": "XUÂN PHÚ",
+        "Họ và tên người sử dụng": "PHẠM THỊ PHƯƠNG THẢO",
+        "Mã HRM": "00018497",
+        "Bộ phận / Phòng ban": "XUÂN PHÚ",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-XL-VHXXUANP",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "64PL8F2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "226 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise 10.0.19045",
+        "Office": "Microsoft Office Home and Student 2016 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.200.38.148",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON LBP2900",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "SYMBOL",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T06:58:02",
+      "updatedAt": "2026-06-12T06:58:02"
     }
   ]
 }
