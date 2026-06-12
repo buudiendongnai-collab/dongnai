@@ -4159,6 +4159,48 @@
       ],
       "createdAt": "2026-06-12T08:39:46",
       "updatedAt": "2026-06-12T08:39:46"
+    },
+    {
+      "id": "d9fb4686b12e442e962d0931f7f068b1",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "830100",
+        "Tên Bưu cục": "KTT",
+        "Họ và tên người sử dụng": "HUY",
+        "Mã HRM": "00000001",
+        "Bộ phận / Phòng ban": "giao nhan",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BPC-KTVC-2",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP ProDesk 600 G5 Desktop Mini",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC01132PZ",
+        "CPU": "Intel(R) Core(TM) i3-9100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "110 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.77.67.68",
+        "MAC Address": "38:22:E2:18:8A:51"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Brother - HL L2321D",
+          "serial": "e73793l2n197417"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Zebra - ds2278",
+          "serial": "20197523700889"
+        }
+      ],
+      "createdAt": "2026-06-12T08:43:43",
+      "updatedAt": "2026-06-12T08:43:43"
     }
   ]
 }
