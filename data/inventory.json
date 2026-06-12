@@ -2166,6 +2166,48 @@
       ],
       "createdAt": "2026-06-12T07:09:23",
       "updatedAt": "2026-06-12T07:09:23"
+    },
+    {
+      "id": "f3f2f8ea3a0a4620a05e69ca5cf7e589",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "81326",
+        "Tên Bưu cục": "Bưu Điện Phường Long Khánh",
+        "Họ và tên người sử dụng": "Nguyễn NGọc Kim Hiếu",
+        "Mã HRM": "00116730",
+        "Bộ phận / Phòng ban": "Quầy giao dịch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-LK-GD155",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H81M-DS2",
+        "Năm sản xuất": "",
+        "Serial Number": "To be filled by O.E.M.",
+        "CPU": "Intel(R) Pentium(R) CPU G3260 @ 3.30GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "114 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19044",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.101.115",
+        "MAC Address": "1C:1B:0D:63:D0:61"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "lp2900",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "symbol",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T07:11:17",
+      "updatedAt": "2026-06-12T07:11:17"
     }
   ]
 }
