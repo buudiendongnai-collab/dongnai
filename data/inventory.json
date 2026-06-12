@@ -2312,6 +2312,43 @@
       "attachments": [],
       "createdAt": "2026-06-12T07:15:39",
       "updatedAt": "2026-06-12T07:15:39"
+    },
+    {
+      "id": "a08e732452c24636b1fda7d87b7c6162",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "813200",
+        "Tên Bưu cục": "BƯU ĐIỆN PHƯỜNG LONG KHÁNH",
+        "Họ và tên người sử dụng": "BÙI THỊ HOA",
+        "Mã HRM": "00018380",
+        "Bộ phận / Phòng ban": "QUẦY GIAO DỊCH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-LK-GD-31",
+        "Loại máy": "Desktop",
+        "Hãng": "ASUS",
+        "Model": "System Product Name",
+        "Năm sản xuất": "",
+        "Serial Number": "System Serial Number",
+        "CPU": "Intel(R) Pentium(R) Gold G6405 CPU @ 4.10GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "476 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro N for Workstations 10.0.19045",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.101.31",
+        "MAC Address": "04:42:1A:AC:E7:1B"
+      },
+      "attachments": [
+        {
+          "type": "scanner",
+          "name": "SYMBOI",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T07:18:24",
+      "updatedAt": "2026-06-12T07:18:24"
     }
   ]
 }
