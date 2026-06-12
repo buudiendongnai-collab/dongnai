@@ -3154,41 +3154,35 @@
       "updatedAt": "2026-06-12T07:48:37"
     },
     {
-      "id": "b68d335565a945cea6b96e811cc086e7",
+      "id": "c4360864112b4faa863b71817eb86540",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "813530",
+        "Mã BĐ Xã": "",
         "Tên Xã": "",
-        "Mã Bưu cục": "813530",
-        "Tên Bưu cục": "Bưu điện Phường Bình Lộc",
-        "Họ và tên người sử dụng": "Ma Thị Vân",
-        "Mã HRM": "00018844",
-        "Bộ phận / Phòng ban": "Giám đốc Bưu điện Phường Bình Lộc",
+        "Mã Bưu cục": "",
+        "Tên Bưu cục": "",
+        "Họ và tên người sử dụng": "",
+        "Mã HRM": "",
+        "Bộ phận / Phòng ban": "",
         "Mã vật tư": "",
-        "Tên máy (Hostname)": "VAN-PC",
-        "Loại máy": "Desktop",
-        "Hãng": "Dell Inc.",
-        "Model": "OptiPlex 3020M",
+        "Tên máy (Hostname)": "",
+        "Loại máy": "",
+        "Hãng": "",
+        "Model": "",
         "Năm sản xuất": "",
-        "Serial Number": "CMZBH32",
-        "CPU": "Intel(R) Core(TM) i3-4150T CPU @ 3.00GHz",
-        "RAM": "3.9 GB",
-        "Ổ cứng": "112 GB",
-        "Hệ điều hành": "Microsoft Windows 10 Pro N for Workstations 10.0.19045",
-        "Office": "Microsoft Office Home and Student 2016 - en-us",
-        "Antivirus": "Windows Defender",
-        "IP Address": "10.71.101.71",
-        "MAC Address": "F8:BC:12:A4:B2:D1"
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
       },
-      "attachments": [
-        {
-          "type": "photocopier",
-          "name": "",
-          "serial": ""
-        }
-      ],
-      "createdAt": "2026-06-12T07:50:42",
-      "updatedAt": "2026-06-12T07:50:42"
+      "attachments": [],
+      "createdAt": "2026-06-12T07:50:44",
+      "updatedAt": "2026-06-12T07:50:44"
     }
   ]
 }
