@@ -547,6 +547,37 @@
       "attachments": [],
       "createdAt": "2026-06-12T04:13:12",
       "updatedAt": "2026-06-12T04:13:12"
+    },
+    {
+      "id": "dfb5563adb884c8f9cac026ceb91745e",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "812270",
+        "Tên Bưu cục": "TMDT",
+        "Họ và tên người sử dụng": "ĐINH CAO MINH THẢO",
+        "Mã HRM": "00266575",
+        "Bộ phận / Phòng ban": "TMDT",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-BG-CS177",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP 280 G2 MT",
+        "Năm sản xuất": "",
+        "Serial Number": "SGH724SQKY",
+        "CPU": "Intel(R) Core(TM) i3-6100 CPU @ 3.70GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.128.177",
+        "MAC Address": "C8:D3:FF:B6:10:CD"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-12T04:14:55",
+      "updatedAt": "2026-06-12T04:14:55"
     }
   ]
 }
