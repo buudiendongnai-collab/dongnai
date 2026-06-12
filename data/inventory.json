@@ -3769,6 +3769,48 @@
       "attachments": [],
       "createdAt": "2026-06-12T08:19:35",
       "updatedAt": "2026-06-12T08:19:35"
+    },
+    {
+      "id": "7ba84da9a84e4492bc1c39436746c03f",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "830100",
+        "Tên Bưu cục": "KTDX",
+        "Họ và tên người sử dụng": "Huy",
+        "Mã HRM": "00000008",
+        "Bộ phận / Phòng ban": "TBC",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BPC-KTVC-HUY",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "GBQZSR2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "111 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2019 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.77.67.59",
+        "MAC Address": "B8:85:84:A8:CC:22"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP - Pro 400",
+          "serial": "vnh5c07833"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Symbol -ls2208",
+          "serial": "mat"
+        }
+      ],
+      "createdAt": "2026-06-12T08:25:18",
+      "updatedAt": "2026-06-12T08:25:18"
     }
   ]
 }
