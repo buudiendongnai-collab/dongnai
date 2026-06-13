@@ -5413,6 +5413,43 @@
       ],
       "createdAt": "2026-06-13T01:22:44",
       "updatedAt": "2026-06-13T01:22:44"
+    },
+    {
+      "id": "7e5e2b874e4f487f88b784351fa432d4",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "811810",
+        "Tên Bưu cục": "bưu cục tân hiệp",
+        "Họ và tên người sử dụng": "HỒ THỊ HỒNG",
+        "Mã HRM": "00098227",
+        "Bộ phận / Phòng ban": "NHÂN VIÊN KINH DOANH TẠI ĐIỂM PHỤC VỤ",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "CANON",
+        "Loại máy": "I-SEN SYS",
+        "Hãng": "",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-13T01:23:25",
+      "updatedAt": "2026-06-13T01:23:25"
     }
   ]
 }
