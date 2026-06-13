@@ -5209,6 +5209,58 @@
       "attachments": [],
       "createdAt": "2026-06-13T00:34:01",
       "updatedAt": "2026-06-13T00:34:01"
+    },
+    {
+      "id": "b9f9e3bac46b4b40a5770590c76674b7",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "81326",
+        "Tên Bưu cục": "BƯU ĐIỆN PHƯỜNG LONG KHÁNH",
+        "Họ và tên người sử dụng": "LÊ THỊ LỆ THI",
+        "Mã HRM": "00018399",
+        "Bộ phận / Phòng ban": "QUẦY GIAO DỊCH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-VAMQRPP",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC52214NB",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2019 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.71.101.27",
+        "MAC Address": "10:B6:76:9E:1E:E5"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "LP2900",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "INTEMEC",
+          "serial": ""
+        },
+        {
+          "type": "scanner",
+          "name": "ZEBEX",
+          "serial": ""
+        },
+        {
+          "type": "ups",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-13T00:38:16",
+      "updatedAt": "2026-06-13T00:38:16"
     }
   ]
 }
