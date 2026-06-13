@@ -5749,6 +5749,48 @@
       ],
       "createdAt": "2026-06-13T03:07:45",
       "updatedAt": "2026-06-13T03:07:45"
+    },
+    {
+      "id": "ccb858bbc43b45bb8f8ee6c60fedc498",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "811880",
+        "Tên Bưu cục": "TÂN TIẾN",
+        "Họ và tên người sử dụng": "LÊ NGUYỄN THANH THẢO",
+        "Mã HRM": "00017595",
+        "Bộ phận / Phòng ban": "BƯU ĐIỆN PHƯỜNG TÂN TRIỀU",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-BH-TT6",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "GC70TR2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "Microsoft Office Professional 2019 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.127.6",
+        "MAC Address": "B8:85:84:A8:C7:9D"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON 2900",
+          "serial": "050972-11"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "HONEY WELL 1450G",
+          "serial": "17074B129E"
+        }
+      ],
+      "createdAt": "2026-06-13T03:14:09",
+      "updatedAt": "2026-06-13T03:14:09"
     }
   ]
 }
