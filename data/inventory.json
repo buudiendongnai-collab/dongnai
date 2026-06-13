@@ -5870,6 +5870,48 @@
       ],
       "createdAt": "2026-06-13T03:25:29",
       "updatedAt": "2026-06-13T03:25:29"
+    },
+    {
+      "id": "fbacf76c7d8048df8671a3a4ac91e732",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "8115",
+        "Tên Xã": "BƯU ĐIỆN XÃ AN VIỄN",
+        "Mã Bưu cục": "816590",
+        "Tên Bưu cục": "VHX ĐỒI 61",
+        "Họ và tên người sử dụng": "LÊ THỊ KIM THÚY",
+        "Mã HRM": "00018093",
+        "Bộ phận / Phòng ban": "GĐX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-TB-VP44",
+        "Loại máy": "Desktop",
+        "Hãng": "System manufacturer",
+        "Model": "System Product Name",
+        "Năm sản xuất": "",
+        "Serial Number": "System Serial Number",
+        "CPU": "Intel(R) Pentium(R) CPU G2030 @ 3.00GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "224 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.18362",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.122.44",
+        "MAC Address": "E0:3F:49:52:CB:54"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP LaserJet Pro MFP M130fn",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Honeywell",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-13T03:46:10",
+      "updatedAt": "2026-06-13T03:46:10"
     }
   ]
 }
