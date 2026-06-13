@@ -6513,6 +6513,48 @@
       ],
       "createdAt": "2026-06-13T09:07:16",
       "updatedAt": "2026-06-13T09:07:16"
+    },
+    {
+      "id": "8c800e9ecd1f42c8ae8678b8def5a220",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "814040",
+        "Tên Bưu cục": "xuân bắc",
+        "Họ và tên người sử dụng": "phan  thị lân",
+        "Mã HRM": "00018444",
+        "Bộ phận / Phòng ban": "xã xuân bắc",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-XL-XUABAC5",
+        "Loại máy": "Desktop",
+        "Hãng": "System manufacturer",
+        "Model": "System Product Name",
+        "Năm sản xuất": "",
+        "Serial Number": "System Serial Number",
+        "CPU": "Intel(R) Core(TM) i3-9100 CPU @ 3.60GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "240 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional 2019 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.105.5",
+        "MAC Address": "D4:5D:64:81:C8:56"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "xprinter",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "có dây",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-13T09:45:01",
+      "updatedAt": "2026-06-13T09:45:01"
     }
   ]
 }
