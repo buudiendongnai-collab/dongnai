@@ -6264,6 +6264,43 @@
       ],
       "createdAt": "2026-06-13T05:06:55",
       "updatedAt": "2026-06-13T05:06:55"
+    },
+    {
+      "id": "c906a1f5961e44d2ae4aa6047945ae3f",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "816100",
+        "Tên Bưu cục": "cẩm mỹ",
+        "Họ và tên người sử dụng": "Lê Thị Minh Tuyết",
+        "Mã HRM": "00018541",
+        "Bộ phận / Phòng ban": "GĐX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-CM-VP",
+        "Loại máy": "Desktop",
+        "Hãng": "MSI",
+        "Model": "MS-7817",
+        "Năm sản xuất": "",
+        "Serial Number": "To be filled by O.E.M.",
+        "CPU": "Intel(R) Pentium(R) CPU G3260 @ 3.30GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "350 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.104.206",
+        "MAC Address": "00:D8:61:F9:7C:5F"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon6030",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-13T05:10:00",
+      "updatedAt": "2026-06-13T05:10:00"
     }
   ]
 }
