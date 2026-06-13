@@ -6476,6 +6476,43 @@
       "attachments": [],
       "createdAt": "2026-06-13T08:03:49",
       "updatedAt": "2026-06-13T08:03:49"
+    },
+    {
+      "id": "087771128faa43c9aea20cf7cd81cc73",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "8157",
+        "Tên Xã": "XÃ LA NGÀ",
+        "Mã Bưu cục": "814390",
+        "Tên Bưu cục": "BƯU CỤC LA NGÀ",
+        "Họ và tên người sử dụng": "TRỊNH THỊ PHƯƠNG",
+        "Mã HRM": "00242995",
+        "Bộ phận / Phòng ban": "BUU CỤC LA NGÀ",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-DQ-LANGA6",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "GCF5TR2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19042",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.108.6",
+        "MAC Address": "B8:85:84:A8:E5:4A"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-13T09:07:16",
+      "updatedAt": "2026-06-13T09:07:16"
     }
   ]
 }
