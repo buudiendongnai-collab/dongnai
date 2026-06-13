@@ -5676,6 +5676,37 @@
       "attachments": [],
       "createdAt": "2026-06-13T02:18:15",
       "updatedAt": "2026-06-13T02:18:15"
+    },
+    {
+      "id": "6a96cd70902f4fe5b63b9070f33c0492",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "008162",
+        "Tên Xã": "TAM PHƯỚC",
+        "Mã Bưu cục": "815460",
+        "Tên Bưu cục": "TAM PHƯỚC",
+        "Họ và tên người sử dụng": "MAI THANH TÙNG",
+        "Mã HRM": "00252944",
+        "Bộ phận / Phòng ban": "BĐP TAM PHƯỚC",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-KD-TR193",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP 280 G3 MT",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE7354P6R",
+        "CPU": "Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional 2019 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.149.193",
+        "MAC Address": "3C:52:82:50:25:E4"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-13T02:35:52",
+      "updatedAt": "2026-06-13T02:35:52"
     }
   ]
 }
