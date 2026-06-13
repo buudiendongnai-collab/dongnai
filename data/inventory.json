@@ -6227,6 +6227,43 @@
       "attachments": [],
       "createdAt": "2026-06-13T04:59:47",
       "updatedAt": "2026-06-13T04:59:47"
+    },
+    {
+      "id": "58b72b6be5f7453b96ff65816df25e36",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "8130",
+        "Tên Xã": "CẨM MỸ",
+        "Mã Bưu cục": "816100",
+        "Tên Bưu cục": "BC CẨM MỸ",
+        "Họ và tên người sử dụng": "VÒNG THỊ KIM DUYÊN",
+        "Mã HRM": "00018518",
+        "Bộ phận / Phòng ban": "GDV",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-CM-GD-43",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "GC64TR2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "114 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19041",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.104.43",
+        "MAC Address": "B8:85:84:A8:CC:A8"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP M1132",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-13T05:06:55",
+      "updatedAt": "2026-06-13T05:06:55"
     }
   ]
 }
