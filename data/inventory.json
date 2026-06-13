@@ -5949,6 +5949,43 @@
       ],
       "createdAt": "2026-06-13T04:07:36",
       "updatedAt": "2026-06-13T04:07:36"
+    },
+    {
+      "id": "530215202b394289bcc5b7eb9a22aba6",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "812690",
+        "Tên Bưu cục": "bc kcnbh",
+        "Họ và tên người sử dụng": "Nguyễn Thị Hồng",
+        "Mã HRM": "00017591",
+        "Bộ phận / Phòng ban": "GDV",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-GLRTJ7F",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "GC16TR2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "704 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home Single Language 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.71.125.150",
+        "MAC Address": "B8:85:84:A8:C8:EC"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANNON",
+          "serial": "LBP243DW"
+        }
+      ],
+      "createdAt": "2026-06-13T04:19:04",
+      "updatedAt": "2026-06-13T04:19:04"
     }
   ]
 }
