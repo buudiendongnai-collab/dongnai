@@ -5608,6 +5608,43 @@
       ],
       "createdAt": "2026-06-13T02:01:37",
       "updatedAt": "2026-06-13T02:01:37"
+    },
+    {
+      "id": "0c52c79950394184a8ac4c4b8eb7a1ed",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "81326",
+        "Tên Xã": "BƯU ĐIỆN PHƯỜNG LONG KHÁNH",
+        "Mã Bưu cục": "813200",
+        "Tên Bưu cục": "GIAO DICH TRUNG TAM LONG KHANH",
+        "Họ và tên người sử dụng": "NGUYỄN THỊ THU HỒNG",
+        "Mã HRM": "00018360",
+        "Bộ phận / Phòng ban": "PHÒNG TÀI CHÍNH KẾ HOẠCH -BƯU ĐIỆN TỈNH ĐỒNG NAI",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "KE-TOAN",
+        "Loại máy": "Desktop",
+        "Hãng": "ASUS",
+        "Model": "All Series",
+        "Năm sản xuất": "2003",
+        "Serial Number": "System Serial Number",
+        "CPU": "Intel(R) Celeron(R) CPU G1840 @ 2.80GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "484 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19043",
+        "Office": "Microsoft Office 64-bit Components 2013",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.71.101.158",
+        "MAC Address": "50:3E:AA:02:F3:34"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON 2900n",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-13T02:02:54",
+      "updatedAt": "2026-06-13T02:02:54"
     }
   ]
 }
