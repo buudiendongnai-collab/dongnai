@@ -5707,6 +5707,48 @@
       "attachments": [],
       "createdAt": "2026-06-13T02:35:52",
       "updatedAt": "2026-06-13T02:35:52"
+    },
+    {
+      "id": "7ec6ddde3c8d4b1eb08a1268735fd3e8",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "811880",
+        "Tên Bưu cục": "TÂN TIẾN",
+        "Họ và tên người sử dụng": "TẠ THỊ BÍCH HUYỀN",
+        "Mã HRM": "00017517",
+        "Bộ phận / Phòng ban": "BƯU ĐIỆN PHƯỜNG TÂN TRIỀU",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-BH-TTIEN7",
+        "Loại máy": "Desktop",
+        "Hãng": "Hewlett-Packard",
+        "Model": "550-034l",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE53705BC",
+        "CPU": "Intel(R) Core(TM) i3-4170 CPU @ 3.70GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional 2019 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.127.7",
+        "MAC Address": "74:85:2A:20:05:F5"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "ZEBRA ZD620",
+          "serial": "d3j183400834"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRA ds22",
+          "serial": "1815523400159"
+        }
+      ],
+      "createdAt": "2026-06-13T03:07:45",
+      "updatedAt": "2026-06-13T03:07:45"
     }
   ]
 }
