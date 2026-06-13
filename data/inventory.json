@@ -6075,6 +6075,48 @@
       ],
       "createdAt": "2026-06-13T04:32:23",
       "updatedAt": "2026-06-13T04:32:23"
+    },
+    {
+      "id": "dade1180fb5e414f9bd8b567d2427059",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "815300",
+        "Tên Bưu cục": "bc long thành",
+        "Họ và tên người sử dụng": "Nguyễn Thị Mỹ Hạnh",
+        "Mã HRM": "00017835",
+        "Bộ phận / Phòng ban": "GIAO DỊCH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-E9SESLH",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP 280 G3 MT",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE731392P",
+        "CPU": "Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2013",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.71.120.186",
+        "MAC Address": "40:B0:34:1B:D9:4F"
+      },
+      "attachments": [
+        {
+          "type": "photocopier",
+          "name": "RICOH",
+          "serial": "M2941"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "DELFI",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-13T04:34:18",
+      "updatedAt": "2026-06-13T04:34:18"
     }
   ]
 }
