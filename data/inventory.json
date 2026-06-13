@@ -5791,6 +5791,43 @@
       ],
       "createdAt": "2026-06-13T03:14:09",
       "updatedAt": "2026-06-13T03:14:09"
+    },
+    {
+      "id": "4e2651ac9f034db6aa453e4ee5c9c769",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "818800",
+        "Tên Bưu cục": "TÂN TIẾN",
+        "Họ và tên người sử dụng": "TẠ THỊ BÍCH HUYỀN",
+        "Mã HRM": "00017517",
+        "Bộ phận / Phòng ban": "BƯU ĐIỆ PHƯỜNG TÂN TRIỀU",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-BH-TT3",
+        "Loại máy": "DESKTOP",
+        "Hãng": "DELL",
+        "Model": "System Model\tOptiPlex 3060",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz, 3600 Mhz,",
+        "RAM": "8gb",
+        "Ổ cứng": "256gb",
+        "Hệ điều hành": "WIN 11 PRO",
+        "Office": "",
+        "Antivirus": "KASPERKY ENDPOIN",
+        "IP Address": "10.71.127.3",
+        "MAC Address": "E4:54:E8:7B:C6:FA"
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRA DS22",
+          "serial": "22185010553953"
+        }
+      ],
+      "createdAt": "2026-06-13T03:18:23",
+      "updatedAt": "2026-06-13T03:18:23"
     }
   ]
 }
