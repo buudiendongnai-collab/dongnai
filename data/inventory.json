@@ -5912,6 +5912,43 @@
       ],
       "createdAt": "2026-06-13T03:46:10",
       "updatedAt": "2026-06-13T03:46:10"
+    },
+    {
+      "id": "d31f8e8820094dfba25cfb3bc5a4881d",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "813200",
+        "Tên Bưu cục": "gdttlk",
+        "Họ và tên người sử dụng": "Trần Thị Phi Yến",
+        "Mã HRM": "00018433",
+        "Bộ phận / Phòng ban": "kế toán - thủ quỹ",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-I0GGGOP",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP ProDesk 600 G5 Desktop Mini",
+        "Năm sản xuất": "2000",
+        "Serial Number": "8CC0113223",
+        "CPU": "Intel(R) Core(TM) i3-9100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "465 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.22631",
+        "Office": "Microsoft Office Home and Student 2016 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.71.101.51",
+        "MAC Address": "38:22:E2:18:8C:F3"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-13T04:07:36",
+      "updatedAt": "2026-06-13T04:07:36"
     }
   ]
 }
