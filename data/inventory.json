@@ -5487,6 +5487,43 @@
       ],
       "createdAt": "2026-06-13T01:24:27",
       "updatedAt": "2026-06-13T01:24:27"
+    },
+    {
+      "id": "808a3854e8f44c878960af04185614e2",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "8126",
+        "Tên Bưu cục": "Bưu Điện Phường Long Khánh",
+        "Họ và tên người sử dụng": "Lưu Thị Kim Liên",
+        "Mã HRM": "00018366",
+        "Bộ phận / Phòng ban": "Phòng Kế toán Tài chính",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LIEN-PC",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H110M-M.2",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Pentium(R) CPU G4600 @ 3.60GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "350 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft 365 Apps for enterprise - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.71.101.212",
+        "MAC Address": "10:FF:E0:FB:79:E5"
+      },
+      "attachments": [
+        {
+          "type": "photocopier",
+          "name": "Ricoh MP 3055",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-13T01:26:05",
+      "updatedAt": "2026-06-13T01:26:05"
     }
   ]
 }
