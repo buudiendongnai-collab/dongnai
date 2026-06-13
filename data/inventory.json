@@ -5178,6 +5178,37 @@
       "attachments": [],
       "createdAt": "2026-06-12T15:37:05",
       "updatedAt": "2026-06-12T15:37:05"
+    },
+    {
+      "id": "56411c5d8d754c49b9f907f5aee8b032",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "81326",
+        "Tên Bưu cục": "Bưu Điện Phường Long Khánh",
+        "Họ và tên người sử dụng": "Nguyễn Ngọc Kim Hiếu",
+        "Mã HRM": "00116730",
+        "Bộ phận / Phòng ban": "Quầy giao dịch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-LK-GD-114",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H310M S2H 2.0",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Pentium(R) Gold G5400 CPU @ 3.70GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "225 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19041",
+        "Office": "Microsoft Office Professional Plus 2016 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.101.114",
+        "MAC Address": "B4:2E:99:9C:62:50"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-13T00:34:01",
+      "updatedAt": "2026-06-13T00:34:01"
     }
   ]
 }
