@@ -5347,24 +5347,24 @@
       "updatedAt": "2026-06-13T01:16:41"
     },
     {
-      "id": "cf5ffb38f8b749ea9232a0578b539d12",
+      "id": "219e994fd43146ef8dbc30a27bd32a81",
       "category": "3. Máy Tính",
       "fields": {
         "Mã BĐ Xã": "",
         "Tên Xã": "",
-        "Mã Bưu cục": "813960",
-        "Tên Bưu cục": "vhx  xuân hòa",
-        "Họ và tên người sử dụng": "võ thị thanh thủy",
-        "Mã HRM": "00018483",
-        "Bộ phận / Phòng ban": "vhx xuân hòa",
+        "Mã Bưu cục": "",
+        "Tên Bưu cục": "",
+        "Họ và tên người sử dụng": "",
+        "Mã HRM": "",
+        "Bộ phận / Phòng ban": "",
         "Mã vật tư": "",
-        "Tên máy (Hostname)": "dell",
+        "Tên máy (Hostname)": "",
         "Loại máy": "",
         "Hãng": "",
         "Model": "",
         "Năm sản xuất": "",
         "Serial Number": "",
-        "CPU": "dell",
+        "CPU": "",
         "RAM": "",
         "Ổ cứng": "",
         "Hệ điều hành": "",
@@ -5373,25 +5373,9 @@
         "IP Address": "",
         "MAC Address": ""
       },
-      "attachments": [
-        {
-          "type": "laser_printer",
-          "name": "canom",
-          "serial": ""
-        },
-        {
-          "type": "thermal_printer",
-          "name": "xprinter",
-          "serial": ""
-        },
-        {
-          "type": "scanner",
-          "name": "",
-          "serial": ""
-        }
-      ],
-      "createdAt": "2026-06-13T01:19:47",
-      "updatedAt": "2026-06-13T01:19:47"
+      "attachments": [],
+      "createdAt": "2026-06-13T01:19:48",
+      "updatedAt": "2026-06-13T01:19:48"
     }
   ]
 }
