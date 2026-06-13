@@ -5376,6 +5376,43 @@
       "attachments": [],
       "createdAt": "2026-06-13T01:19:48",
       "updatedAt": "2026-06-13T01:19:48"
+    },
+    {
+      "id": "2dd8af857dc44911a1b5ea64f58143a4",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "813290",
+        "Tên Bưu cục": "bcvh long khánh",
+        "Họ và tên người sử dụng": "Trương Thị Thu Hiền",
+        "Mã HRM": "00018410",
+        "Bộ phận / Phòng ban": "bcvh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-LK-BCPLK14",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "B5XHH62",
+        "CPU": "Intel(R) Core(TM) i3-4160T CPU @ 3.10GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "465 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.101.14",
+        "MAC Address": "64:00:6A:05:C4:87"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-13T01:22:44",
+      "updatedAt": "2026-06-13T01:22:44"
     }
   ]
 }
