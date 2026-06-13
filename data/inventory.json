@@ -6117,6 +6117,43 @@
       ],
       "createdAt": "2026-06-13T04:34:18",
       "updatedAt": "2026-06-13T04:34:18"
+    },
+    {
+      "id": "4ce24984dedc4f45afc92e4f1dbed341",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "812200",
+        "Tên Bưu cục": "QUANG VINH",
+        "Họ và tên người sử dụng": "NGUYỄN NHƯ QUỲNH",
+        "Mã HRM": "XX",
+        "Bộ phận / Phòng ban": "BƯU ĐIỆN PHƯỜNG TRẤN BIÊN",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-BH-QV-3",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "GBF1TR2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "239 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.200.38.98",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "SYMBOL LS2208",
+          "serial": "Z0EFB"
+        }
+      ],
+      "createdAt": "2026-06-13T04:35:10",
+      "updatedAt": "2026-06-13T04:35:10"
     }
   ]
 }
