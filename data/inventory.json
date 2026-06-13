@@ -6414,6 +6414,37 @@
       "attachments": [],
       "createdAt": "2026-06-13T07:31:15",
       "updatedAt": "2026-06-13T07:31:15"
+    },
+    {
+      "id": "b24a90895a1e471c9f369d67995770bc",
+      "category": "4A. Máy In Laser",
+      "fields": {
+        "Mã Tỉnh": "",
+        "Tên Tỉnh": "",
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "815300",
+        "Tên Bưu cục": "Bưu cục Long Thành",
+        "Họ và tên người sử dụng": "Trần Văn An",
+        "Mã HRM": "00017834",
+        "Bộ phận / Phòng ban": "Bưu cục Long Thành",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "máy in laser",
+        "Khổ giấy": "",
+        "Hãng": "",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "Kết nối": "",
+        "Nước sản xuất": "",
+        "Đơn vị bảo hành\n(Nhà cung cấp)": "",
+        "Năm sử dụng": "",
+        "Thời gian bảo hành (Còn/Hết)": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-06-13T07:32:20",
+      "updatedAt": "2026-06-13T07:32:20"
     }
   ]
 }
