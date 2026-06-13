@@ -6028,6 +6028,53 @@
       ],
       "createdAt": "2026-06-13T04:31:29",
       "updatedAt": "2026-06-13T04:31:29"
+    },
+    {
+      "id": "1089384e66434490ad4c96c85a4a0108",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "812200",
+        "Tên Bưu cục": "QUANG VINH",
+        "Họ và tên người sử dụng": "HUỲNH ĐỖ QUYÊN",
+        "Mã HRM": "00017573",
+        "Bộ phận / Phòng ban": "BƯU ĐIỆN PHƯỜNG TRẤN BIÊN",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-BH-QV-4",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H310M S2H 2.0",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Core(TM) i3-9100 CPU @ 3.60GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "113 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.125.4",
+        "MAC Address": "B4:2E:99:9C:5A:EB"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON 2900",
+          "serial": "L1121e1"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "XPRINT 420B",
+          "serial": "420BLE22A180060"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "HONEY WELL 1250G",
+          "serial": "3K18021901"
+        }
+      ],
+      "createdAt": "2026-06-13T04:32:23",
+      "updatedAt": "2026-06-13T04:32:23"
     }
   ]
 }
