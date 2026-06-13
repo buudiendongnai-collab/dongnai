@@ -5524,6 +5524,48 @@
       ],
       "createdAt": "2026-06-13T01:26:05",
       "updatedAt": "2026-06-13T01:26:05"
+    },
+    {
+      "id": "7ae8bf674b204b1995ed6133ef998320",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "816530",
+        "Tên Bưu cục": "BƯU CỤC ĐÔNG HÒA",
+        "Họ và tên người sử dụng": "NGUYỄN MINH THANH",
+        "Mã HRM": "00268573",
+        "Bộ phận / Phòng ban": "nhân viên phục vụ tại điểm",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-TB-DH70",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC52214ML",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2019 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.121.70",
+        "MAC Address": "10:B6:76:9E:13:ED"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-13T02:01:15",
+      "updatedAt": "2026-06-13T02:01:15"
     }
   ]
 }
