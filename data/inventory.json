@@ -5261,6 +5261,43 @@
       ],
       "createdAt": "2026-06-13T00:38:16",
       "updatedAt": "2026-06-13T00:38:16"
+    },
+    {
+      "id": "5bb47dec1b4646c085e131d8ec77789d",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "813530",
+        "Tên Bưu cục": "Bưu Điện VH Phường Bình Lộc",
+        "Họ và tên người sử dụng": "Nguyễn Thị Nga",
+        "Mã HRM": "00018419",
+        "Bộ phận / Phòng ban": "Nhân Viên Bưu Điện VH Phường Bình Lộc",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-LK-VHXBILOC",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "64QC8F2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "112 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro N for Workstations 10.0.19045",
+        "Office": "Microsoft Office Professional 2019 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.73",
+        "MAC Address": "18:66:DA:27:EB:B3"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-13T01:09:18",
+      "updatedAt": "2026-06-13T01:09:18"
     }
   ]
 }
