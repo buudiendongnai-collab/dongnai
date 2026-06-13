@@ -6301,6 +6301,53 @@
       ],
       "createdAt": "2026-06-13T05:10:00",
       "updatedAt": "2026-06-13T05:10:00"
+    },
+    {
+      "id": "2e048c844c8a4486aa232c17a4cbc587",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "8136",
+        "Tên Xã": "xuân hòa",
+        "Mã Bưu cục": "813960",
+        "Tên Bưu cục": "xuân hòa",
+        "Họ và tên người sử dụng": "võ thị thanh thủy",
+        "Mã HRM": "00018483",
+        "Bộ phận / Phòng ban": "sản xuât",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "XUANDINH",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "DVZBH32",
+        "CPU": "Intel(R) Core(TM) i3-4150T CPU @ 3.00GHz",
+        "RAM": "3.4 GB",
+        "Ổ cứng": "215 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19042",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.71.162.202",
+        "MAC Address": "F8:BC:12:A5:7F:60"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "cannon",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "xprinter",
+          "serial": ""
+        },
+        {
+          "type": "scanner",
+          "name": "zebra",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-13T05:40:05",
+      "updatedAt": "2026-06-13T05:40:05"
     }
   ]
 }
