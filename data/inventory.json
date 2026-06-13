@@ -5828,6 +5828,48 @@
       ],
       "createdAt": "2026-06-13T03:18:23",
       "updatedAt": "2026-06-13T03:18:23"
+    },
+    {
+      "id": "e46b1883a1464054a6c3563e40328eef",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "8115",
+        "Tên Xã": "BƯU ĐIỆN XÃ AN VIỄN",
+        "Mã Bưu cục": "816580",
+        "Tên Bưu cục": "VHX AN VIỄN",
+        "Họ và tên người sử dụng": "NGUYỄN THỊ THÚY HẰNG",
+        "Mã HRM": "00117030",
+        "Bộ phận / Phòng ban": "NV KD TẠI ĐIỂM",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-TB-VP44",
+        "Loại máy": "Desktop",
+        "Hãng": "System manufacturer",
+        "Model": "System Product Name",
+        "Năm sản xuất": "",
+        "Serial Number": "System Serial Number",
+        "CPU": "Intel(R) Pentium(R) CPU G2030 @ 3.00GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "224 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.18362",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.122.44",
+        "MAC Address": "E0:3F:49:52:CB:54"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON L11121E",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "HONEYWELL",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-13T03:25:29",
+      "updatedAt": "2026-06-13T03:25:29"
     }
   ]
 }
