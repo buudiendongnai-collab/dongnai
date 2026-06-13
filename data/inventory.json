@@ -5566,6 +5566,48 @@
       ],
       "createdAt": "2026-06-13T02:01:15",
       "updatedAt": "2026-06-13T02:01:15"
+    },
+    {
+      "id": "bc8d254b1cc646b6bddab3b5934c09aa",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "812670",
+        "Tên Bưu cục": "VHX TÂN HẠNH",
+        "Họ và tên người sử dụng": "NGUYỄN KIM THU",
+        "Mã HRM": "00017646",
+        "Bộ phận / Phòng ban": "VHX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-BH-TANH68",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP ProDesk 400 G3 MT",
+        "Năm sản xuất": "",
+        "Serial Number": "SGH649PK64",
+        "CPU": "Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "467 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2019 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.161.68",
+        "MAC Address": "DC:4A:3E:56:09:DF"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON",
+          "serial": "I-SENSYS LBP243DW"
+        },
+        {
+          "type": "scanner",
+          "name": "SYMBOL",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-13T02:01:37",
+      "updatedAt": "2026-06-13T02:01:37"
     }
   ]
 }
