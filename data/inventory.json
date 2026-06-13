@@ -6445,6 +6445,48 @@
       "attachments": [],
       "createdAt": "2026-06-13T07:32:20",
       "updatedAt": "2026-06-13T07:32:20"
+    },
+    {
+      "id": "c3e5fb358c144b1f99a5b82979ae8336",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "8168",
+        "Tên Xã": "phước thaí",
+        "Mã Bưu cục": "815650",
+        "Tên Bưu cục": "bc phước thái",
+        "Họ và tên người sử dụng": "nguyễn thị ngọc lan",
+        "Mã HRM": "00266402",
+        "Bộ phận / Phòng ban": "nhân viên kinh doanh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-LT-PT14",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC52214MB",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "239 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "10.71.119.9",
+        "MAC Address": "10:B6:76:9E:13:FA"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "hprt41",
+          "serial": "sl410023410035"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-13T08:03:47",
+      "updatedAt": "2026-06-13T08:03:47"
     }
   ]
 }
