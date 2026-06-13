@@ -6198,19 +6198,19 @@
       "updatedAt": "2026-06-13T04:48:06"
     },
     {
-      "id": "13dc9ae3784c457696424c111309fcad",
+      "id": "ba63421d2aac4c669bd2bb34dce71f2d",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "8129",
-        "Tên Xã": "Bưu Điện Xã Xuân Đường",
-        "Mã Bưu cục": "81290",
-        "Tên Bưu cục": "VHX Thừa Đức",
-        "Họ và tên người sử dụng": "Hồ Thị Minh Nguyệt",
-        "Mã HRM": "0018525",
-        "Bộ phận / Phòng ban": "Giám Đốc Xã",
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "",
+        "Tên Bưu cục": "",
+        "Họ và tên người sử dụng": "",
+        "Mã HRM": "",
+        "Bộ phận / Phòng ban": "",
         "Mã vật tư": "",
-        "Tên máy (Hostname)": "MÁY TÍNH",
-        "Loại máy": "VENR",
+        "Tên máy (Hostname)": "",
+        "Loại máy": "",
         "Hãng": "",
         "Model": "",
         "Năm sản xuất": "",
@@ -6225,8 +6225,8 @@
         "MAC Address": ""
       },
       "attachments": [],
-      "createdAt": "2026-06-13T04:59:44",
-      "updatedAt": "2026-06-13T04:59:44"
+      "createdAt": "2026-06-13T04:59:47",
+      "updatedAt": "2026-06-13T04:59:47"
     }
   ]
 }
