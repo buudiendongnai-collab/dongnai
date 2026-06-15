@@ -874,6 +874,48 @@
       ],
       "createdAt": "2026-06-15T07:43:59",
       "updatedAt": "2026-06-15T07:43:59"
+    },
+    {
+      "id": "149eef1fea2848a0bb57d9888cf820ce",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "813920",
+        "Tên Bưu cục": "BƯU CỤC XUÂN TÂM",
+        "Họ và tên người sử dụng": "NGUYỄN THỊ TRÚC PHƯƠNG",
+        "Mã HRM": "00081452",
+        "Bộ phận / Phòng ban": "GIAO DICH VIEN",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-XL-XTAM66",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC52214BL",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "239 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2019 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.200.38.22",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON 2900",
+          "serial": "0509072-11"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "ZEBRA 620D",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-15T07:49:45",
+      "updatedAt": "2026-06-15T07:49:45"
     }
   ]
 }
