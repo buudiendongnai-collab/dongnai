@@ -272,6 +272,43 @@
       "attachments": [],
       "createdAt": "2026-06-15T01:55:17",
       "updatedAt": "2026-06-15T01:55:17"
+    },
+    {
+      "id": "509529409d2e43cca89766bce6d5c3fe",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "8124",
+        "Tên Xã": "",
+        "Mã Bưu cục": "813570",
+        "Tên Bưu cục": "VHX Bảo Quang",
+        "Họ và tên người sử dụng": "hà thị Thơm",
+        "Mã HRM": "18422",
+        "Bộ phận / Phòng ban": "VHX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-MMBNGAC",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "3WZ21H2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "239 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.22621",
+        "Office": "Microsoft Office Home and Student 2016 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.24",
+        "MAC Address": "48:4D:7E:D7:2C:FB"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP Laser 1020",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-15T02:13:19",
+      "updatedAt": "2026-06-15T02:13:19"
     }
   ]
 }
