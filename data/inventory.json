@@ -6696,6 +6696,43 @@
       ],
       "createdAt": "2026-06-15T00:49:14",
       "updatedAt": "2026-06-15T00:49:14"
+    },
+    {
+      "id": "9a5ccd91522c42ecac9074ef8e577921",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "810900",
+        "Tên Bưu cục": "BƯU ĐIỆN HỆ 1 ĐỒNG NAI",
+        "Họ và tên người sử dụng": "HUỲNH THỊ  KIM DUYÊN",
+        "Mã HRM": "11111",
+        "Bộ phận / Phòng ban": "BƯU ĐIỆN HỆ 1 ĐỒNG NAI",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-BH-HCC138",
+        "Loại máy": "Desktop",
+        "Hãng": "Hewlett-Packard",
+        "Model": "500-315x",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE4410J3D",
+        "CPU": "Intel(R) Core(TM) i3-4150 CPU @ 3.50GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft 365 Apps for enterprise - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.128.18",
+        "MAC Address": "60:02:92:1E:A2:4A"
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "HONEY  WELL 1450G",
+          "serial": "17126B18C9"
+        }
+      ],
+      "createdAt": "2026-06-15T00:52:25",
+      "updatedAt": "2026-06-15T00:52:25"
     }
   ]
 }
