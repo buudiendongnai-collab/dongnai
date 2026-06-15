@@ -1415,6 +1415,43 @@
       ],
       "createdAt": "2026-06-15T09:28:49",
       "updatedAt": "2026-06-15T09:28:49"
+    },
+    {
+      "id": "5d423898c9e14bc4a529b3f616fed32c",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "810100",
+        "Tên Bưu cục": "KTC1 Đồng Nai",
+        "Họ và tên người sử dụng": "Văn Trần Hữu Vinh",
+        "Mã HRM": "00017737",
+        "Bộ phận / Phòng ban": "TTVH Đồng Nai",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-TTP-PPT",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP 280 G3 MT",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE7354PDP",
+        "CPU": "Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional 2019 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.168.102",
+        "MAC Address": "3C:52:82:51:8D:C8"
+      },
+      "attachments": [
+        {
+          "type": "photocopier",
+          "name": "RICOH Aficio MP 5002 PCL 6",
+          "serial": "W533LA01622"
+        }
+      ],
+      "createdAt": "2026-06-15T09:46:20",
+      "updatedAt": "2026-06-15T09:46:20"
     }
   ]
 }
