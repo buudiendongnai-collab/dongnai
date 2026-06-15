@@ -1005,6 +1005,43 @@
       ],
       "createdAt": "2026-06-15T08:05:30",
       "updatedAt": "2026-06-15T08:05:30"
+    },
+    {
+      "id": "ab50061517514b37a2b5115c32e44c5d",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "814248",
+        "Tên Bưu cục": "vhx xuân đường",
+        "Họ và tên người sử dụng": "Tôn thị kim thảo",
+        "Mã HRM": "00215119",
+        "Bộ phận / Phòng ban": "vhx xuân đường",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-CM-VHXXDG",
+        "Loại máy": "Desktop",
+        "Hãng": "ASUS",
+        "Model": "All Series",
+        "Năm sản xuất": "",
+        "Serial Number": "System Serial Number",
+        "CPU": "Intel(R) Core(TM) i3-4130 CPU @ 3.40GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "114 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19041",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.2",
+        "MAC Address": "FC:34:97:68:B7:19"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon 6030",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-15T08:07:12",
+      "updatedAt": "2026-06-15T08:07:12"
     }
   ]
 }
