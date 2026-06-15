@@ -157,6 +157,48 @@
       ],
       "createdAt": "2026-06-15T01:13:52",
       "updatedAt": "2026-06-15T01:13:52"
+    },
+    {
+      "id": "ed248a7586e24728b02113253c1c715d",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "810900",
+        "Tên Bưu cục": "BƯU CỤC HỆ 1 ĐỒNG NAI",
+        "Họ và tên người sử dụng": "NGUYỄN BÌNH PHƯƠNG HIẾU",
+        "Mã HRM": "00017612",
+        "Bộ phận / Phòng ban": "GIAO DỊCH VIÊN",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-BH-KT169",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H310M S2H 2.0",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Core(TM) i3-9100 CPU @ 3.60GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "111 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "ESET Security, Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows, ESET Smart Security",
+        "IP Address": "10.71.128.69",
+        "MAC Address": "B4:2E:99:9C:60:DF"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "XPRINT 420B xp-420b",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "WINSON",
+          "serial": "316800102"
+        }
+      ],
+      "createdAt": "2026-06-15T01:16:29",
+      "updatedAt": "2026-06-15T01:16:29"
     }
   ]
 }
