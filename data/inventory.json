@@ -649,6 +649,43 @@
       ],
       "createdAt": "2026-06-15T03:40:36",
       "updatedAt": "2026-06-15T03:40:36"
+    },
+    {
+      "id": "4ec44cd2c00249aa9d395417216ce609",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "813000",
+        "Tên Bưu cục": "BCVH 5",
+        "Họ và tên người sử dụng": "TRẦN PHƯƠNG KHANH",
+        "Mã HRM": "TRẦN PHƯƠNG KHANH",
+        "Bộ phận / Phòng ban": "BCVH 5",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BCP5-PC",
+        "Loại máy": "desktop",
+        "Hãng": "Gigabyte",
+        "Model": "H81M",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "Intel(R) Pentium(R) CPU G3250 @ 3.20GHz",
+        "RAM": "4GB",
+        "Ổ cứng": "120GB",
+        "Hệ điều hành": "win7 pro",
+        "Office": "2010",
+        "Antivirus": "kasperkey endpiont",
+        "IP Address": "10.71.121.16",
+        "MAC Address": "40-8D-5C-62-DE-91"
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "Zebra DS2208",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-15T03:46:45",
+      "updatedAt": "2026-06-15T03:46:45"
     }
   ]
 }
