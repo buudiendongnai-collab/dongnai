@@ -435,6 +435,37 @@
       ],
       "createdAt": "2026-06-15T02:40:48",
       "updatedAt": "2026-06-15T02:40:48"
+    },
+    {
+      "id": "b62dfb12501c484da8f645f9f6fb1502",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "8110",
+        "Tên Bưu cục": "KVP Biên Hòa",
+        "Họ và tên người sử dụng": "trần Trung Hậu",
+        "Mã HRM": "00017720",
+        "Bộ phận / Phòng ban": "phòng tài chính kế hoạch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-BH-HC249",
+        "Loại máy": "Desktop",
+        "Hãng": "ASUS",
+        "Model": "All Series",
+        "Năm sản xuất": "",
+        "Serial Number": "System Serial Number",
+        "CPU": "Intel(R) Pentium(R) CPU G3250 @ 3.20GHz",
+        "RAM": "5,9 GB",
+        "Ổ cứng": "589 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2021 - en-gb",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.148.249",
+        "MAC Address": "9C:5C:8E:CF:35:B5"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-15T02:47:30",
+      "updatedAt": "2026-06-15T02:47:30"
     }
   ]
 }
