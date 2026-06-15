@@ -790,6 +790,48 @@
       "attachments": [],
       "createdAt": "2026-06-15T04:02:45",
       "updatedAt": "2026-06-15T04:02:45"
+    },
+    {
+      "id": "d981f0ca8de247ae98d87a50c3887596",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "816150",
+        "Tên Bưu cục": "BƯU ĐIỆN VHX XUÂN TÂY",
+        "Họ và tên người sử dụng": "ĐINH THỊ DUNG",
+        "Mã HRM": "00018560",
+        "Bộ phận / Phòng ban": "GIAO DICH VIEN",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-CM-VHXXT",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "3TY51H2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "113 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2013",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.13",
+        "MAC Address": "48:4D:7E:DB:82:5E"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON 2900",
+          "serial": "050972-11"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "SYMBOLL",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-15T04:20:26",
+      "updatedAt": "2026-06-15T04:20:26"
     }
   ]
 }
