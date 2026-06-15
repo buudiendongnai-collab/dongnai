@@ -115,6 +115,48 @@
       ],
       "createdAt": "2026-06-15T01:03:24",
       "updatedAt": "2026-06-15T01:03:24"
+    },
+    {
+      "id": "7f6ebac41d0443979db369d7b3fd0f01",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "810900",
+        "Tên Bưu cục": "BƯU CỤC HỆ 1 ĐỒNG NAI",
+        "Họ và tên người sử dụng": "VƯƠNG THỊ THANH THẢO",
+        "Mã HRM": "00017596",
+        "Bộ phận / Phòng ban": "GIAO DỊCH VIÊN",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-BH-KT165",
+        "Loại máy": "Desktop",
+        "Hãng": "LENOVO",
+        "Model": "10TVS0CA00",
+        "Năm sản xuất": "",
+        "Serial Number": "PC15Q7FG",
+        "CPU": "Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows, ESET Smart Security",
+        "IP Address": "10.71.128.65",
+        "MAC Address": "94:C6:91:DB:FD:CD"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "ZEBRA ZD620",
+          "serial": "ZD4204698977"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRA DS9908",
+          "serial": "221395230770390"
+        }
+      ],
+      "createdAt": "2026-06-15T01:13:52",
+      "updatedAt": "2026-06-15T01:13:52"
     }
   ]
 }
