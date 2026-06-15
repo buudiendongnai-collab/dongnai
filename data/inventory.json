@@ -356,6 +356,43 @@
       ],
       "createdAt": "2026-06-15T02:15:55",
       "updatedAt": "2026-06-15T02:15:55"
+    },
+    {
+      "id": "2b7ded6c44ee4e708b61a02c13f2bfe7",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "813540",
+        "Tên Bưu cục": "Bưu điện Vhx Bảo Vinh",
+        "Họ và tên người sử dụng": "Bùi Phạm Như Hảo",
+        "Mã HRM": "00222959",
+        "Bộ phận / Phòng ban": "Nhân viên VHX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "ADMIN-PC",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP 280 G3 MT",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE7385WDV",
+        "CPU": "Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "468 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "10.71.123.50",
+        "MAC Address": "3C:52:82:52:3B:75"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-15T02:37:43",
+      "updatedAt": "2026-06-15T02:37:43"
     }
   ]
 }
