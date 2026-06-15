@@ -36,6 +36,48 @@
       ],
       "createdAt": "2026-06-15T01:01:22",
       "updatedAt": "2026-06-15T01:01:22"
+    },
+    {
+      "id": "6b0099bc4fcb47eaac05d1ef31a5dd26",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "810900",
+        "Tên Bưu cục": "BƯU ĐIỆN HỆ 1 ĐỒNG NAI",
+        "Họ và tên người sử dụng": "PHAN NGỌC THANH",
+        "Mã HRM": "00017541",
+        "Bộ phận / Phòng ban": "NHÂN VIÊN HÀNH CHÁNH CÔNG",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-BH-KT157",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP 280 G2 MT",
+        "Năm sản xuất": "",
+        "Serial Number": "SGH724SQJD",
+        "CPU": "Intel(R) Core(TM) i3-6100 CPU @ 3.70GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "461 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2019 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.128.57",
+        "MAC Address": "A0:8C:FD:EF:33:9C"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "XPRINT 420B",
+          "serial": "S420BUH239040727"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "SYMBOL LS2208",
+          "serial": "70A2F4"
+        }
+      ],
+      "createdAt": "2026-06-15T01:07:23",
+      "updatedAt": "2026-06-15T01:07:23"
     }
   ]
 }
