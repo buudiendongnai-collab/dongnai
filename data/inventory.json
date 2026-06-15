@@ -6654,6 +6654,48 @@
       ],
       "createdAt": "2026-06-15T00:22:48",
       "updatedAt": "2026-06-15T00:22:48"
+    },
+    {
+      "id": "e05ac1a4a66244aea62b4f2f444bb085",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "810900",
+        "Tên Bưu cục": "BƯU ĐIỆN HỆ 1 ĐỒNG NAI",
+        "Họ và tên người sử dụng": "NGUYỄN THÀNH PHƯƠNG",
+        "Mã HRM": "00026",
+        "Bộ phận / Phòng ban": "BƯU ĐIỆN HỆ 1 ĐỒNG NAI",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-BH-HCC18",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC52214HT",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2019 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.0.100",
+        "MAC Address": "10:B6:76:9E:1F:D7"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "XPRINT 420B",
+          "serial": "254LLE234020711"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "SYMBOL LS2208",
+          "serial": "Z0Y4RR"
+        }
+      ],
+      "createdAt": "2026-06-15T00:49:14",
+      "updatedAt": "2026-06-15T00:49:14"
     }
   ]
 }
