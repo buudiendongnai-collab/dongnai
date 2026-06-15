@@ -241,6 +241,37 @@
       ],
       "createdAt": "2026-06-15T01:16:34",
       "updatedAt": "2026-06-15T01:16:34"
+    },
+    {
+      "id": "ce2ed0cc17dd42abb327562757e1a864",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "8113",
+        "Tên Xã": "Bưu điện xã long thành",
+        "Mã Bưu cục": "815337",
+        "Tên Bưu cục": "VP BĐH LONG THÀNH",
+        "Họ và tên người sử dụng": "BÙI THỊ THƠM",
+        "Mã HRM": "00017871",
+        "Bộ phận / Phòng ban": "VP BĐH LONG THÀNH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-LT-VP-31",
+        "Loại máy": "Desktop",
+        "Hãng": "ASUS",
+        "Model": "All Series",
+        "Năm sản xuất": "2012",
+        "Serial Number": "",
+        "CPU": "Intel(R) Pentium(R) CPU G4600 @ 3.60GHz",
+        "RAM": "2Gb",
+        "Ổ cứng": "120",
+        "Hệ điều hành": "Microsoft Windows 7",
+        "Office": "2010",
+        "Antivirus": "Kaspersky",
+        "IP Address": "10.71.120.31",
+        "MAC Address": "50-E5-49-AA-E5-62"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-15T01:55:17",
+      "updatedAt": "2026-06-15T01:55:17"
     }
   ]
 }
