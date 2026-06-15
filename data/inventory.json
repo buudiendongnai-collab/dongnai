@@ -963,6 +963,48 @@
       ],
       "createdAt": "2026-06-15T08:03:46",
       "updatedAt": "2026-06-15T08:03:46"
+    },
+    {
+      "id": "5a6cac57bd0048368bf18ef80e2a8a91",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "814120",
+        "Tên Bưu cục": "BCVH Xuân Lộc",
+        "Họ và tên người sử dụng": "Nguyễn Thị Ngọc",
+        "Mã HRM": "00018447",
+        "Bộ phận / Phòng ban": "BCVH Xuân Lộc",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-XL-VP61",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC52214NM",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2019 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.107.61",
+        "MAC Address": "10:B6:76:9E:1E:B1"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "RICOH",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Xprinter",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-15T08:05:30",
+      "updatedAt": "2026-06-15T08:05:30"
     }
   ]
 }
