@@ -1215,6 +1215,48 @@
       ],
       "createdAt": "2026-06-15T08:49:57",
       "updatedAt": "2026-06-15T08:49:57"
+    },
+    {
+      "id": "9573c31a591f4cf3a9d7a4591c761c52",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "XÃ CẨM MỸ",
+        "Mã Bưu cục": "816290",
+        "Tên Bưu cục": "VHX XUÂN MỸ",
+        "Họ và tên người sử dụng": "TRƯƠNG THỊ NHƯ THÙY",
+        "Mã HRM": "00073368",
+        "Bộ phận / Phòng ban": "VHX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-6MH39FN",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "B1SH862",
+        "CPU": "Intel(R) Core(TM) i3-4160T CPU @ 3.10GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "467 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2013",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "10.200.38.7",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "VOYAGER 1250G",
+          "serial": "3K 15391419"
+        }
+      ],
+      "createdAt": "2026-06-15T08:50:57",
+      "updatedAt": "2026-06-15T08:50:57"
     }
   ]
 }
