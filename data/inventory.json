@@ -513,6 +513,48 @@
       ],
       "createdAt": "2026-06-15T03:10:42",
       "updatedAt": "2026-06-15T03:10:42"
+    },
+    {
+      "id": "fa4580f60159459aa249a205d7cd8a90",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "816410",
+        "Tên Bưu cục": "BƯU CỤC HỐ NAI 3",
+        "Họ và tên người sử dụng": "NGUYỄN THỊ MINH THẢO",
+        "Mã HRM": "00018149",
+        "Bộ phận / Phòng ban": "GIÁM ĐỐC PHƯỜNG HỐ NAI",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-CRHBAGS",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "GC73TR2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "114 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Teams Meeting Add-in for Microsoft Office",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.71.121.40",
+        "MAC Address": "B8:85:84:A8:E3:75"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON 2900",
+          "serial": "0509972-11"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRA  ds2208",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-15T03:29:25",
+      "updatedAt": "2026-06-15T03:29:25"
     }
   ]
 }
