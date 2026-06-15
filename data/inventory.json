@@ -916,6 +916,53 @@
       ],
       "createdAt": "2026-06-15T07:49:45",
       "updatedAt": "2026-06-15T07:49:45"
+    },
+    {
+      "id": "1fa43180a58b44aea1fade6ecfc50a92",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "8136",
+        "Tên Xã": "XUÂN HÒA",
+        "Mã Bưu cục": "813940",
+        "Tên Bưu cục": "XUÂN HƯNG",
+        "Họ và tên người sử dụng": "NGUYỄN THỊ KIM LOAN",
+        "Mã HRM": "00018327",
+        "Bộ phận / Phòng ban": "GIAO DỊCH VIÊN",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-XL-XH-194",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "FHZBH32",
+        "CPU": "Intel(R) Core(TM) i3-4150T CPU @ 3.00GHz",
+        "RAM": "3.4 GB",
+        "Ổ cứng": "225 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.200.38.39",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "INTERMEC",
+          "serial": ""
+        },
+        {
+          "type": "scanner",
+          "name": "SYMBOL",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-15T08:03:46",
+      "updatedAt": "2026-06-15T08:03:46"
     }
   ]
 }
