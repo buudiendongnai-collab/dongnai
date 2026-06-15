@@ -832,6 +832,48 @@
       ],
       "createdAt": "2026-06-15T04:20:26",
       "updatedAt": "2026-06-15T04:20:26"
+    },
+    {
+      "id": "c8bd7e3b7cf24b21a82f8ef650e4234a",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "813920",
+        "Tên Bưu cục": "BƯU CỤC XUÂN TRƯỜNG 2",
+        "Họ và tên người sử dụng": "NÔNG THỊ LOAN",
+        "Mã HRM": "0008474",
+        "Bộ phận / Phòng ban": "GIAO DỊCH VIÊN",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-XL-XTR130",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC52214Q7",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "239 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2019 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.106.130",
+        "MAC Address": "10:B6:76:9E:14:27"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON 2900",
+          "serial": "0509072-11"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "HPRT LS41",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-15T07:43:59",
+      "updatedAt": "2026-06-15T07:43:59"
     }
   ]
 }
