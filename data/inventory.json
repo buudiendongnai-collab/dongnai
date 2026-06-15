@@ -466,6 +466,53 @@
       "attachments": [],
       "createdAt": "2026-06-15T02:47:30",
       "updatedAt": "2026-06-15T02:47:30"
+    },
+    {
+      "id": "7fba816c69994b6eb844a04bf4ed9adb",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "815810",
+        "Tên Bưu cục": "BƯU ĐIỆN PHƯỚC THIỀN",
+        "Họ và tên người sử dụng": "NGUYỄN THỊ HẠNH",
+        "Mã HRM": "00017999",
+        "Bộ phận / Phòng ban": "GIAO DICH VIÊN",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-AFKRL7J",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC52214BB",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "239 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2016 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "10.71.116.5",
+        "MAC Address": "10:B6:76:9E:20:3D"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON 2900",
+          "serial": "05097211"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRA DS9308",
+          "serial": "NY 11742"
+        }
+      ],
+      "createdAt": "2026-06-15T03:10:42",
+      "updatedAt": "2026-06-15T03:10:42"
     }
   ]
 }
