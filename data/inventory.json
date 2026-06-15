@@ -78,6 +78,43 @@
       ],
       "createdAt": "2026-06-15T01:07:23",
       "updatedAt": "2026-06-15T01:07:23"
+    },
+    {
+      "id": "c578ba0bef544bc0ac9e39a75fb6ae9f",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "810900",
+        "Tên Bưu cục": "BƯU CỤC HỆ 1 ĐỒNG NAI",
+        "Họ và tên người sử dụng": "TRƯƠNG NHƯ HẠ",
+        "Mã HRM": "00017512",
+        "Bộ phận / Phòng ban": "BƯU CỤC HỆ 1 ĐỒNG NAI",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-BH-KT1154",
+        "Loại máy": "Desktop",
+        "Hãng": "Hewlett-Packard",
+        "Model": "500-315x",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE43607X4",
+        "CPU": "Intel(R) Core(TM) i3-4150 CPU @ 3.50GHz",
+        "RAM": "5.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional 2019 - en-us",
+        "Antivirus": "ESET Security, Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.128.154",
+        "MAC Address": "60:02:92:1B:4C:A1"
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "HONEY WELL 1250G",
+          "serial": "3K17061729"
+        }
+      ],
+      "createdAt": "2026-06-15T01:03:24",
+      "updatedAt": "2026-06-15T01:03:24"
     }
   ]
 }
