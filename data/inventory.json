@@ -759,6 +759,37 @@
       "attachments": [],
       "createdAt": "2026-06-15T03:58:45",
       "updatedAt": "2026-06-15T03:58:45"
+    },
+    {
+      "id": "8d0430048f814d6e9cc11248788031c0",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "816400",
+        "Tên Bưu cục": "GIAO DỊCH TRẢNG BOM",
+        "Họ và tên người sử dụng": "00018130",
+        "Mã HRM": "00018130",
+        "Bộ phận / Phòng ban": "GIAO DỊCH TRẢNG BOM",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-TB-GI4",
+        "Loại máy": "DESKTOP",
+        "Hãng": "Gigabyte",
+        "Model": "B85M-D2V",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "Intel(R) Pentium(R) CPU G3260 @ 3.30GHz",
+        "RAM": "4gb",
+        "Ổ cứng": "250gb",
+        "Hệ điều hành": "win7 PRO",
+        "Office": "2010",
+        "Antivirus": "KASPERKEY ENDPOINT",
+        "IP Address": "10.71.122.4",
+        "MAC Address": "‎FC-AA-14-09-D8-92"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-15T04:02:45",
+      "updatedAt": "2026-06-15T04:02:45"
     }
   ]
 }
