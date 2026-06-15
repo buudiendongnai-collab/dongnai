@@ -6617,6 +6617,43 @@
       "attachments": [],
       "createdAt": "2026-06-13T12:28:50",
       "updatedAt": "2026-06-13T12:28:50"
+    },
+    {
+      "id": "630372b0942e4ec6ac7778ed537386a1",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "810900",
+        "Tên Bưu cục": "BƯU CỤC HỆ 1 ĐỒNG NAI",
+        "Họ và tên người sử dụng": "TRẦN THỊ NGỌC HÂN",
+        "Mã HRM": "00017682",
+        "Bộ phận / Phòng ban": "BƯU CỤC HỆ 1 ĐỒNG NAI",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-BH-HCC52",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP EliteDesk 800 G4 SFF",
+        "Năm sản xuất": "",
+        "Serial Number": "JPH913V05H",
+        "CPU": "Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.128.52",
+        "MAC Address": "C8:D9:D2:17:FD:AC"
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "SYMBOL 2280",
+          "serial": "228012345"
+        }
+      ],
+      "createdAt": "2026-06-15T00:22:48",
+      "updatedAt": "2026-06-15T00:22:48"
     }
   ]
 }
