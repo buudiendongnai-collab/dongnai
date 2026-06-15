@@ -1089,6 +1089,43 @@
       ],
       "createdAt": "2026-06-15T08:07:47",
       "updatedAt": "2026-06-15T08:07:47"
+    },
+    {
+      "id": "18487aaa69484abf98588ac8482d597d",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "816110",
+        "Tên Bưu cục": "vhx bảo bình",
+        "Họ và tên người sử dụng": "Nguyễn Thụy Phương Duyên",
+        "Mã HRM": "00262032",
+        "Bộ phận / Phòng ban": "vhx bảo bình",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-5L4721I",
+        "Loại máy": "Desktop",
+        "Hãng": "ASUS",
+        "Model": "All Series",
+        "Năm sản xuất": "",
+        "Serial Number": "System Serial Number",
+        "CPU": "Intel(R) Core(TM) i3-4150 CPU @ 3.50GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "352 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2007",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "10.71.103.75",
+        "MAC Address": "1C:87:2C:5A:2E:FA"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon 2900",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-15T08:12:06",
+      "updatedAt": "2026-06-15T08:12:06"
     }
   ]
 }
