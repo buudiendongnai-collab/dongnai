@@ -728,6 +728,37 @@
       ],
       "createdAt": "2026-06-15T03:49:57",
       "updatedAt": "2026-06-15T03:49:57"
+    },
+    {
+      "id": "009e5414732046b681dfcbbb1cab1e14",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "816560",
+        "Tên Xã": "BÀU HÀM",
+        "Mã Bưu cục": "816560",
+        "Tên Bưu cục": "BƯU ĐIỆN VĂN HÓA XÃ BÀU HÀM",
+        "Họ và tên người sử dụng": "NGUYỄN THỊ LIỄU",
+        "Mã HRM": "00018114",
+        "Bộ phận / Phòng ban": "GIAO DỊCH VIÊN",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-TB-VHX-BH",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "6BKK8F2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "468 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.19",
+        "MAC Address": "18:66:DA:28:CA:53"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-15T03:58:45",
+      "updatedAt": "2026-06-15T03:58:45"
     }
   ]
 }
