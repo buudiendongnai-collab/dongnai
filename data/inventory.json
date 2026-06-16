@@ -3052,6 +3052,37 @@
       "attachments": [],
       "createdAt": "2026-06-16T04:34:54",
       "updatedAt": "2026-06-16T04:34:54"
+    },
+    {
+      "id": "6e731126142e4401919af3e40df4c933",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "815300",
+        "Tên Bưu cục": "giao dich long thang",
+        "Họ và tên người sử dụng": "BÙI THỊ THƠM",
+        "Mã HRM": "00017871",
+        "Bộ phận / Phòng ban": "gioa dich vien",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-LT-GD-18",
+        "Loại máy": "desktop",
+        "Hãng": "HP",
+        "Model": "Compaq 6200 Pro",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "Intel(R) Core(TM) i3-2120 CPU @ 3.30GHz",
+        "RAM": "4GB",
+        "Ổ cứng": "250GB",
+        "Hệ điều hành": "win pro",
+        "Office": "2007",
+        "Antivirus": "kasperkey",
+        "IP Address": "10.71.120.18",
+        "MAC Address": "‎E8-39-35-51-52-EB"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-16T04:38:50",
+      "updatedAt": "2026-06-16T04:38:50"
     }
   ]
 }
