@@ -4595,6 +4595,37 @@
       "attachments": [],
       "createdAt": "2026-06-16T08:29:56",
       "updatedAt": "2026-06-16T08:29:56"
+    },
+    {
+      "id": "15ee9884e7a743cdaa86b00427bf97c2",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "813740",
+        "Tên Bưu cục": "BƯU CỤC GIA KIỆM",
+        "Họ và tên người sử dụng": "0000081332",
+        "Mã HRM": "0000081332",
+        "Bộ phận / Phòng ban": "TRƯỞNG BƯU CỤC",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-QRDVHCL",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "B1JHH62",
+        "CPU": "Intel(R) Core(TM) i3-4160T CPU @ 3.10GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "225 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.22631",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "10.71.112.31",
+        "MAC Address": "64:00:6A:00:2F:F2"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-16T08:32:55",
+      "updatedAt": "2026-06-16T08:32:55"
     }
   ]
 }
