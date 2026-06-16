@@ -2793,6 +2793,37 @@
       ],
       "createdAt": "2026-06-16T04:09:03",
       "updatedAt": "2026-06-16T04:09:03"
+    },
+    {
+      "id": "9ee6ae7c0f3f48ac89313b3d51b9f9bd",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "8113",
+        "Tên Xã": "Bưu Điện xã Long Thành",
+        "Mã Bưu cục": "8113",
+        "Tên Bưu cục": "Bưu Điện xã Long Thành",
+        "Họ và tên người sử dụng": "Mã Thị Tuyết Nhung",
+        "Mã HRM": "00017842",
+        "Bộ phận / Phòng ban": "Kế toán",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-DH8REB2",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H61M-S2V-B3",
+        "Năm sản xuất": "2011",
+        "Serial Number": "",
+        "CPU": "Intel(R) Core(TM) i3-2100 CPU @ 3.10GHz",
+        "RAM": "3,9 GB",
+        "Ổ cứng": "422 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Trellix Endpoint Security, Windows Defender",
+        "IP Address": "10.71.120.196",
+        "MAC Address": "50:E5:49:81:92:FF"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-16T04:11:30",
+      "updatedAt": "2026-06-16T04:11:30"
     }
   ]
 }
