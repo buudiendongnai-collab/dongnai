@@ -2509,6 +2509,43 @@
       ],
       "createdAt": "2026-06-16T02:48:30",
       "updatedAt": "2026-06-16T02:48:30"
+    },
+    {
+      "id": "9dca06fc6afb4f26bb31a1e708a4022b",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "812740",
+        "Tên Bưu cục": "BCVH4",
+        "Họ và tên người sử dụng": "hoàng thị vinh",
+        "Mã HRM": "00018847",
+        "Bộ phận / Phòng ban": "truong buu cuc",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-TTP-P47",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP 280 G2 MT",
+        "Năm sản xuất": "",
+        "Serial Number": "SGH711TL20",
+        "CPU": "Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "111 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional 2019 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.167.7",
+        "MAC Address": "A0:8C:FD:D4:14:90"
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "honeywell CC801",
+          "serial": "17128B15AC"
+        }
+      ],
+      "createdAt": "2026-06-16T03:39:42",
+      "updatedAt": "2026-06-16T03:39:42"
     }
   ]
 }
