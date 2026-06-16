@@ -2928,6 +2928,37 @@
       ],
       "createdAt": "2026-06-16T04:22:06",
       "updatedAt": "2026-06-16T04:22:06"
+    },
+    {
+      "id": "f109ecc51f5f4728bab32125adec848d",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "814790",
+        "Tên Bưu cục": "buu cuc phu Lap",
+        "Họ và tên người sử dụng": "NGUYỄN THỊ NHƯ THUỶ",
+        "Mã HRM": "000018595",
+        "Bộ phận / Phòng ban": "giao dich vien",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-TP-LP131",
+        "Loại máy": "desktop",
+        "Hãng": "gigabyte",
+        "Model": "h81m",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "Intel(R) Pentium(R) CPU G4400 @ 3.30GHz",
+        "RAM": "4GB",
+        "Ổ cứng": "256GB",
+        "Hệ điều hành": "win pro",
+        "Office": "2007",
+        "Antivirus": "kastperkey endpiont",
+        "IP Address": "10.71.110.131",
+        "MAC Address": "2C-FD-A1-B9-B8-7B"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-16T04:24:05",
+      "updatedAt": "2026-06-16T04:24:05"
     }
   ]
 }
