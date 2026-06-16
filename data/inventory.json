@@ -2657,6 +2657,37 @@
       ],
       "createdAt": "2026-06-16T03:40:31",
       "updatedAt": "2026-06-16T03:40:31"
+    },
+    {
+      "id": "5a8709e877d2462c8a7e1311d105f64f",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "813790",
+        "Tên Bưu cục": "BƯU ĐIỆN VHX HƯNG LỘC",
+        "Họ và tên người sử dụng": "NGUYỄN THỊ KIM HIỀN",
+        "Mã HRM": "00018343",
+        "Bộ phận / Phòng ban": "GIAO DICH VIEN",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-TN-VHX-HL",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "To be filled by O.E.M.",
+        "Năm sản xuất": "",
+        "Serial Number": "To be filled by O.E.M.",
+        "CPU": "Intel(R) Pentium(R) CPU G2010 @ 2.80GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "356 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19044",
+        "Office": "Microsoft Office Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows, Avast Antivirus",
+        "IP Address": "192.168.1.10",
+        "MAC Address": "90:2B:34:BA:FD:B5"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-16T03:53:06",
+      "updatedAt": "2026-06-16T03:53:06"
     }
   ]
 }
