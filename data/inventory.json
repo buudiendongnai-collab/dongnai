@@ -3693,6 +3693,43 @@
       "attachments": [],
       "createdAt": "2026-06-16T06:57:33",
       "updatedAt": "2026-06-16T06:57:33"
+    },
+    {
+      "id": "7e4ec85e88e24d2788c0eec308629626",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "8116",
+        "Tên Xã": "Bưu điện xã Bình Minh",
+        "Mã Bưu cục": "816460",
+        "Tên Bưu cục": "Bình Minh",
+        "Họ và tên người sử dụng": "NGUYỄN THỊ NGỌC QUÝ",
+        "Mã HRM": "00018127",
+        "Bộ phận / Phòng ban": "GDV",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-TB-VHXTHANH",
+        "Loại máy": "Desktop",
+        "Hãng": "FPT ELEAD",
+        "Model": "FPT H110M-D3H R2 TPM",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "226 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.18362",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.16",
+        "MAC Address": "E0:D5:5E:85:DE:5F"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "LP Canon 2900",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-16T06:59:14",
+      "updatedAt": "2026-06-16T06:59:14"
     }
   ]
 }
