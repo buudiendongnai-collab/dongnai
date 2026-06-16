@@ -2314,6 +2314,48 @@
       "attachments": [],
       "createdAt": "2026-06-16T02:21:36",
       "updatedAt": "2026-06-16T02:21:36"
+    },
+    {
+      "id": "752518fb2ec84a08a0e51cfb9bce24bd",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "815014",
+        "Tên Bưu cục": "BCVH Thanh phu",
+        "Họ và tên người sử dụng": "Phạm Thanh Sơn",
+        "Mã HRM": "00259659",
+        "Bộ phận / Phòng ban": "nhan vin nghiep vu",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-TTP-TP141",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Desktop Pro PCI MT",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE851005Y",
+        "CPU": "Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "119 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.10240",
+        "Office": "Microsoft Office Professional Plus 2013",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.124.141",
+        "MAC Address": "C8:D9:D2:01:DC:34"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "xprint 420b",
+          "serial": "42bl219070108"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "zebra  DS2278",
+          "serial": "21294523701858"
+        }
+      ],
+      "createdAt": "2026-06-16T02:25:21",
+      "updatedAt": "2026-06-16T02:25:21"
     }
   ]
 }
