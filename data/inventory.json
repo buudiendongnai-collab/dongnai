@@ -2546,6 +2546,43 @@
       ],
       "createdAt": "2026-06-16T03:39:42",
       "updatedAt": "2026-06-16T03:39:42"
+    },
+    {
+      "id": "f080cef2452d416791b33d47d5f0d4ef",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "812740",
+        "Tên Bưu cục": "BCVH4",
+        "Họ và tên người sử dụng": "PHAN THỊ TUYẾT",
+        "Mã HRM": "00018893",
+        "Bộ phận / Phòng ban": "nhan vien quan li",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-TTP-P44",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP 280 G2 MT",
+        "Năm sản xuất": "",
+        "Serial Number": "SGH714QZX7",
+        "CPU": "Intel(R) Core(TM) i3-6100 CPU @ 3.70GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "111 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.167.4",
+        "MAC Address": "A0:8C:FD:DA:CC:25"
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "honey well CCB01",
+          "serial": "18312B1382"
+        }
+      ],
+      "createdAt": "2026-06-16T03:42:42",
+      "updatedAt": "2026-06-16T03:42:42"
     }
   ]
 }
