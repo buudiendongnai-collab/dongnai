@@ -2356,6 +2356,48 @@
       ],
       "createdAt": "2026-06-16T02:25:21",
       "updatedAt": "2026-06-16T02:25:21"
+    },
+    {
+      "id": "51bf0f6d241a48d890ec169e478c2741",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "815014",
+        "Tên Bưu cục": "BCVH THANH PHU",
+        "Họ và tên người sử dụng": "Lê Thanh Sang",
+        "Mã HRM": "00018803",
+        "Bộ phận / Phòng ban": "QUAN LI NGHIEP VU",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-DGK2SLN",
+        "Loại máy": "Desktop",
+        "Hãng": "ASUS",
+        "Model": "All Series",
+        "Năm sản xuất": "",
+        "Serial Number": "System Serial Number",
+        "CPU": "Intel(R) Pentium(R) CPU G3250 @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "156 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.124.146",
+        "MAC Address": "9C:5C:8E:CF:35:19"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "ZEBRA 620d",
+          "serial": "25288523700958"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "zebra DS2278A",
+          "serial": "25288523700958"
+        }
+      ],
+      "createdAt": "2026-06-16T02:29:49",
+      "updatedAt": "2026-06-16T02:29:49"
     }
   ]
 }
