@@ -1587,6 +1587,48 @@
       "attachments": [],
       "createdAt": "2026-06-16T01:08:22",
       "updatedAt": "2026-06-16T01:08:22"
+    },
+    {
+      "id": "dc40fce595464066addf2d4bfe3ae724",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "8117",
+        "Tên Xã": "Trảng Bom",
+        "Mã Bưu cục": "816400",
+        "Tên Bưu cục": "Trảng Bom",
+        "Họ và tên người sử dụng": "Nguyễn Thị Kim Tuyền",
+        "Mã HRM": "00268734",
+        "Bộ phận / Phòng ban": "Phòng Tài chính kế hoạch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "ADMN",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H110M-S2H",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Trellix Endpoint Security, Windows Defender",
+        "IP Address": "10.71.122.23",
+        "MAC Address": "1C:1B:0D:9A:27:67"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "photocopier",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-16T01:14:01",
+      "updatedAt": "2026-06-16T01:14:01"
     }
   ]
 }
