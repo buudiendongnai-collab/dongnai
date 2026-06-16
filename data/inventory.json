@@ -4566,56 +4566,35 @@
       "updatedAt": "2026-06-16T08:19:52"
     },
     {
-      "id": "2637ace2343449e6b7fd66ce702f854d",
+      "id": "df8946fa5f0948e9a554ede68d33e373",
       "category": "3. Máy Tính",
       "fields": {
         "Mã BĐ Xã": "",
-        "Tên Xã": "TRẢNG BOM",
-        "Mã Bưu cục": "816480",
-        "Tên Bưu cục": "BCP TRẢNG BOM",
-        "Họ và tên người sử dụng": "PHẠM THỊ YẾN",
-        "Mã HRM": "00018076",
-        "Bộ phận / Phòng ban": "XLNV BCP TRẢNG BOM",
+        "Tên Xã": "",
+        "Mã Bưu cục": "",
+        "Tên Bưu cục": "",
+        "Họ và tên người sử dụng": "",
+        "Mã HRM": "",
+        "Bộ phận / Phòng ban": "",
         "Mã vật tư": "",
-        "Tên máy (Hostname)": "DESKTOP-5NH443G",
-        "Loại máy": "Desktop",
-        "Hãng": "Dell Inc.",
-        "Model": "OptiPlex 3020M",
+        "Tên máy (Hostname)": "",
+        "Loại máy": "",
+        "Hãng": "",
+        "Model": "",
         "Năm sản xuất": "",
-        "Serial Number": "FTWBH32",
-        "CPU": "Intel(R) Core(TM) i3-4150T CPU @ 3.00GHz",
-        "RAM": "3.9 GB",
-        "Ổ cứng": "223 GB",
-        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
-        "Office": "Microsoft Office Office 64-bit Components 2010",
-        "Antivirus": "Windows Defender",
-        "IP Address": "10.71.122.14",
-        "MAC Address": "F8:BC:12:A5:81:A0"
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
       },
-      "attachments": [
-        {
-          "type": "thermal_printer",
-          "name": "",
-          "serial": ""
-        },
-        {
-          "type": "barcode_reader",
-          "name": "",
-          "serial": ""
-        },
-        {
-          "type": "scanner",
-          "name": "",
-          "serial": ""
-        },
-        {
-          "type": "ups",
-          "name": "",
-          "serial": ""
-        }
-      ],
-      "createdAt": "2026-06-16T08:29:54",
-      "updatedAt": "2026-06-16T08:29:54"
+      "attachments": [],
+      "createdAt": "2026-06-16T08:29:56",
+      "updatedAt": "2026-06-16T08:29:56"
     }
   ]
 }
