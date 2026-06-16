@@ -4533,6 +4533,37 @@
       "attachments": [],
       "createdAt": "2026-06-16T08:17:00",
       "updatedAt": "2026-06-16T08:17:00"
+    },
+    {
+      "id": "5af3d61402234e06bf2bafb46243cb87",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "813740",
+        "Tên Bưu cục": "BƯU CỤC GIA KIỆM",
+        "Họ và tên người sử dụng": "PHẠM THỊ THÊU",
+        "Mã HRM": "00081332",
+        "Bộ phận / Phòng ban": "TRƯỞNG BƯU CỤC",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-TN-GIAKIEM4",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP 280 G3 MT",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE7313937",
+        "CPU": "Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "113 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.112.41",
+        "MAC Address": "40:B0:34:18:7D:EA"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-16T08:19:52",
+      "updatedAt": "2026-06-16T08:19:52"
     }
   ]
 }
