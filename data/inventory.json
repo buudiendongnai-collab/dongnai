@@ -1722,6 +1722,43 @@
       "attachments": [],
       "createdAt": "2026-06-16T01:31:12",
       "updatedAt": "2026-06-16T01:31:12"
+    },
+    {
+      "id": "88e142061862496fa1dec4cf463ac626",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "8140-bưu điện xã Định Quán",
+        "Tên Xã": "xã Định Quán",
+        "Mã Bưu cục": "8140_BĐ xã Định quán",
+        "Tên Bưu cục": "Bưu điện xã Định Quán",
+        "Họ và tên người sử dụng": "Châu Thị Mỹ Phương",
+        "Mã HRM": "00018666",
+        "Bộ phận / Phòng ban": "phòng tài chính kế hoạch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-DQ-VP27",
+        "Loại máy": "Desktop",
+        "Hãng": "System manufacturer",
+        "Model": "System Product Name",
+        "Năm sản xuất": "",
+        "Serial Number": "System Serial Number",
+        "CPU": "Intel(R) Celeron(R) G4900 CPU @ 3.10GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "134 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.109.27",
+        "MAC Address": "0C:9D:92:BD:30:B6"
+      },
+      "attachments": [
+        {
+          "type": "photocopier",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-16T01:32:08",
+      "updatedAt": "2026-06-16T01:32:08"
     }
   ]
 }
