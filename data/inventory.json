@@ -1796,6 +1796,37 @@
       ],
       "createdAt": "2026-06-16T01:33:08",
       "updatedAt": "2026-06-16T01:33:08"
+    },
+    {
+      "id": "a1c68295c4594bfb985c192d566a7031",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "8117",
+        "Tên Bưu cục": "PHÒNG KẾ TOÁN - BĐX TRẢNG BOM",
+        "Họ và tên người sử dụng": "LƯƠNG THỊ YẾN",
+        "Mã HRM": "00018066",
+        "Bộ phận / Phòng ban": "PHÒNG TÀI CHÍNH KẾ HOẠCH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "YENKT-PC",
+        "Loại máy": "Desktop",
+        "Hãng": "ASUSTeK COMPUTER INC.",
+        "Model": "ASUS EXPERTPC S340MF_D3401SFF",
+        "Năm sản xuất": "",
+        "Serial Number": "KBPFCG007095458",
+        "CPU": "Intel(R) Core(TM) i5-9400 CPU @ 2.90GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "465 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2019 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.71.122.22",
+        "MAC Address": "04:D9:F5:BA:CF:8A"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-16T01:34:39",
+      "updatedAt": "2026-06-16T01:34:39"
     }
   ]
 }
