@@ -4471,6 +4471,37 @@
       "attachments": [],
       "createdAt": "2026-06-16T08:04:43",
       "updatedAt": "2026-06-16T08:04:43"
+    },
+    {
+      "id": "6bb01d4ee4eb42a9b4db220a45072e8a",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "815300",
+        "Tên Bưu cục": "GIAO DỊCH LONG THÀNH",
+        "Họ và tên người sử dụng": "PHẠM HỒNG THẮM",
+        "Mã HRM": "00268609",
+        "Bộ phận / Phòng ban": "GIAO DỊCH VIÊN",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-480T9HO",
+        "Loại máy": "Desktop",
+        "Hãng": "To be filled by O.E.M.",
+        "Model": "To be filled by O.E.M.",
+        "Năm sản xuất": "",
+        "Serial Number": "To be filled by O.E.M.",
+        "CPU": "Intel(R) Core(TM) i3-2120 CPU @ 3.30GHz",
+        "RAM": "9,9 GB",
+        "Ổ cứng": "111 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.71.120.142",
+        "MAC Address": "00:E0:4C:B0:1E:EE"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-16T08:06:18",
+      "updatedAt": "2026-06-16T08:06:18"
     }
   ]
 }
