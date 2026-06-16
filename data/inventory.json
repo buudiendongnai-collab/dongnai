@@ -2398,6 +2398,43 @@
       ],
       "createdAt": "2026-06-16T02:29:49",
       "updatedAt": "2026-06-16T02:29:49"
+    },
+    {
+      "id": "0d81e5b7f6b84a088de48e34638a5817",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "815014",
+        "Tên Bưu cục": "BCVH THẠNH PHÚ",
+        "Họ và tên người sử dụng": "Nguyễn Huỳnh Mai Trang",
+        "Mã HRM": "00018816",
+        "Bộ phận / Phòng ban": "QUẢN LÍ NGHIỆP VỤ",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-KTVC-BCP3-1",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP ProDesk 400 G3 MT",
+        "Năm sản xuất": "",
+        "Serial Number": "SGH649PJT6",
+        "CPU": "Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "ESET Security, Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.124.144",
+        "MAC Address": "DC:4A:3E:56:00:B5"
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRA DS2278A",
+          "serial": "21294523701302"
+        }
+      ],
+      "createdAt": "2026-06-16T02:32:41",
+      "updatedAt": "2026-06-16T02:32:41"
     }
   ]
 }
