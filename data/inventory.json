@@ -4037,6 +4037,37 @@
       "attachments": [],
       "createdAt": "2026-06-16T07:30:56",
       "updatedAt": "2026-06-16T07:30:56"
+    },
+    {
+      "id": "b2b1d276d4024efea47810f8f0c44b8f",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "trị an",
+        "Tên Xã": "trị an",
+        "Mã Bưu cục": "81.BDT",
+        "Tên Bưu cục": "Dong Nai",
+        "Họ và tên người sử dụng": "Nguyễn Thị Thu Hiền",
+        "Mã HRM": "00096458",
+        "Bộ phận / Phòng ban": "BDT Dong Nai",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-DDU0Q59",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP 280 Pro G5 Small Form Factor PC",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE150C6NJ",
+        "CPU": "Intel(R) Pentium(R) Gold G6405 CPU @ 4.10GHz",
+        "RAM": "3,7 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home Single Language 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2019 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Anti‑Virus",
+        "IP Address": "10.71.115.28",
+        "MAC Address": "C8:5A:CF:01:A7:DA"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-16T07:31:44",
+      "updatedAt": "2026-06-16T07:31:44"
     }
   ]
 }
