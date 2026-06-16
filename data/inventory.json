@@ -3964,6 +3964,48 @@
       "attachments": [],
       "createdAt": "2026-06-16T07:29:57",
       "updatedAt": "2026-06-16T07:29:57"
+    },
+    {
+      "id": "3d54432f765245d4aef8135edb2036f5",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "814020",
+        "Tên Bưu cục": "VHX Xuân Thọ",
+        "Họ và tên người sử dụng": "Phạm Thị Phương Dung",
+        "Mã HRM": "00018496",
+        "Bộ phận / Phòng ban": "GDV",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-XL-VHXXUANT",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "6BFG8F2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.4 GB",
+        "Ổ cứng": "241 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.17134",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.89",
+        "MAC Address": "18:66:DA:29:07:80"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "scanner",
+          "name": "honeywell",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-16T07:30:53",
+      "updatedAt": "2026-06-16T07:30:53"
     }
   ]
 }
