@@ -2725,6 +2725,37 @@
       ],
       "createdAt": "2026-06-16T04:03:47",
       "updatedAt": "2026-06-16T04:03:47"
+    },
+    {
+      "id": "b19558f4d98147588fcf016661bd56c3",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "8113",
+        "Tên Xã": "Bưu điện xã long thành",
+        "Mã Bưu cục": "815337",
+        "Tên Bưu cục": "VP BĐH LONG THÀNH",
+        "Họ và tên người sử dụng": "LƯU THỊ THÙY DUNG",
+        "Mã HRM": "00017900",
+        "Bộ phận / Phòng ban": "VP BĐH LONG THÀNH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-LT-VP-31",
+        "Loại máy": "vi tính lắp ráp",
+        "Hãng": "",
+        "Model": "",
+        "Năm sản xuất": "2012",
+        "Serial Number": "",
+        "CPU": "G2010@2.80GHz",
+        "RAM": "2GR",
+        "Ổ cứng": "120gb",
+        "Hệ điều hành": "WIN 7",
+        "Office": "",
+        "Antivirus": "kaspersky",
+        "IP Address": "10.71.120.31",
+        "MAC Address": "50-E5-49-AA-E5-62"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-16T04:08:44",
+      "updatedAt": "2026-06-16T04:08:44"
     }
   ]
 }
