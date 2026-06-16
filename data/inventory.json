@@ -2246,6 +2246,43 @@
       "attachments": [],
       "createdAt": "2026-06-16T02:13:14",
       "updatedAt": "2026-06-16T02:13:14"
+    },
+    {
+      "id": "fa72af8319d34429a3a945569ab62df0",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "815014",
+        "Tên Bưu cục": "BCVH THANH PHU",
+        "Họ và tên người sử dụng": "00018812",
+        "Mã HRM": "VY KIM THANH THỦY",
+        "Bộ phận / Phòng ban": "TRƯỞNG BƯU CỤC",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-TTP-TPHU142",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC52214P6",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2019 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.124.142",
+        "MAC Address": "10:B6:76:9E:1E:A6"
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRA DS2208",
+          "serial": "18146623400904"
+        }
+      ],
+      "createdAt": "2026-06-16T02:16:57",
+      "updatedAt": "2026-06-16T02:16:57"
     }
   ]
 }
