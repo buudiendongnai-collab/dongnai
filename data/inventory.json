@@ -4694,6 +4694,43 @@
       "attachments": [],
       "createdAt": "2026-06-16T10:06:11",
       "updatedAt": "2026-06-16T10:06:11"
+    },
+    {
+      "id": "2e455812dcd044f18eccd2594e4fbb54",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "816520",
+        "Tên Bưu cục": "vhx trung hòa",
+        "Họ và tên người sử dụng": "nguyễn thị kim nga",
+        "Mã HRM": "00248265",
+        "Bộ phận / Phòng ban": "giao dịch viên",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-TB-VHX-TH",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "1FZBH32",
+        "CPU": "Intel(R) Core(TM) i3-4150T CPU @ 3.00GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "225 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.18362",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.2",
+        "MAC Address": "F8:BC:12:A4:3B:31"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon 2900",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-16T10:14:53",
+      "updatedAt": "2026-06-16T10:14:53"
     }
   ]
 }
