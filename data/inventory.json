@@ -4105,6 +4105,48 @@
       ],
       "createdAt": "2026-06-16T07:37:10",
       "updatedAt": "2026-06-16T07:37:10"
+    },
+    {
+      "id": "cc680d3ae5584c7d88444354138068e7",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "814660",
+        "Tên Bưu cục": "BCVH Tân Phú",
+        "Họ và tên người sử dụng": "Nguyễn Đinh Duy Quang",
+        "Mã HRM": "00266545",
+        "Bộ phận / Phòng ban": "BCP",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-TP-KHT9",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "B85M-D3V Plus-SI",
+        "Năm sản xuất": "",
+        "Serial Number": "To be filled by O.E.M.",
+        "CPU": "Intel(R) Core(TM) i3-4160 CPU @ 3.60GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "112 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19045",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.111.35",
+        "MAC Address": "40:8D:5C:5C:AE:7D"
+      },
+      "attachments": [
+        {
+          "type": "photocopier",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-16T07:38:47",
+      "updatedAt": "2026-06-16T07:38:47"
     }
   ]
 }
