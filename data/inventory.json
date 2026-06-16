@@ -3238,6 +3238,37 @@
       "attachments": [],
       "createdAt": "2026-06-16T04:48:07",
       "updatedAt": "2026-06-16T04:48:07"
+    },
+    {
+      "id": "ad9e0e476eb7484687d11732c5c11f8a",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "8150",
+        "Tên Xã": "trị an",
+        "Mã Bưu cục": "815000",
+        "Tên Bưu cục": "trị an",
+        "Họ và tên người sử dụng": "trà thị thanh nguyên",
+        "Mã HRM": "0018219",
+        "Bộ phận / Phòng ban": "gdx trị an",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-UTC78TD",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP ProDesk 400 G4 MT",
+        "Năm sản xuất": "",
+        "Serial Number": "SGH809RKN6",
+        "CPU": "Intel(R) Core(TM) i5-7500 CPU @ 3.40GHz",
+        "RAM": "3,9 GB",
+        "Ổ cứng": "230 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2019 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.71.115.34",
+        "MAC Address": "18:60:24:90:B6:1E"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-16T04:55:00",
+      "updatedAt": "2026-06-16T04:55:00"
     }
   ]
 }
