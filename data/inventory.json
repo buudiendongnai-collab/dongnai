@@ -1556,6 +1556,37 @@
       "attachments": [],
       "createdAt": "2026-06-16T01:05:15",
       "updatedAt": "2026-06-16T01:05:15"
+    },
+    {
+      "id": "7a5de7beaf55453393b6d4313a7ae604",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "8110",
+        "Tên Bưu cục": "BƯU ĐIỆN PHƯỜNG TRẤN BIÊN",
+        "Họ và tên người sử dụng": "LÊ THỊ PHƯƠNG",
+        "Mã HRM": "00229456",
+        "Bộ phận / Phòng ban": "TÀI CHÍNH-KẾ HOẠCH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "PHUONGBDTP",
+        "Loại máy": "Desktop",
+        "Hãng": "ASUS",
+        "Model": "All Series",
+        "Năm sản xuất": "",
+        "Serial Number": "System Serial Number",
+        "CPU": "Intel(R) Pentium(R) CPU G3250 @ 3.20GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "Trellix Endpoint Security",
+        "IP Address": "10.71.148.204",
+        "MAC Address": "2C:56:DC:4D:32:85"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-16T01:08:22",
+      "updatedAt": "2026-06-16T01:08:22"
     }
   ]
 }
