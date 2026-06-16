@@ -2472,6 +2472,43 @@
       ],
       "createdAt": "2026-06-16T02:43:55",
       "updatedAt": "2026-06-16T02:43:55"
+    },
+    {
+      "id": "3d7aba9ca05147e18ef69eb74a405e4d",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "812739",
+        "Tên Bưu cục": "BCVH7",
+        "Họ và tên người sử dụng": "Nguyễn Thị Ngọc Loan",
+        "Mã HRM": "00018917",
+        "Bộ phận / Phòng ban": "trưởng buu cục",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-TTP-P4B63",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "Vostro 3470",
+        "Năm sản xuất": "",
+        "Serial Number": "F37Z8R2",
+        "CPU": "Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19044",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.168.64",
+        "MAC Address": "8C:EC:4B:92:2C:6E"
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "zebra CR2278",
+          "serial": "18146523400153"
+        }
+      ],
+      "createdAt": "2026-06-16T02:48:30",
+      "updatedAt": "2026-06-16T02:48:30"
     }
   ]
 }
