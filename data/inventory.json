@@ -2283,6 +2283,37 @@
       ],
       "createdAt": "2026-06-16T02:16:57",
       "updatedAt": "2026-06-16T02:16:57"
+    },
+    {
+      "id": "66db7a125b4541499c71b37fc5abbd5c",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "810100",
+        "Tên Bưu cục": "TRUNG TÂM KHAI THÁC ĐỒNG NAI",
+        "Họ và tên người sử dụng": "VŨ TRƯỜNG GIANG",
+        "Mã HRM": "00017796",
+        "Bộ phận / Phòng ban": "NHÂN VIÊN KHAI THÁC",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-TTKTVC-45",
+        "Loại máy": "DESKTOP",
+        "Hãng": "System Manufacturer\tDell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "Intel(R) Core(TM) i3-4150T CPU @ 3.00GHz",
+        "RAM": "4gb",
+        "Ổ cứng": "120gb",
+        "Hệ điều hành": "WIN7 PRO",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "10.71.168.45",
+        "MAC Address": "64-00-6A-2F-34-7D"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-16T02:21:36",
+      "updatedAt": "2026-06-16T02:21:36"
     }
   ]
 }
