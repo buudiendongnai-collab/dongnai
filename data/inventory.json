@@ -1827,6 +1827,37 @@
       "attachments": [],
       "createdAt": "2026-06-16T01:34:39",
       "updatedAt": "2026-06-16T01:34:39"
+    },
+    {
+      "id": "070210f9177944afbb0c69c4cd101de9",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "814600",
+        "Tên Bưu cục": "TÂN PHÚ",
+        "Họ và tên người sử dụng": "NGUYỄN VĂN MẾN",
+        "Mã HRM": "00018576",
+        "Bộ phận / Phòng ban": "PHÒNG TCKH BƯU ĐIỆN THÀNH PHỐ ĐỒNG NAI",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-TP-KT-MEN21",
+        "Loại máy": "desktop",
+        "Hãng": "gigabyte",
+        "Model": "h81m",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "intel i3 4150 3.0Hz",
+        "RAM": "4GB",
+        "Ổ cứng": "120Gb",
+        "Hệ điều hành": "win10 pro",
+        "Office": "2019",
+        "Antivirus": "trellix",
+        "IP Address": "10.71.111.21",
+        "MAC Address": "‎FC-AA-14-A4-A8-A9"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-16T01:40:54",
+      "updatedAt": "2026-06-16T01:40:54"
     }
   ]
 }
