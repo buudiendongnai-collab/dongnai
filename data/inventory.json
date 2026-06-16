@@ -3021,6 +3021,37 @@
       "attachments": [],
       "createdAt": "2026-06-16T04:32:44",
       "updatedAt": "2026-06-16T04:32:44"
+    },
+    {
+      "id": "aa47b90be6564b76abcda41b6fe17327",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "815170",
+        "Tên Bưu cục": "buu dien VHX MÃ Đà",
+        "Họ và tên người sử dụng": "LÊ THỊ HÒA",
+        "Mã HRM": "00018276",
+        "Bộ phận / Phòng ban": "giao dich vien",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-VC-MADA",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "To be filled by O.E.M.",
+        "Năm sản xuất": "",
+        "Serial Number": "To be filled by O.E.M.",
+        "CPU": "Intel(R) Core(TM) i3-3220 CPU @ 3.30GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "346 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2019 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.7",
+        "MAC Address": "FC:AA:14:40:17:EE"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-16T04:34:54",
+      "updatedAt": "2026-06-16T04:34:54"
     }
   ]
 }
