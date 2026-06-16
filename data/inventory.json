@@ -1629,6 +1629,37 @@
       ],
       "createdAt": "2026-06-16T01:14:01",
       "updatedAt": "2026-06-16T01:14:01"
+    },
+    {
+      "id": "8a67c168f6cb4e5f9ecfed3642c6fee9",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "8113",
+        "Tên Xã": "Bưu Điện Xã Long Thành",
+        "Mã Bưu cục": "8113",
+        "Tên Bưu cục": "Bưu Điện Xã Long Thành",
+        "Họ và tên người sử dụng": "Lý Ngọc Lan",
+        "Mã HRM": "00017949",
+        "Bộ phận / Phòng ban": "Kế Toán",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-CJURSMO",
+        "Loại máy": "Desktop",
+        "Hãng": "ASUS",
+        "Model": "System Product Name",
+        "Năm sản xuất": "2022",
+        "Serial Number": "System Serial Number",
+        "CPU": "Intel(R) Pentium(R) Gold G6405 CPU @ 4.10GHz",
+        "RAM": "15.8 GB",
+        "Ổ cứng": "461 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "Microsoft Office Home and Student 2016 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.120.25",
+        "MAC Address": "58:11:22:05:8F:16"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-16T01:18:48",
+      "updatedAt": "2026-06-16T01:18:48"
     }
   ]
 }
