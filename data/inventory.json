@@ -4184,6 +4184,43 @@
       ],
       "createdAt": "2026-06-16T07:41:10",
       "updatedAt": "2026-06-16T07:41:10"
+    },
+    {
+      "id": "06201e504a2d4624b537d0f9fd07ba6b",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "815000",
+        "Tên Bưu cục": "phường trị an",
+        "Họ và tên người sử dụng": "đặng quang anh",
+        "Mã HRM": "00100946",
+        "Bộ phận / Phòng ban": "giao dich",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-VC-VC-19",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "3X991H2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2013",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.115.13",
+        "MAC Address": "48:4D:7E:D7:87:8D"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-16T07:43:41",
+      "updatedAt": "2026-06-16T07:43:41"
     }
   ]
 }
