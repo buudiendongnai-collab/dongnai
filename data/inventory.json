@@ -3337,6 +3337,43 @@
       ],
       "createdAt": "2026-06-16T04:59:01",
       "updatedAt": "2026-06-16T04:59:01"
+    },
+    {
+      "id": "e992ebb8cb9944e19844139a046bba50",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "trị an",
+        "Tên Xã": "trị an",
+        "Mã Bưu cục": "815000",
+        "Tên Bưu cục": "trị an",
+        "Họ và tên người sử dụng": "hồ thị nhiên",
+        "Mã HRM": "00105270",
+        "Bộ phận / Phòng ban": "gdx phú lý",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-VC-VC-34",
+        "Loại máy": "Desktop",
+        "Hãng": "Hewlett-Packard",
+        "Model": "HP Compaq Pro 6300 SFF",
+        "Năm sản xuất": "",
+        "Serial Number": "JPA402T4QX",
+        "CPU": "Intel(R) Core(TM) i3-3240 CPU @ 3.40GHz",
+        "RAM": "3,9 GB",
+        "Ổ cứng": "471 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2019 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.71.115.36",
+        "MAC Address": "F0:92:1C:F0:B0:82"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon LBP3100/LBP3108/LBP3150",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-16T05:04:41",
+      "updatedAt": "2026-06-16T05:04:41"
     }
   ]
 }
