@@ -2620,6 +2620,43 @@
       ],
       "createdAt": "2026-06-16T03:46:13",
       "updatedAt": "2026-06-16T03:46:13"
+    },
+    {
+      "id": "cb036075d17547a18bcc4d495bbf6e59",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "812740",
+        "Tên Bưu cục": "BCVH4",
+        "Họ và tên người sử dụng": "PHAN THỊ TUYẾT",
+        "Mã HRM": "00018893",
+        "Bộ phận / Phòng ban": "nhan vien quan li",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-TTP-P416",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP 280 G3",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE731392Z",
+        "CPU": "Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "111 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional 2019 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.167.12",
+        "MAC Address": "00:06:7B:13:8E:40"
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "zebra  cr2278",
+          "serial": "1814682340495"
+        }
+      ],
+      "createdAt": "2026-06-16T03:40:31",
+      "updatedAt": "2026-06-16T03:40:31"
     }
   ]
 }
