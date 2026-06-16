@@ -1525,6 +1525,37 @@
       "attachments": [],
       "createdAt": "2026-06-15T10:56:02",
       "updatedAt": "2026-06-15T10:56:02"
+    },
+    {
+      "id": "9ce66dbba0544633924f6f6f4084c1c2",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "816400",
+        "Tên Bưu cục": "BƯU ĐIỆN TRẢNG BOM",
+        "Họ và tên người sử dụng": "PHAN THỊ KIM HOA",
+        "Mã HRM": "00018067",
+        "Bộ phận / Phòng ban": "PHÒNG TÀI CHÍNH KẾ HOẠCH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HOA",
+        "Loại máy": "Desktop",
+        "Hãng": "System manufacturer",
+        "Model": "System Product Name",
+        "Năm sản xuất": "",
+        "Serial Number": "System Serial Number",
+        "CPU": "Intel(R) Core(TM) i5-3470 CPU @ 3.20GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "344 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.71.122.21",
+        "MAC Address": "AC:9E:17:4D:A3:9A"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-16T01:05:15",
+      "updatedAt": "2026-06-16T01:05:15"
     }
   ]
 }
