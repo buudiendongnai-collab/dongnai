@@ -3589,6 +3589,37 @@
       ],
       "createdAt": "2026-06-16T06:45:30",
       "updatedAt": "2026-06-16T06:45:30"
+    },
+    {
+      "id": "ee5a1ae2f51c4c45aea1cdfd9d79e18c",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "815800",
+        "Tên Bưu cục": "BƯU ĐIỆN NHƠN TRẠCH",
+        "Họ và tên người sử dụng": "PHẠM THỊ LIÊN",
+        "Mã HRM": "00017973",
+        "Bộ phận / Phòng ban": "GIAO DICH VIEN",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-NT-GD83",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "GBP4TR2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "225 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19044",
+        "Office": "Microsoft Office LTSC Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "10.71.117.83",
+        "MAC Address": "B8:85:84:A8:CC:18"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-16T06:53:31",
+      "updatedAt": "2026-06-16T06:53:31"
     }
   ]
 }
