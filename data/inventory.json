@@ -2042,6 +2042,43 @@
       "attachments": [],
       "createdAt": "2026-06-16T01:57:01",
       "updatedAt": "2026-06-16T01:57:01"
+    },
+    {
+      "id": "0668e2dbfbbf4d4fb7fff7f019426d11",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "814470",
+        "Tên Bưu cục": "BƯU CỤC PHÚ CƯỜNG",
+        "Họ và tên người sử dụng": "PHẠM XUÂN HỒNG",
+        "Mã HRM": "00018713",
+        "Bộ phận / Phòng ban": "GIAO DỊCH VIÊN",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-DQ-PC132",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H110M-DS2",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Celeron(R) CPU G3930 @ 2.90GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "240 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.108.132",
+        "MAC Address": "1C:1B:0D:DB:E2:5A"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "zEBRA ZD620",
+          "serial": "02J204203170"
+        }
+      ],
+      "createdAt": "2026-06-16T01:58:49",
+      "updatedAt": "2026-06-16T01:58:49"
     }
   ]
 }
