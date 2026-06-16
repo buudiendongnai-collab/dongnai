@@ -3176,6 +3176,37 @@
       "attachments": [],
       "createdAt": "2026-06-16T04:44:54",
       "updatedAt": "2026-06-16T04:44:54"
+    },
+    {
+      "id": "c2b161c8233f47769a70cfef20510217",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "815020",
+        "Tên Bưu cục": "BƯU ĐIỆ VHX PHÚ LY",
+        "Họ và tên người sử dụng": "NGÔ THỊ PHƯƠNG THẢO",
+        "Mã HRM": "00276977",
+        "Bộ phận / Phòng ban": "GIAO DỊCH VIÊN",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-VC-PL66",
+        "Loại máy": "Desktop",
+        "Hãng": "LENOVO",
+        "Model": "3227K44",
+        "Năm sản xuất": "",
+        "Serial Number": "PB1VKDC",
+        "CPU": "Intel(R) Core(TM) i5-3570 CPU @ 3.40GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "117 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.114.66",
+        "MAC Address": "44:37:E6:C0:25:FD"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-16T04:45:55",
+      "updatedAt": "2026-06-16T04:45:55"
     }
   ]
 }
