@@ -1858,6 +1858,43 @@
       "attachments": [],
       "createdAt": "2026-06-16T01:40:54",
       "updatedAt": "2026-06-16T01:40:54"
+    },
+    {
+      "id": "0cc64f3547eb410fafde4c84b2936a05",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "8108",
+        "Tên Bưu cục": "Bưu Điện Xã Nhơn Trach",
+        "Họ và tên người sử dụng": "Trần Thúy An",
+        "Mã HRM": "00017951",
+        "Bộ phận / Phòng ban": "Phòng Tài Chính Kế Hoạch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-NT-VP-108",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H310M DS2 2.0",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Pentium(R) Gold G5400 CPU @ 3.70GHz",
+        "RAM": "3,1 GB",
+        "Ổ cứng": "298 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Bitdefender Endpoint Security Tools Antimalware, Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.117.108",
+        "MAC Address": "18:C0:4D:1D:75:84"
+      },
+      "attachments": [
+        {
+          "type": "photocopier",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-16T01:43:50",
+      "updatedAt": "2026-06-16T01:43:50"
     }
   ]
 }
