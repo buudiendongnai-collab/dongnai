@@ -1759,6 +1759,43 @@
       ],
       "createdAt": "2026-06-16T01:32:08",
       "updatedAt": "2026-06-16T01:32:08"
+    },
+    {
+      "id": "0a6fdadd94f74f51bead977cecdfd122",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "8142",
+        "Tên Xã": "Bưu điện xã Định Quán",
+        "Mã Bưu cục": "814200",
+        "Tên Bưu cục": "Giao Dịch Trung Tâm",
+        "Họ và tên người sử dụng": "Trần Lê Tiến",
+        "Mã HRM": "00018660",
+        "Bộ phận / Phòng ban": "Kê toán",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-DQ-VP-22",
+        "Loại máy": "Desktop",
+        "Hãng": "ASUS",
+        "Model": "All Series",
+        "Năm sản xuất": "",
+        "Serial Number": "System Serial Number",
+        "CPU": "Intel(R) Core(TM) i5-4590 CPU @ 3.30GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "352 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional 2019 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.109.22",
+        "MAC Address": "F0:2F:74:F8:E6:69"
+      },
+      "attachments": [
+        {
+          "type": "photocopier",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-16T01:33:08",
+      "updatedAt": "2026-06-16T01:33:08"
     }
   ]
 }
