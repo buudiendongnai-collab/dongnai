@@ -4440,6 +4440,37 @@
       ],
       "createdAt": "2026-06-16T07:57:09",
       "updatedAt": "2026-06-16T07:57:09"
+    },
+    {
+      "id": "9348114f6e4f469d850f8f3fb7ad6b66",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "815300",
+        "Tên Bưu cục": "GIAO DICH LONG THANH",
+        "Họ và tên người sử dụng": "NGÔ NGỌC TUẤN",
+        "Mã HRM": "00075192",
+        "Bộ phận / Phòng ban": "GIAO DICH VIEN",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-0UFA6G6",
+        "Loại máy": "Desktop",
+        "Hãng": "System manufacturer",
+        "Model": "System Product Name",
+        "Năm sản xuất": "",
+        "Serial Number": "System Serial Number",
+        "CPU": "AMD Athlon 200GE with Radeon Vega Graphics",
+        "RAM": "13,9 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.71.120.214",
+        "MAC Address": "04:D9:F5:37:34:7E"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-16T08:04:43",
+      "updatedAt": "2026-06-16T08:04:43"
     }
   ]
 }
