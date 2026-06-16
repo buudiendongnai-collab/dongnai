@@ -4372,6 +4372,37 @@
       "attachments": [],
       "createdAt": "2026-06-16T07:52:44",
       "updatedAt": "2026-06-16T07:52:44"
+    },
+    {
+      "id": "dcdc38ada3c147ddbb3cce3a335a18ad",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "813840",
+        "Tên Bưu cục": "vhx xuân thạnh",
+        "Họ và tên người sử dụng": "Lê Thị Quỳnh Ngự",
+        "Mã HRM": "00018356.",
+        "Bộ phận / Phòng ban": "giao dich vien",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-TN-XUANTHAN",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H310M DS2 2.0",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Pentium(R) Gold G5420 CPU @ 3.80GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "121 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows, Avast Antivirus",
+        "IP Address": "192.168.1.7",
+        "MAC Address": "18:C0:4D:42:A3:0C"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-16T07:57:14",
+      "updatedAt": "2026-06-16T07:57:14"
     }
   ]
 }
