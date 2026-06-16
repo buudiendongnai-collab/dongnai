@@ -3374,6 +3374,48 @@
       ],
       "createdAt": "2026-06-16T05:04:41",
       "updatedAt": "2026-06-16T05:04:41"
+    },
+    {
+      "id": "11f62d30b1e34b089fa95f096c585f04",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "814710",
+        "Tên Xã": "NAM CÁT TIÊN",
+        "Mã Bưu cục": "814710",
+        "Tên Bưu cục": "BƯU ĐIỆN VXH NAM CÁT TIÊN",
+        "Họ và tên người sử dụng": "NGUYỄN VĂN HOÀNG",
+        "Mã HRM": "00084016",
+        "Bộ phận / Phòng ban": "VHX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-TP-VHXNAMCA",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP ProDesk 600 G5 Desktop Mini",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC0113318",
+        "CPU": "Intel(R) Core(TM) i3-9100T CPU @ 3.10GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "466 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows, 360 Total Security",
+        "IP Address": "10.200.38.84",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON 2009",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "HONEY",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-16T05:09:45",
+      "updatedAt": "2026-06-16T05:09:45"
     }
   ]
 }
