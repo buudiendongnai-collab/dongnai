@@ -3798,6 +3798,37 @@
       "attachments": [],
       "createdAt": "2026-06-16T07:06:36",
       "updatedAt": "2026-06-16T07:06:36"
+    },
+    {
+      "id": "e478e11a8b274fb9a3315007414a2013",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "BUU CỤC XUÂN TÂN",
+        "Tên Xã": "PHƯỜNG HÀNG GÒN",
+        "Mã Bưu cục": "813560",
+        "Tên Bưu cục": "BUU CỤC XUÂN TÂN",
+        "Họ và tên người sử dụng": "NGUYỄN THỊ MINH SANG",
+        "Mã HRM": "00018395",
+        "Bộ phận / Phòng ban": "BƯU ĐIỆN XÃ XUÂN TÂN",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-GI65B4L",
+        "Loại máy": "Desktop",
+        "Hãng": "System manufacturer",
+        "Model": "System Product Name",
+        "Năm sản xuất": "",
+        "Serial Number": "System Serial Number",
+        "CPU": "AMD Ryzen 3 3200G with Radeon Vega Graphics",
+        "RAM": "5.9 GB",
+        "Ổ cứng": "225 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Home and Student 2016 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.4",
+        "MAC Address": "D4:5D:64:F3:DD:B7"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-16T07:07:25",
+      "updatedAt": "2026-06-16T07:07:25"
     }
   ]
 }
