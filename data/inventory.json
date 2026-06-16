@@ -4663,6 +4663,37 @@
       ],
       "createdAt": "2026-06-16T09:12:00",
       "updatedAt": "2026-06-16T09:12:00"
+    },
+    {
+      "id": "33b5195ab40a4b6eb522b95e38bf82c3",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "814240",
+        "Tên Bưu cục": "BCVH Định Quán",
+        "Họ và tên người sử dụng": "Phan Thị Thùy Dung",
+        "Mã HRM": "00268594",
+        "Bộ phận / Phòng ban": "BCVH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "MAYTINH-93ON0L1",
+        "Loại máy": "Desktop",
+        "Hãng": "ASUS",
+        "Model": "All Series",
+        "Năm sản xuất": "",
+        "Serial Number": "System Serial Number",
+        "CPU": "Intel(R) Core(TM) i5-4590 CPU @ 3.30GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "111 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.71.109.97",
+        "MAC Address": "7C:10:C9:9B:E2:99"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-16T10:06:11",
+      "updatedAt": "2026-06-16T10:06:11"
     }
   ]
 }
