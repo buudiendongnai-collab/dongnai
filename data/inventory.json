@@ -3083,6 +3083,37 @@
       "attachments": [],
       "createdAt": "2026-06-16T04:38:50",
       "updatedAt": "2026-06-16T04:38:50"
+    },
+    {
+      "id": "d0dee0cbc13b4d80be571c62dbfefc38",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "815190",
+        "Tên Bưu cục": "bưu điệ vhx Hiếu Liêm",
+        "Họ và tên người sử dụng": "NGUYÊN TIẾN DŨNG",
+        "Mã HRM": "00241263",
+        "Bộ phận / Phòng ban": "giao dich vien",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HIEULIEM",
+        "Loại máy": "Desktop",
+        "Hãng": "Micro-Star International Co., Ltd.",
+        "Model": "MS-7C13",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Pentium(R) Gold G5400 CPU @ 3.70GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "114 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19042",
+        "Office": "Microsoft Office Professional Plus 2019 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.5",
+        "MAC Address": "00:D8:61:A8:FA:0F"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-16T04:40:57",
+      "updatedAt": "2026-06-16T04:40:57"
     }
   ]
 }
