@@ -3484,6 +3484,37 @@
       "attachments": [],
       "createdAt": "2026-06-16T06:13:46",
       "updatedAt": "2026-06-16T06:13:46"
+    },
+    {
+      "id": "f484073f4b9d49d2b38b14e56b8b5543",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "812760",
+        "Tên Bưu cục": "BƯU CỤC LONG BÌNH TÂN",
+        "Họ và tên người sử dụng": "BÙi Thị Ánh Vân",
+        "Mã HRM": "00017580",
+        "Bộ phận / Phòng ban": "GIAO DICH VIEN",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-BH-LBT69",
+        "Loại máy": "DESKTOP",
+        "Hãng": "DELL",
+        "Model": "OPTILEX 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "INTEL I3 4160 3.0HZ",
+        "RAM": "4GB",
+        "Ổ cứng": "120GB",
+        "Hệ điều hành": "WIN 7",
+        "Office": "2010",
+        "Antivirus": "KASPERKYS",
+        "IP Address": "10.71.126.69",
+        "MAC Address": "64-00-6A-09-4D-65"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-16T06:40:33",
+      "updatedAt": "2026-06-16T06:40:33"
     }
   ]
 }
