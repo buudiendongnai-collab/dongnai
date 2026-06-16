@@ -4006,6 +4006,37 @@
       ],
       "createdAt": "2026-06-16T07:30:53",
       "updatedAt": "2026-06-16T07:30:53"
+    },
+    {
+      "id": "e3993afe95ef47c79b99fb49fdfe7478",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "Tân An",
+        "Tên Xã": "Tân An",
+        "Mã Bưu cục": "8148",
+        "Tên Bưu cục": "Tân An",
+        "Họ và tên người sử dụng": "Vũ Thị Thanh Hoa",
+        "Mã HRM": "00018226",
+        "Bộ phận / Phòng ban": "Giám đốc xã Tân An",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-VC-TP31",
+        "Loại máy": "Desktop",
+        "Hãng": "Hewlett-Packard",
+        "Model": "HP Compaq Pro 6300 SFF",
+        "Năm sản xuất": "",
+        "Serial Number": "JPA347LMQN",
+        "CPU": "Intel(R) Core(TM) i3-3240 CPU @ 3.40GHz",
+        "RAM": "3,9 GB",
+        "Ổ cứng": "344 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2019 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.115.40",
+        "MAC Address": "14:EB:B6:BF:43:45"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-16T07:30:56",
+      "updatedAt": "2026-06-16T07:30:56"
     }
   ]
 }
