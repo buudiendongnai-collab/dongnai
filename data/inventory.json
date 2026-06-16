@@ -1932,6 +1932,43 @@
       ],
       "createdAt": "2026-06-16T01:46:21",
       "updatedAt": "2026-06-16T01:46:21"
+    },
+    {
+      "id": "ffaf11276cb343789aa6421f18a2b777",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "8108",
+        "Tên Bưu cục": "Bưu điện xã Nhơn Trạch",
+        "Họ và tên người sử dụng": "Nguyễn Thị Thanh Tuyền",
+        "Mã HRM": "00107433",
+        "Bộ phận / Phòng ban": "Phòng tài chính kế hoạch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-NT-VP-79",
+        "Loại máy": "Desktop",
+        "Hãng": "Hewlett-Packard",
+        "Model": "HP Compaq Elite 8300 SFF",
+        "Năm sản xuất": "",
+        "Serial Number": "JPA3346V1S",
+        "CPU": "Intel(R) Core(TM) i3-3240 CPU @ 3.40GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "999 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2013",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.117.74",
+        "MAC Address": "74:46:A0:A8:FF:2C"
+      },
+      "attachments": [
+        {
+          "type": "photocopier",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-16T01:46:52",
+      "updatedAt": "2026-06-16T01:46:52"
     }
   ]
 }
