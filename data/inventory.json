@@ -2435,6 +2435,43 @@
       ],
       "createdAt": "2026-06-16T02:32:41",
       "updatedAt": "2026-06-16T02:32:41"
+    },
+    {
+      "id": "f512b88773ea45e0ba8136bf904d7313",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "812739",
+        "Tên Bưu cục": "BCVH7",
+        "Họ và tên người sử dụng": "Dinh Thanh Bình",
+        "Mã HRM": "00018849",
+        "Bộ phận / Phòng ban": "quan li nghiep vu",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-TTP-P4B27",
+        "Loại máy": "Laptop",
+        "Hãng": "HP",
+        "Model": "HP Laptop 15-da0xxx",
+        "Năm sản xuất": "",
+        "Serial Number": "CND929473G",
+        "CPU": "Intel(R) Core(TM) i3-7020U CPU @ 2.30GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "698 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.168.106",
+        "MAC Address": "F8:B4:6A:17:B2:B0"
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "honeywell     CCB01",
+          "serial": "17128B182F"
+        }
+      ],
+      "createdAt": "2026-06-16T02:43:55",
+      "updatedAt": "2026-06-16T02:43:55"
     }
   ]
 }
