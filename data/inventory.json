@@ -2153,6 +2153,37 @@
       ],
       "createdAt": "2026-06-16T02:04:30",
       "updatedAt": "2026-06-16T02:04:30"
+    },
+    {
+      "id": "1fb1a7370d8e40c3bc887879e3d8fe90",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "813700",
+        "Tên Bưu cục": "GIAO DỊCH THỐNG NHẤT",
+        "Họ và tên người sử dụng": "nguyễn thị bích ngọc",
+        "Mã HRM": "00018085",
+        "Bộ phận / Phòng ban": "GIAO DỊCH VIÊN",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-TN-GD253",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H310M DS2 2.0",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Pentium(R) Gold G5400 CPU @ 3.70GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "225 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows, Avast Antivirus",
+        "IP Address": "10.200.38.108",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-16T02:07:37",
+      "updatedAt": "2026-06-16T02:07:37"
     }
   ]
 }
