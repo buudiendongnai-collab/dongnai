@@ -1691,6 +1691,37 @@
       "attachments": [],
       "createdAt": "2026-06-16T01:20:38",
       "updatedAt": "2026-06-16T01:20:38"
+    },
+    {
+      "id": "d2c3b435361d4f2793a285033367dea7",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "8122",
+        "Tên Bưu cục": "bưu điện huyện thống nhất",
+        "Họ và tên người sử dụng": "Bùi thị nguyệt dung",
+        "Mã HRM": "00245049",
+        "Bộ phận / Phòng ban": "kế toán thống nhất",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-TN-VP220",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H410M H V2",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Pentium(R) Gold G6400 CPU @ 4.00GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.161.212",
+        "MAC Address": "18:C0:4D:E8:38:4C"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-16T01:31:12",
+      "updatedAt": "2026-06-16T01:31:12"
     }
   ]
 }
