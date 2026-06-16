@@ -4403,6 +4403,43 @@
       "attachments": [],
       "createdAt": "2026-06-16T07:57:14",
       "updatedAt": "2026-06-16T07:57:14"
+    },
+    {
+      "id": "b4d3d1497fcb46668efb1a1a97618456",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "814870",
+        "Tên Xã": "XÃ TÂN PHÚ",
+        "Mã Bưu cục": "814870",
+        "Tên Bưu cục": "BƯU ĐIỆN PHÚ THANH",
+        "Họ và tên người sử dụng": "TRẦN THỊ THÙY TRANG",
+        "Mã HRM": "00251209",
+        "Bộ phận / Phòng ban": "NHÂN VIÊN",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-TP-VHXPHUTH",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "6BXK8F2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "220 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "10.200.38.91",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-16T07:57:09",
+      "updatedAt": "2026-06-16T07:57:09"
     }
   ]
 }
