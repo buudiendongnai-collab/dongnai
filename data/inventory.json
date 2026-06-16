@@ -4147,6 +4147,43 @@
       ],
       "createdAt": "2026-06-16T07:38:47",
       "updatedAt": "2026-06-16T07:38:47"
+    },
+    {
+      "id": "c9529167eff94beab325328c801f4516",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "815000",
+        "Tên Bưu cục": "Bưu điện Vĩnh Cửu",
+        "Họ và tên người sử dụng": "Nguyễn Xuân Mạnh",
+        "Mã HRM": "00241557",
+        "Bộ phận / Phòng ban": "phòng giao dịch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-VC-GD38",
+        "Loại máy": "Desktop",
+        "Hãng": "Micro-Star International Co., Ltd.",
+        "Model": "MS-7C13",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Pentium(R) Gold G5400 CPU @ 3.70GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "114 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19044",
+        "Office": "Microsoft Office Professional 2019 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.115.38",
+        "MAC Address": "00:D8:61:A8:FC:9E"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon lpb 2900",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-16T07:41:10",
+      "updatedAt": "2026-06-16T07:41:10"
     }
   ]
 }
