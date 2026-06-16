@@ -3860,6 +3860,37 @@
       "attachments": [],
       "createdAt": "2026-06-16T07:09:37",
       "updatedAt": "2026-06-16T07:09:37"
+    },
+    {
+      "id": "e6a36ae203a843d7aa46513b173c00fe",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "Trị An",
+        "Tên Xã": "Trị An",
+        "Mã Bưu cục": "81.BDT",
+        "Tên Bưu cục": "BC Vĩnh Cửu",
+        "Họ và tên người sử dụng": "Nguyễn Thị Phương",
+        "Mã HRM": "00018212",
+        "Bộ phận / Phòng ban": "tài chính kế hoạch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-VC-VP74",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "B365M D2V",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Core(TM) i3-9100F CPU @ 3.60GHz",
+        "RAM": "3,9 GB",
+        "Ổ cứng": "1043 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2019 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.115.19",
+        "MAC Address": "B4:2E:99:CF:ED:42"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-16T07:11:00",
+      "updatedAt": "2026-06-16T07:11:00"
     }
   ]
 }
