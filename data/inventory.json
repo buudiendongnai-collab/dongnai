@@ -3515,6 +3515,43 @@
       "attachments": [],
       "createdAt": "2026-06-16T06:40:33",
       "updatedAt": "2026-06-16T06:40:33"
+    },
+    {
+      "id": "fa94a38dbc034b03b58117c78ed7179c",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "8108",
+        "Tên Xã": "Xã Nhơn Trạch",
+        "Mã Bưu cục": "8108",
+        "Tên Bưu cục": "Xã Nhơn Trạch",
+        "Họ và tên người sử dụng": "Bùi Thị Hương Sen",
+        "Mã HRM": "00017977",
+        "Bộ phận / Phòng ban": "Phòng Tài Chính Kế Hoạch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-NT-KT-76",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP 280 G2 MT",
+        "Năm sản xuất": "",
+        "Serial Number": "SGH714R01G",
+        "CPU": "Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "344 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows, 360 Total Security",
+        "IP Address": "10.71.117.94",
+        "MAC Address": "A0:8C:FD:D9:91:1B"
+      },
+      "attachments": [
+        {
+          "type": "photocopier",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-16T06:42:45",
+      "updatedAt": "2026-06-16T06:42:45"
     }
   ]
 }
