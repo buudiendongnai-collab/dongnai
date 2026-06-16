@@ -4263,6 +4263,53 @@
       ],
       "createdAt": "2026-06-16T07:45:07",
       "updatedAt": "2026-06-16T07:45:07"
+    },
+    {
+      "id": "d0dec8cf64f74c53a9df3188401a8102",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "814240",
+        "Tên Bưu cục": "BCVH Định Quán",
+        "Họ và tên người sử dụng": "Phan Duy Long",
+        "Mã HRM": "00118298",
+        "Bộ phận / Phòng ban": "BCVH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-DQ-BCP-20",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP ProDesk 400 G3 MT",
+        "Năm sản xuất": "",
+        "Serial Number": "SGH610R4R7",
+        "CPU": "Intel(R) Core(TM) i3-6100 CPU @ 3.70GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "465 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.17134",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.109.20",
+        "MAC Address": "DC:4A:3E:3F:CB:3E"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon  LBP2900",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Zebra GK420D",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Zebra DS2278",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-16T07:46:18",
+      "updatedAt": "2026-06-16T07:46:18"
     }
   ]
 }
