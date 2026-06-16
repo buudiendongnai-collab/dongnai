@@ -2959,6 +2959,37 @@
       "attachments": [],
       "createdAt": "2026-06-16T04:24:05",
       "updatedAt": "2026-06-16T04:24:05"
+    },
+    {
+      "id": "7f003d5bca604ecd8cf751cb52e9b0b2",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "814790",
+        "Tên Bưu cục": "phu lap",
+        "Họ và tên người sử dụng": "NGUYỄN THỊ NHƯ THUỶ",
+        "Mã HRM": "000018595",
+        "Bộ phận / Phòng ban": "giao dich vien",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "ADM1",
+        "Loại máy": "",
+        "Hãng": "",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "Intel(R)+Core(TM)+i3-4160",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "win 10",
+        "Office": "2019",
+        "Antivirus": "kasperkey",
+        "IP Address": "10.71.110.139",
+        "MAC Address": "‎00-E0-24-97-80-C1"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-16T04:29:53",
+      "updatedAt": "2026-06-16T04:29:53"
     }
   ]
 }
