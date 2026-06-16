@@ -3662,6 +3662,37 @@
       ],
       "createdAt": "2026-06-16T06:54:20",
       "updatedAt": "2026-06-16T06:54:20"
+    },
+    {
+      "id": "e730014de4b24f00a3b3cb8604663bb2",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "815043",
+        "Tên Bưu cục": "BƯU ĐIỆN VHX TRỊ AN",
+        "Họ và tên người sử dụng": "NGUYỄN THỊ THU NGUYỆT",
+        "Mã HRM": "00018275",
+        "Bộ phận / Phòng ban": "GIAO DỊCH VIÊN",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-VC-TRA",
+        "Loại máy": "Desktop",
+        "Hãng": "Hewlett-Packard",
+        "Model": "HP Compaq Pro 6300 SFF",
+        "Năm sản xuất": "",
+        "Serial Number": "JPA4105GLR",
+        "CPU": "Intel(R) Core(TM) i3-3240 CPU @ 3.40GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "114 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2019 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.2",
+        "MAC Address": "A0:48:1C:95:F3:8E"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-16T06:57:33",
+      "updatedAt": "2026-06-16T06:57:33"
     }
   ]
 }
