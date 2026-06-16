@@ -3114,6 +3114,37 @@
       "attachments": [],
       "createdAt": "2026-06-16T04:40:57",
       "updatedAt": "2026-06-16T04:40:57"
+    },
+    {
+      "id": "2620856b8b50425bbaf5fa18cfcef6ec",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "815050",
+        "Tên Bưu cục": "BƯU ĐIỆN VHX TÂN AN",
+        "Họ và tên người sử dụng": "nguyễn thị ánh tuyết",
+        "Mã HRM": "00272076",
+        "Bộ phận / Phòng ban": "GIAO DỊCH VIÊN",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-JFSJJDK",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "GB7ZSR2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "240 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.14393",
+        "Office": "Microsoft Office Professional Plus 2016 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.4",
+        "MAC Address": "B8:85:84:A8:C9:20"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-16T04:42:54",
+      "updatedAt": "2026-06-16T04:42:54"
     }
   ]
 }
