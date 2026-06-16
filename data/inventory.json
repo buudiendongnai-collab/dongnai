@@ -4341,6 +4341,37 @@
       "attachments": [],
       "createdAt": "2026-06-16T07:50:02",
       "updatedAt": "2026-06-16T07:50:02"
+    },
+    {
+      "id": "e6bd5037134b4a69a36f1e15bcc6f857",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "814450",
+        "Tên Bưu cục": "VHX Suối Nho",
+        "Họ và tên người sử dụng": "Nguyễn Ngọc Như Ý",
+        "Mã HRM": "00018755",
+        "Bộ phận / Phòng ban": "Bưu điện VHX Suối Nho",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-DQ-VHXSUOIN",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "6BNM8F2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "240 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise LTSC 10.0.17763",
+        "Office": "Microsoft Office Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.49",
+        "MAC Address": "18:66:DA:28:C9:E4"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-16T07:52:44",
+      "updatedAt": "2026-06-16T07:52:44"
     }
   ]
 }
