@@ -2990,6 +2990,37 @@
       "attachments": [],
       "createdAt": "2026-06-16T04:29:53",
       "updatedAt": "2026-06-16T04:29:53"
+    },
+    {
+      "id": "ff5c801390fa43bfa6efc63aaff8da57",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "815070",
+        "Tên Bưu cục": "buu cuc vinh tan",
+        "Họ và tên người sử dụng": "VƯƠNG THỊ HỒNG",
+        "Mã HRM": "00113409",
+        "Bộ phận / Phòng ban": "giao dich vien",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-DH3KH56",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "B1MJ862",
+        "CPU": "Intel(R) Core(TM) i3-4160T CPU @ 3.10GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "112 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.71.114.132",
+        "MAC Address": "64:00:6A:00:30:3F"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-16T04:32:44",
+      "updatedAt": "2026-06-16T04:32:44"
     }
   ]
 }
