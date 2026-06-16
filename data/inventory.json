@@ -2886,6 +2886,48 @@
       "attachments": [],
       "createdAt": "2026-06-16T04:20:08",
       "updatedAt": "2026-06-16T04:20:08"
+    },
+    {
+      "id": "7da8cf5ea0164f56a4491e513f8ee71d",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "815610",
+        "Tên Bưu cục": "vhx bàu cạn",
+        "Họ và tên người sử dụng": "vương thị thủy tiên",
+        "Mã HRM": "00255158",
+        "Bộ phận / Phòng ban": "nhân viên kinh doanh tại quầy",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-LT-VHXBAUCA",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP ProDesk 600 G5 Desktop Mini",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC011332Z",
+        "CPU": "Intel(R) Core(TM) i3-9100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "225 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise LTSC 10.0.17763",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.2",
+        "MAC Address": "38:22:E2:18:8D:21"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon",
+          "serial": "h-q2612a/c303/fx9"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "sl41",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-16T04:22:06",
+      "updatedAt": "2026-06-16T04:22:06"
     }
   ]
 }
