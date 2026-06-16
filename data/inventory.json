@@ -2116,6 +2116,43 @@
       ],
       "createdAt": "2026-06-16T02:01:23",
       "updatedAt": "2026-06-16T02:01:23"
+    },
+    {
+      "id": "1b2ef827dd9b461586969a258454b52f",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "814470",
+        "Tên Bưu cục": "BƯU CỤC PHÚ CƯỜNG",
+        "Họ và tên người sử dụng": "ĐỖ THỊ NINH",
+        "Mã HRM": "00018702",
+        "Bộ phận / Phòng ban": "TRUONG BUU CUC",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-NJVUQUP",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "6FXBH32",
+        "CPU": "Intel(R) Core(TM) i3-4150T CPU @ 3.00GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "240 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft 365 Apps for enterprise - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "10.71.108.161",
+        "MAC Address": "F8:BC:12:A5:80:5B"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON 2900",
+          "serial": "050972-11"
+        }
+      ],
+      "createdAt": "2026-06-16T02:04:30",
+      "updatedAt": "2026-06-16T02:04:30"
     }
   ]
 }
