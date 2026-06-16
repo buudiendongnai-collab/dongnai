@@ -1895,6 +1895,43 @@
       ],
       "createdAt": "2026-06-16T01:43:50",
       "updatedAt": "2026-06-16T01:43:50"
+    },
+    {
+      "id": "4f66804aed2a40eb98a2688ec5235e72",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "814470",
+        "Tên Bưu cục": "phu cuong",
+        "Họ và tên người sử dụng": "PHAN THI THUY TIEN",
+        "Mã HRM": "00018708",
+        "Bộ phận / Phòng ban": "giao dich vien",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-DQ-PTUC69",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC52214RP",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "239 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2019 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.108.145",
+        "MAC Address": "10:B6:76:9E:1F:A4"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "xprint 420b",
+          "serial": "254LUE21B25083"
+        }
+      ],
+      "createdAt": "2026-06-16T01:46:21",
+      "updatedAt": "2026-06-16T01:46:21"
     }
   ]
 }
