@@ -283,6 +283,37 @@
       ],
       "createdAt": "2026-06-17T05:27:26",
       "updatedAt": "2026-06-17T05:27:26"
+    },
+    {
+      "id": "66ba78f043de4de6873add666d33f84b",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "810100",
+        "Tên Bưu cục": "TRUNG TÂM KHAI THÁC ĐỒNG NAI",
+        "Họ và tên người sử dụng": "VŨ TRƯỜNG GIANG",
+        "Mã HRM": "xx",
+        "Bộ phận / Phòng ban": "NHÂN VIÊN KHAI THÁC",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "dell",
+        "Loại máy": "desktop",
+        "Hãng": "dell",
+        "Model": "3020m",
+        "Năm sản xuất": "",
+        "Serial Number": "bbth862",
+        "CPU": "i3 4160",
+        "RAM": "4gb",
+        "Ổ cứng": "120gb",
+        "Hệ điều hành": "WIN7 PRO",
+        "Office": "2010",
+        "Antivirus": "kaspersk",
+        "IP Address": "10.71.168.45",
+        "MAC Address": "64-00-6A-2F-34-7D"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-17T05:30:26",
+      "updatedAt": "2026-06-17T05:30:26"
     }
   ]
 }
