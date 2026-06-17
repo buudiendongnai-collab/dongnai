@@ -1225,6 +1225,37 @@
       "attachments": [],
       "createdAt": "2026-06-17T09:32:42",
       "updatedAt": "2026-06-17T09:32:42"
+    },
+    {
+      "id": "29ba480d05d84fdfa93177e58fa28885",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "815956",
+        "Tên Bưu cục": "BCVH KCN NHON TRACH",
+        "Họ và tên người sử dụng": "Nguyễn Trường Phúc",
+        "Mã HRM": "x",
+        "Bộ phận / Phòng ban": "NVXL",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-NT-BCPKCN95",
+        "Loại máy": "Desktop",
+        "Hãng": "System manufacturer",
+        "Model": "System Product Name",
+        "Năm sản xuất": "",
+        "Serial Number": "System Serial Number",
+        "CPU": "Intel(R) Core(TM)2 Duo CPU     E7500  @ 2.93GHz",
+        "RAM": "2 GB",
+        "Ổ cứng": "111 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.116.91",
+        "MAC Address": "48:5B:39:51:1A:98"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-17T09:34:22",
+      "updatedAt": "2026-06-17T09:34:22"
     }
   ]
 }
