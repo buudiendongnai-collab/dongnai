@@ -120,6 +120,48 @@
       ],
       "createdAt": "2026-06-17T05:10:41",
       "updatedAt": "2026-06-17T05:10:41"
+    },
+    {
+      "id": "b0e75f6de89e4b9482a47240f3d4b4e3",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "810100",
+        "Tên Bưu cục": "ttktvc đồng nai",
+        "Họ và tên người sử dụng": "đặng minh tâm",
+        "Mã HRM": "xx",
+        "Bộ phận / Phòng ban": "nhân viên khai thac",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-KTVC-83",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP 280 G2 MT",
+        "Năm sản xuất": "",
+        "Serial Number": "SGH721Q32P",
+        "CPU": "Intel(R) Core(TM) i3-6100 CPU @ 3.70GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.16299",
+        "Office": "",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.168.83",
+        "MAC Address": "A0:8C:FD:F1:F6:DC"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "xprint 420b",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "honey well",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-17T05:13:26",
+      "updatedAt": "2026-06-17T05:13:26"
     }
   ]
 }
