@@ -78,6 +78,48 @@
       ],
       "createdAt": "2026-06-17T05:03:36",
       "updatedAt": "2026-06-17T05:03:36"
+    },
+    {
+      "id": "224fe1479ab14171a4d7818eeda73d2b",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "810100",
+        "Tên Bưu cục": "TTKTVC ĐỒNG NAI",
+        "Họ và tên người sử dụng": "NGUYỄN THỊ THU NGA",
+        "Mã HRM": "XX",
+        "Bộ phận / Phòng ban": "NHÂN VIÊN KHAI THAC",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-TTKCVC-61",
+        "Loại máy": "DESKTOP",
+        "Hãng": "DELL",
+        "Model": "DELL VOSTRO",
+        "Năm sản xuất": "",
+        "Serial Number": "F1Q29R2",
+        "CPU": "Processor\tIntel(R) Core(TM) i3-8100 CPU @ 3.60GHz, 3600 Mhz,",
+        "RAM": "4GB",
+        "Ổ cứng": "240GB",
+        "Hệ điều hành": "W11 PRO",
+        "Office": "2010",
+        "Antivirus": "KASPERKY",
+        "IP Address": "10.71.168.61",
+        "MAC Address": "8C-EC-4B-92-2C-DC"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "ZEBRA ZD620",
+          "serial": "d3j183400841"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRA DS22",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-17T05:10:41",
+      "updatedAt": "2026-06-17T05:10:41"
     }
   ]
 }
