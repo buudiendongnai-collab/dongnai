@@ -487,6 +487,43 @@
       "attachments": [],
       "createdAt": "2026-06-17T07:02:04",
       "updatedAt": "2026-06-17T07:02:04"
+    },
+    {
+      "id": "b8eef9e68b7f4c47a6c5451ddc8a47bc",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "813820",
+        "Tên Bưu cục": "BCVH THONG NHAT",
+        "Họ và tên người sử dụng": "NGUYEN THUY VAN",
+        "Mã HRM": "aa",
+        "Bộ phận / Phòng ban": "NVXLNV",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-B99S0OP",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H310M DS2 2.0",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Pentium(R) Gold G5400 CPU @ 3.70GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "577 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.71.161.211",
+        "MAC Address": "B4:2E:99:BA:F0:A1"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "pc43d",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-17T06:46:15",
+      "updatedAt": "2026-06-17T06:46:15"
     }
   ]
 }
