@@ -1163,6 +1163,37 @@
       "attachments": [],
       "createdAt": "2026-06-17T09:27:06",
       "updatedAt": "2026-06-17T09:27:06"
+    },
+    {
+      "id": "e729a85119b14ae3b9312ef9667f2929",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "815956",
+        "Tên Bưu cục": "BCVH KCN NHON TRACH",
+        "Họ và tên người sử dụng": "Nguyễn Thị Huyền",
+        "Mã HRM": "x",
+        "Bộ phận / Phòng ban": "NVXL",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-NT-KCN77",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "Vostro 3668",
+        "Năm sản xuất": "",
+        "Serial Number": "1C03GL2",
+        "CPU": "Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "931 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise 10.0.19042",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.116.77",
+        "MAC Address": "50:9A:4C:1D:01:A0"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-17T09:29:13",
+      "updatedAt": "2026-06-17T09:29:13"
     }
   ]
 }
