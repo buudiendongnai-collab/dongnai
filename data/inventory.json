@@ -1070,6 +1070,37 @@
       "attachments": [],
       "createdAt": "2026-06-17T09:14:37",
       "updatedAt": "2026-06-17T09:14:37"
+    },
+    {
+      "id": "fead3cefd5e749909012c804f8aaf46f",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "814200",
+        "Tên Bưu cục": "GIAO DICH DINH QUAN",
+        "Họ và tên người sử dụng": "Nguyễn Tuấn Anh",
+        "Mã HRM": "x",
+        "Bộ phận / Phòng ban": "GIAO DICH VIEN",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-DQ-GD-2",
+        "Loại máy": "desktop",
+        "Hãng": "dell",
+        "Model": "optilex 3020m",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "Processor\tIntel(R) Core(TM) i3-4150T CPU @ 3.00GHz,",
+        "RAM": "4GB",
+        "Ổ cứng": "120GB",
+        "Hệ điều hành": "win 10",
+        "Office": "2010",
+        "Antivirus": "kaspersky",
+        "IP Address": "10.71.109.2",
+        "MAC Address": "‎F8-BC-12-A5-7F-69"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-17T09:20:04",
+      "updatedAt": "2026-06-17T09:20:04"
     }
   ]
 }
