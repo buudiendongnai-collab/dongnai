@@ -36,6 +36,48 @@
       ],
       "createdAt": "2026-06-17T04:41:40",
       "updatedAt": "2026-06-17T04:41:40"
+    },
+    {
+      "id": "118c09d09b014bfeb3bab8f439eb04ab",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "810100",
+        "Tên Bưu cục": "TTKTVC ĐỒNG NAI",
+        "Họ và tên người sử dụng": "nguyễn thị thu nga",
+        "Mã HRM": "XXX",
+        "Bộ phận / Phòng ban": "NHÂN VIÊN KHAI THÁC",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "KHAITHAC64",
+        "Loại máy": "DESKTOP",
+        "Hãng": "DELL",
+        "Model": "OPTILEX 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "61XBH32",
+        "CPU": "Processor\tIntel(R) Core(TM) i3-4150T CPU @ 3.00GHz, 3000 Mh",
+        "RAM": "4GB",
+        "Ổ cứng": "120GB",
+        "Hệ điều hành": "WIN7",
+        "Office": "2010",
+        "Antivirus": "KASPERKY",
+        "IP Address": "10.71.168.158",
+        "MAC Address": "‎F8-BC-12-A4-B8-5D"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "XPRINT 460",
+          "serial": "460buw204110755"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRA DS22",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-17T05:03:36",
+      "updatedAt": "2026-06-17T05:03:36"
     }
   ]
 }
