@@ -639,6 +639,37 @@
       "attachments": [],
       "createdAt": "2026-06-17T08:08:42",
       "updatedAt": "2026-06-17T08:08:42"
+    },
+    {
+      "id": "75f1ef9d6b7b433ab9f070260a14d55f",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "814600",
+        "Tên Bưu cục": "GIAO DỊCH TÂN PHÚ",
+        "Họ và tên người sử dụng": "NGUYỄN PHẠM PHƯƠNG NAM",
+        "Mã HRM": "X",
+        "Bộ phận / Phòng ban": "GIAO DỊCH VIÊN",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-TP-GD42",
+        "Loại máy": "DESKTOP",
+        "Hãng": "ASUS",
+        "Model": "H81M",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "Processor\tIntel(R) Pentium(R) CPU G3250 @ 3.20GHz,",
+        "RAM": "2gb",
+        "Ổ cứng": "240gb",
+        "Hệ điều hành": "WIN 7",
+        "Office": "2016",
+        "Antivirus": "KASPERSKY",
+        "IP Address": "10.71.111.42",
+        "MAC Address": "54-A0-50-51-FB-C6"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-17T08:13:17",
+      "updatedAt": "2026-06-17T08:13:17"
     }
   ]
 }
