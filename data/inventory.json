@@ -1039,6 +1039,37 @@
       ],
       "createdAt": "2026-06-17T09:12:51",
       "updatedAt": "2026-06-17T09:12:51"
+    },
+    {
+      "id": "31dcf2110afa48d98b0a86aab47ab75a",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "814200",
+        "Tên Bưu cục": "GIAO DICH DINH QUAN",
+        "Họ và tên người sử dụng": "Nguyễn Tuấn Anh",
+        "Mã HRM": "x",
+        "Bộ phận / Phòng ban": "GIAO DICH VIEN",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-DQ-GD-5",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "To be filled by O.E.M.",
+        "Năm sản xuất": "",
+        "Serial Number": "To be filled by O.E.M.",
+        "CPU": "Intel(R) Core(TM) i3-3240 CPU @ 3.40GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "114 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19041",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.109.5",
+        "MAC Address": "FC:AA:14:36:02:31"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-17T09:14:37",
+      "updatedAt": "2026-06-17T09:14:37"
     }
   ]
 }
