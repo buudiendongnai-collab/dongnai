@@ -204,6 +204,43 @@
       ],
       "createdAt": "2026-06-17T05:18:12",
       "updatedAt": "2026-06-17T05:18:12"
+    },
+    {
+      "id": "5279bd53d2ed4afebf24b943f5e6d914",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "810100",
+        "Tên Bưu cục": "TTKTVC ĐỒNG NAI",
+        "Họ và tên người sử dụng": "DƯƠNG NGUYỄN BÍCH NGỌC",
+        "Mã HRM": "XX",
+        "Bộ phận / Phòng ban": "NHÂN VIÊN KHAI THÁC",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-TTKTVC-200",
+        "Loại máy": "DESKTOP",
+        "Hãng": "DELL",
+        "Model": "3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "I3 4130",
+        "RAM": "4GB",
+        "Ổ cứng": "240GB",
+        "Hệ điều hành": "WIN 7",
+        "Office": "2010",
+        "Antivirus": "KASPERSKY",
+        "IP Address": "10.71.168.200",
+        "MAC Address": "‎64-00-6A-06-35-BE"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "ZEBRA ZD620",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-17T05:22:25",
+      "updatedAt": "2026-06-17T05:22:25"
     }
   ]
 }
