@@ -997,6 +997,48 @@
       "attachments": [],
       "createdAt": "2026-06-17T09:12:50",
       "updatedAt": "2026-06-17T09:12:50"
+    },
+    {
+      "id": "c31c67beb9ce49bc8faddd4c51de1b1b",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "814200",
+        "Tên Bưu cục": "GIAO DICH DINH QUAN",
+        "Họ và tên người sử dụng": "Phan Anh Hoàng",
+        "Mã HRM": "x",
+        "Bộ phận / Phòng ban": "GIAO DICH VIEN",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-DQ-032",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H81M-DS2",
+        "Năm sản xuất": "",
+        "Serial Number": "To be filled by O.E.M.",
+        "CPU": "Intel(R) Pentium(R) CPU G3260 @ 3.30GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.0.5",
+        "MAC Address": "1C:1B:0D:97:3E:D0"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon 2900",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "ZEBRA ZD600",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-17T09:12:51",
+      "updatedAt": "2026-06-17T09:12:51"
     }
   ]
 }
