@@ -314,6 +314,37 @@
       "attachments": [],
       "createdAt": "2026-06-17T05:30:26",
       "updatedAt": "2026-06-17T05:30:26"
+    },
+    {
+      "id": "55180f2c36ae40ed948349a90d74711b",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "810100",
+        "Tên Bưu cục": "TTKTVCĐỒNG NAI",
+        "Họ và tên người sử dụng": "HỒ THỊ KIM HỒNG",
+        "Mã HRM": "XX",
+        "Bộ phận / Phòng ban": "NHAN VIEN KHAII THAC",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-KTVC-KT-22",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H110M-DS2",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.168.22",
+        "MAC Address": "1C:1B:0D:F9:25:51"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-17T05:33:34",
+      "updatedAt": "2026-06-17T05:33:34"
     }
   ]
 }
