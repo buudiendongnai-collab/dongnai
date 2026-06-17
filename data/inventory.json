@@ -701,6 +701,37 @@
       "attachments": [],
       "createdAt": "2026-06-17T08:16:43",
       "updatedAt": "2026-06-17T08:16:43"
+    },
+    {
+      "id": "623399802ed3446f9c176f1499e02473",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "814600",
+        "Tên Bưu cục": "GIAO DỊCH TÂN PHÚ",
+        "Họ và tên người sử dụng": "Trương Thị Hà",
+        "Mã HRM": "XX",
+        "Bộ phận / Phòng ban": "GIAO DỊCH VIÊN",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-TP-VP15",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "7DZBH32",
+        "CPU": "Intel(R) Core(TM) i3-4150T CPU @ 3.00GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "111 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office LTSC Standard 2021 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.111.15",
+        "MAC Address": "F8:BC:12:A4:AF:73"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-17T08:18:36",
+      "updatedAt": "2026-06-17T08:18:36"
     }
   ]
 }
