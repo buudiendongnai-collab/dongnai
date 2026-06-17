@@ -763,6 +763,37 @@
       "attachments": [],
       "createdAt": "2026-06-17T08:26:27",
       "updatedAt": "2026-06-17T08:26:27"
+    },
+    {
+      "id": "cbcafae3202849dc8df530bff3d4895a",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "814660",
+        "Tên Bưu cục": "BCVH TÂN PHÚ",
+        "Họ và tên người sử dụng": "nguyễn tấn thanh quang",
+        "Mã HRM": "x",
+        "Bộ phận / Phòng ban": "NVQL",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-TN-KHT7",
+        "Loại máy": "DESKTOP",
+        "Hãng": "",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "G4440",
+        "RAM": "4GB",
+        "Ổ cứng": "240GB",
+        "Hệ điều hành": "WIN 10 PRO",
+        "Office": "2016",
+        "Antivirus": "KASPERSKY",
+        "IP Address": "10.71.111.7",
+        "MAC Address": "‎F8-BC-12-A5-7E-BC"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-17T08:32:03",
+      "updatedAt": "2026-06-17T08:32:03"
     }
   ]
 }
