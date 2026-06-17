@@ -4816,6 +4816,48 @@
       ],
       "createdAt": "2026-06-17T04:41:17",
       "updatedAt": "2026-06-17T04:41:17"
+    },
+    {
+      "id": "6205cd8d2d1f4899b84341ce3f1f720a",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "810100",
+        "Tên Bưu cục": "TTKTVC ĐỒNG NAI",
+        "Họ và tên người sử dụng": "TRƯƠNG THỊ THU VÂN",
+        "Mã HRM": "XX",
+        "Bộ phận / Phòng ban": "NHÂN VIÊN KHAI THÁC",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-KTVC-KT201",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "Vostro 3268",
+        "Năm sản xuất": "",
+        "Serial Number": "CQ04QM2",
+        "CPU": "Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "390 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.168.201",
+        "MAC Address": "8C:EC:4B:48:E6:4F"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "XPRINT 420B",
+          "serial": "420BLE258250049"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "HONEYWELL 1250G",
+          "serial": "3K23340106"
+        }
+      ],
+      "createdAt": "2026-06-17T04:45:00",
+      "updatedAt": "2026-06-17T04:45:00"
     }
   ]
 }
