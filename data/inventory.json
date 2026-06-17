@@ -825,6 +825,43 @@
       "attachments": [],
       "createdAt": "2026-06-17T08:33:50",
       "updatedAt": "2026-06-17T08:33:50"
+    },
+    {
+      "id": "0f6adf8b6526487a8d68c187fea860df",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "812863",
+        "Tên Bưu cục": "BCVH KCN TAM PHUOC",
+        "Họ và tên người sử dụng": "Mai Thị Hiền",
+        "Mã HRM": "v",
+        "Bộ phận / Phòng ban": "TRƯỞNG BƯU CỤC",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-TTP-KCNTMPH",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "Vostro 3470",
+        "Năm sản xuất": "",
+        "Serial Number": "73D39R2",
+        "CPU": "Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "110 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.159.2",
+        "MAC Address": "8C:EC:4B:88:7C:26"
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "INTERMEC",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-17T08:54:45",
+      "updatedAt": "2026-06-17T08:54:45"
     }
   ]
 }
