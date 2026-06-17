@@ -670,6 +670,37 @@
       "attachments": [],
       "createdAt": "2026-06-17T08:13:17",
       "updatedAt": "2026-06-17T08:13:17"
+    },
+    {
+      "id": "0989b938139e428a902ec9733c04abe7",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "814600",
+        "Tên Bưu cục": "GIAO DỊCH TÂN PHÚ",
+        "Họ và tên người sử dụng": "Huỳnh Thị Thùy Linh",
+        "Mã HRM": "XX",
+        "Bộ phận / Phòng ban": "GIAO DICH VIEN",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-TP-GD6",
+        "Loại máy": "Desktop",
+        "Hãng": "Acer",
+        "Model": "Aspire XC-710",
+        "Năm sản xuất": "",
+        "Serial Number": "DTB16SV002622013F63000",
+        "CPU": "Intel(R) Pentium(R) CPU G4400 @ 3.30GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "926 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise 10.0.16299",
+        "Office": "Microsoft Office Standard 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.111.6",
+        "MAC Address": "F4:4D:30:0B:8A:61"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-17T08:16:43",
+      "updatedAt": "2026-06-17T08:16:43"
     }
   ]
 }
