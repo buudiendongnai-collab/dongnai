@@ -4779,6 +4779,43 @@
       ],
       "createdAt": "2026-06-17T04:21:30",
       "updatedAt": "2026-06-17T04:21:30"
+    },
+    {
+      "id": "604f032373624ec49d0bec220a99a0b0",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "810100",
+        "Tên Bưu cục": "TTKTVC DONGNAI",
+        "Họ và tên người sử dụng": "VAN TRAN HUU HOANG",
+        "Mã HRM": "xx",
+        "Bộ phận / Phòng ban": "TRUONG CA",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-KTVC-50",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC5221454",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Professional 2019 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.168.50",
+        "MAC Address": "10:B6:76:9E:1F:55"
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "honey well 1472g",
+          "serial": "24088b7d45"
+        }
+      ],
+      "createdAt": "2026-06-17T04:41:17",
+      "updatedAt": "2026-06-17T04:41:17"
     }
   ]
 }
