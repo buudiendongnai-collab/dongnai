@@ -162,6 +162,48 @@
       ],
       "createdAt": "2026-06-17T05:13:26",
       "updatedAt": "2026-06-17T05:13:26"
+    },
+    {
+      "id": "7a0dfee735ee420a94f9e2d462500bfc",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "810100",
+        "Tên Bưu cục": "TTKTVC ĐỒNG NAI",
+        "Họ và tên người sử dụng": "DƯƠNG NGUYỄN BÍCH NGỌC",
+        "Mã HRM": "XX",
+        "Bộ phận / Phòng ban": "NHAN VIEN KHAI THAC",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DN-TTKT-KT-10",
+        "Loại máy": "DESKTOP",
+        "Hãng": "GIGABYTE",
+        "Model": "H110M",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "Processor\tIntel(R) Core(TM) i3-7100 CPU @ 3.90GHz,",
+        "RAM": "4GB",
+        "Ổ cứng": "240GB",
+        "Hệ điều hành": "WIN 7",
+        "Office": "2010",
+        "Antivirus": "KASPERKY",
+        "IP Address": "10.71.168.10",
+        "MAC Address": "‎00-1D-B2-25-24-9E"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "XPRINT 460B",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "HONEY WELL 1250G",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-17T05:18:12",
+      "updatedAt": "2026-06-17T05:18:12"
     }
   ]
 }
