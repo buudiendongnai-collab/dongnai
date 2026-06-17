@@ -4900,6 +4900,48 @@
       ],
       "createdAt": "2026-06-17T04:47:47",
       "updatedAt": "2026-06-17T04:47:47"
+    },
+    {
+      "id": "b2a108b563fa4171bde09d41d33897ae",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "810100",
+        "Tên Bưu cục": "TTKT ĐỒNG NAI",
+        "Họ và tên người sử dụng": "HỒ THỊ KIM HỒNG",
+        "Mã HRM": "XX",
+        "Bộ phận / Phòng ban": "NHÂN VIÊN KHAI THÁC",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-TTKTVC-84",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP 280 G2 MT",
+        "Năm sản xuất": "",
+        "Serial Number": "SGH721Q30N",
+        "CPU": "Intel(R) Core(TM) i3-6100 CPU @ 3.70GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "",
+        "Antivirus": "ESET Security, Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.168.84",
+        "MAC Address": "A0:8C:FD:F1:F6:FF"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "XPRINT 460B",
+          "serial": "460BUW204110684"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "HONEY WELL 1250G",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-17T04:53:09",
+      "updatedAt": "2026-06-17T04:53:09"
     }
   ]
 }
