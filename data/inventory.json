@@ -4858,6 +4858,48 @@
       ],
       "createdAt": "2026-06-17T04:45:00",
       "updatedAt": "2026-06-17T04:45:00"
+    },
+    {
+      "id": "27e54673381646859007eb248d2397e2",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "810100",
+        "Tên Bưu cục": "TTKC DONGNAI",
+        "Họ và tên người sử dụng": "TRUONG THIJ THUVAN",
+        "Mã HRM": "XX",
+        "Bộ phận / Phòng ban": "NHAN VIEN KHAI THAC",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-KTVC-KT-103",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "GKXBH32",
+        "CPU": "Intel(R) Core(TM) i3-4150T CPU @ 3.00GHz",
+        "RAM": "5.9 GB",
+        "Ổ cứng": "111 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "",
+        "Antivirus": "ESET Security, Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.168.103",
+        "MAC Address": "F8:BC:12:A5:7B:C5"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "XPRINT 420B",
+          "serial": "254LLE216210216"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "HONEY WELL",
+          "serial": "24088B7D42"
+        }
+      ],
+      "createdAt": "2026-06-17T04:47:47",
+      "updatedAt": "2026-06-17T04:47:47"
     }
   ]
 }
