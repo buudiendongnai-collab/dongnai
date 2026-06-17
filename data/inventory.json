@@ -1256,6 +1256,37 @@
       "attachments": [],
       "createdAt": "2026-06-17T09:34:22",
       "updatedAt": "2026-06-17T09:34:22"
+    },
+    {
+      "id": "083c7b7945a6442ebd46cc22a6ad199c",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "812863",
+        "Tên Bưu cục": "BCVH KCN TAM PHUOC",
+        "Họ và tên người sử dụng": "Nguyễn Thị Quỳnh Như",
+        "Mã HRM": "x",
+        "Bộ phận / Phòng ban": "NVXL",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-TTP-PPT197",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP 280 G3 MT",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE7354PCZ",
+        "CPU": "Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "ESET Security, Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.159.15",
+        "MAC Address": "3C:52:82:50:24:06"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-17T09:39:43",
+      "updatedAt": "2026-06-17T09:39:43"
     }
   ]
 }
