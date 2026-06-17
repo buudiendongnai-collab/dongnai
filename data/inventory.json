@@ -4700,6 +4700,48 @@
       "attachments": [],
       "createdAt": "2026-06-17T01:04:35",
       "updatedAt": "2026-06-17T01:04:35"
+    },
+    {
+      "id": "2c1152418af546c38ee18f5c8473f20e",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "813820",
+        "Tên Bưu cục": "BCVH Thống Nhất",
+        "Họ và tên người sử dụng": "Nguyễn thùy Vân",
+        "Mã HRM": "00103641",
+        "Bộ phận / Phòng ban": "NVXL",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-TN-BCP216",
+        "Loại máy": "Desktop",
+        "Hãng": "To be filled by O.E.M.",
+        "Model": "To be filled by O.E.M.",
+        "Năm sản xuất": "",
+        "Serial Number": "To be filled by O.E.M.",
+        "CPU": "Intel(R) Core(TM) i5-3570 CPU @ 3.40GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "260 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2016 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.161.215",
+        "MAC Address": "00:E6:5D:36:08:6A"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "interpec",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-17T04:35:34",
+      "updatedAt": "2026-06-17T04:35:34"
     }
   ]
 }
