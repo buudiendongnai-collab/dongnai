@@ -456,6 +456,37 @@
       ],
       "createdAt": "2026-06-17T05:41:04",
       "updatedAt": "2026-06-17T05:41:04"
+    },
+    {
+      "id": "4871fc3765bc41c4a1a6b6663a82157b",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "813820",
+        "Tên Bưu cục": "BCVH Thống Nhất",
+        "Họ và tên người sử dụng": "Nguyễn thùy Vân",
+        "Mã HRM": "00103641",
+        "Bộ phận / Phòng ban": "NVXL",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-TN-BCP216",
+        "Loại máy": "Desktop",
+        "Hãng": "To be filled by O.E.M.",
+        "Model": "To be filled by O.E.M.",
+        "Năm sản xuất": "",
+        "Serial Number": "To be filled by O.E.M.",
+        "CPU": "Intel(R) Core(TM) i5-3570 CPU @ 3.40GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "260 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2016 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.161.215",
+        "MAC Address": "00:E6:5D:36:08:6A"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-17T07:02:04",
+      "updatedAt": "2026-06-17T07:02:04"
     }
   ]
 }
