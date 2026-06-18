@@ -1324,6 +1324,43 @@
       ],
       "createdAt": "2026-06-18T03:39:51",
       "updatedAt": "2026-06-18T03:39:51"
+    },
+    {
+      "id": "69674ffc594e47478ec02ea20302d00f",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "816400",
+        "Tên Bưu cục": "Bưu điện xã Trảng Bom",
+        "Họ và tên người sử dụng": "Đỗ Bình An",
+        "Mã HRM": "00261080",
+        "Bộ phận / Phòng ban": "Phòng Tài chính Kế hoạch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "ITK-20230819CPT",
+        "Loại máy": "Desktop",
+        "Hãng": "Hewlett-Packard",
+        "Model": "HP Compaq dx7300 Microtower",
+        "Năm sản xuất": "",
+        "Serial Number": "SGH7450TS6",
+        "CPU": "Intel(R) Core(TM)2 CPU          6400  @ 2.13GHz",
+        "RAM": "3 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.71.122.20",
+        "MAC Address": "00:0F:FE:7F:40:1B"
+      },
+      "attachments": [
+        {
+          "type": "photocopier",
+          "name": "Ricoh Aficio MP 5002",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-18T04:35:27",
+      "updatedAt": "2026-06-18T04:35:27"
     }
   ]
 }
