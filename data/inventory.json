@@ -1361,6 +1361,37 @@
       ],
       "createdAt": "2026-06-18T04:35:27",
       "updatedAt": "2026-06-18T04:35:27"
+    },
+    {
+      "id": "c92243d425c74053978f9ff23bf21747",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "815920",
+        "Tên Bưu cục": "bưu cục KCN nhơn trạch",
+        "Họ và tên người sử dụng": "LÊ THỊ HỒNG NGÁT",
+        "Mã HRM": "xx",
+        "Bộ phận / Phòng ban": "GIAO DICH VIEN",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-NT-BCPNT84",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP ProDesk 600 G5 Desktop Mini",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC01132KZ",
+        "CPU": "Intel(R) Core(TM) i3-9100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "111 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19044",
+        "Office": "Microsoft Office LTSC Professional Plus 2021 - en-us",
+        "Antivirus": "CyRadar Endpoint Detection and Response, CyRadar Endpoint Detection and Response, Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.116.102",
+        "MAC Address": "38:22:E2:19:3D:1C"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-19T03:43:32",
+      "updatedAt": "2026-06-19T03:43:32"
     }
   ]
 }
