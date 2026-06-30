@@ -1558,6 +1558,37 @@
       "attachments": [],
       "createdAt": "2026-06-30T02:40:28",
       "updatedAt": "2026-06-30T02:40:28"
+    },
+    {
+      "id": "e9a60f28d7b74d498831ad286c7ba405",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "814850",
+        "Tên Bưu cục": "BC PHÚ BÌNH",
+        "Họ và tên người sử dụng": "BUI THI ANH THI",
+        "Mã HRM": "00018607",
+        "Bộ phận / Phòng ban": "BC PHU BINH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-TP-PHULAM80",
+        "Loại máy": "",
+        "Hãng": "HP",
+        "Model": "",
+        "Năm sản xuất": "2010",
+        "Serial Number": "",
+        "CPU": "Intel(R) Pentium(R) CPU G2030 @ 3.00GHz (2 CPUs), ~3.0GHz",
+        "RAM": "4Gb",
+        "Ổ cứng": "500Gb",
+        "Hệ điều hành": "Windows 7 Ultimate 32",
+        "Office": "office 2010",
+        "Antivirus": "",
+        "IP Address": "10.71.110.65",
+        "MAC Address": "10:B2:76:9E:10:1D"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-30T02:49:23",
+      "updatedAt": "2026-06-30T02:49:23"
     }
   ]
 }
