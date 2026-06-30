@@ -1454,6 +1454,37 @@
       "attachments": [],
       "createdAt": "2026-06-30T02:07:00",
       "updatedAt": "2026-06-30T02:07:00"
+    },
+    {
+      "id": "6e11054bf4f5421eb6e2eef1ccf43d48",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "8163",
+        "Tên Xã": "Bưu điện xã Đak lua",
+        "Mã Bưu cục": "814910",
+        "Tên Bưu cục": "Đak lua",
+        "Họ và tên người sử dụng": "Lê Thị Loan",
+        "Mã HRM": "00241598",
+        "Bộ phận / Phòng ban": "Văn hoá xã",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-AL55G4M",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "8GZBH32",
+        "CPU": "Intel(R) Core(TM) i3-4150T CPU @ 3.00GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "113 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.1.4",
+        "MAC Address": "F8:BC:12:A4:AF:DE"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-30T02:19:34",
+      "updatedAt": "2026-06-30T02:19:34"
     }
   ]
 }
