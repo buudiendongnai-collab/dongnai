@@ -1682,6 +1682,37 @@
       "attachments": [],
       "createdAt": "2026-06-30T03:31:49",
       "updatedAt": "2026-06-30T03:31:49"
+    },
+    {
+      "id": "f4dd6e7e596c42d9a22a84e71d15930e",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "815921",
+        "Tên Bưu cục": "VHX Hiệp Phuớc",
+        "Họ và tên người sử dụng": "ĐẬU THỊ ANH ĐÀO",
+        "Mã HRM": "00101923",
+        "Bộ phận / Phòng ban": "Giao dich vien",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-NT-HP",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H410M S2H",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Pentium(R) Gold G6400 CPU @ 4.00GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "222 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19044",
+        "Office": "Microsoft Office LTSC Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.116.201",
+        "MAC Address": "18:C0:4D:0E:26:A1"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-30T03:36:06",
+      "updatedAt": "2026-06-30T03:36:06"
     }
   ]
 }
