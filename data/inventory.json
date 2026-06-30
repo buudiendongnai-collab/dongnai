@@ -2108,6 +2108,37 @@
       "attachments": [],
       "createdAt": "2026-06-30T06:44:25",
       "updatedAt": "2026-06-30T06:44:25"
+    },
+    {
+      "id": "e5b554adb3584e568b8e7e92c21b5f8e",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "816248",
+        "Tên Bưu cục": "VHX Xuân Đường",
+        "Họ và tên người sử dụng": "TÔN THỊ KIM THẢO",
+        "Mã HRM": "00215119",
+        "Bộ phận / Phòng ban": "Giao Dich Vien",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-CM-VHXXDG",
+        "Loại máy": "Desktop",
+        "Hãng": "ASUS",
+        "Model": "All Series",
+        "Năm sản xuất": "",
+        "Serial Number": "System Serial Number",
+        "CPU": "Intel(R) Core(TM) i3-4130 CPU @ 3.40GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "114 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19041",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.11",
+        "MAC Address": "FC:34:97:68:B7:19"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-30T07:17:11",
+      "updatedAt": "2026-06-30T07:17:11"
     }
   ]
 }
