@@ -1620,6 +1620,37 @@
       "attachments": [],
       "createdAt": "2026-06-30T02:58:19",
       "updatedAt": "2026-06-30T02:58:19"
+    },
+    {
+      "id": "7857450b5c27406fb8c953e7763a5e94",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "814256",
+        "Tên Bưu cục": "VHX PHÚ HÒA",
+        "Họ và tên người sử dụng": "NGUYỄN THỊ TRÚC LINH",
+        "Mã HRM": "00107486",
+        "Bộ phận / Phòng ban": "VĂN HÓA XÃ PHÚ HÒA",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-DQ-VHXPHUHO",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "Gigabyte Technology Co., Ltd.",
+        "Năm sản xuất": "2010",
+        "Serial Number": "System Serial Number",
+        "CPU": "Intel(R) Core(TM) i3-2120",
+        "RAM": "2GB",
+        "Ổ cứng": "5000",
+        "Hệ điều hành": "Windows 7 Professional 32-bit",
+        "Office": "Office 2010",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.1.56",
+        "MAC Address": "BC:9E:12:4D:A3:1A"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-30T03:19:40",
+      "updatedAt": "2026-06-30T03:19:40"
     }
   ]
 }
