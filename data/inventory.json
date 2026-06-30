@@ -1527,6 +1527,37 @@
       ],
       "createdAt": "2026-06-30T02:35:19",
       "updatedAt": "2026-06-30T02:35:19"
+    },
+    {
+      "id": "2e63105be088421f96dab2c05d4a7e29",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "8141",
+        "Tên Xã": "Phú Tân",
+        "Mã Bưu cục": "814280",
+        "Tên Bưu cục": "VHX Phú Tân",
+        "Họ và tên người sử dụng": "Văn Thị Thạnh",
+        "Mã HRM": "00018667",
+        "Bộ phận / Phòng ban": "VHX Phú Tân",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-DQ-VHX-PTA",
+        "Loại máy": "Desktop",
+        "Hãng": "ASUS",
+        "Model": "All Series",
+        "Năm sản xuất": "",
+        "Serial Number": "System Serial Number",
+        "CPU": "Intel(R) Core(TM) i5-4590 CPU @ 3.30GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "122 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise LTSC 10.0.17763",
+        "Office": "Microsoft Office Professional Plus 2019 - en-us",
+        "Antivirus": "Kaspersky",
+        "IP Address": "10.71.109.48",
+        "MAC Address": "F0:2F:74:F8:E0:DA"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-30T02:40:28",
+      "updatedAt": "2026-06-30T02:40:28"
     }
   ]
 }
