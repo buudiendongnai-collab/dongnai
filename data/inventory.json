@@ -1485,6 +1485,48 @@
       "attachments": [],
       "createdAt": "2026-06-30T02:19:34",
       "updatedAt": "2026-06-30T02:19:34"
+    },
+    {
+      "id": "891c8b10e62d485bb7722e80200254a6",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "814850",
+        "Tên Bưu cục": "BC PHÚ BÌNH",
+        "Họ và tên người sử dụng": "BÙI THỊ ANH THI",
+        "Mã HRM": "00018607",
+        "Bộ phận / Phòng ban": "BC PHÚ BÌNH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-TP-PHULAM84",
+        "Loại máy": "Desktop",
+        "Hãng": "ASUS",
+        "Model": "All Series",
+        "Năm sản xuất": "",
+        "Serial Number": "System Serial Number",
+        "CPU": "Intel(R) Pentium(R) CPU G3260 @ 3.30GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "111 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.110.73",
+        "MAC Address": "60:45:CB:A2:C1:D8"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "PC43D",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-30T02:35:19",
+      "updatedAt": "2026-06-30T02:35:19"
     }
   ]
 }
