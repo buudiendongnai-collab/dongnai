@@ -2035,6 +2035,48 @@
       ],
       "createdAt": "2026-06-30T06:33:32",
       "updatedAt": "2026-06-30T06:33:32"
+    },
+    {
+      "id": "419696848894443f805cc9dd90c8b567",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "814320",
+        "Tên Bưu cục": "thanh sơn",
+        "Họ và tên người sử dụng": "nguyễn thị minh hòa",
+        "Mã HRM": "00018739",
+        "Bộ phận / Phòng ban": "vhx thanh sơn",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-DQ-VHXTHANH",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "69ZD8F2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "225 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.17134",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.28",
+        "MAC Address": "18:66:DA:28:D4:73"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "canon",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "zebra",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-30T06:42:40",
+      "updatedAt": "2026-06-30T06:42:40"
     }
   ]
 }
