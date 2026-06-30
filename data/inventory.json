@@ -1744,6 +1744,37 @@
       "attachments": [],
       "createdAt": "2026-06-30T03:47:41",
       "updatedAt": "2026-06-30T03:47:41"
+    },
+    {
+      "id": "bd12b6ce704241319377420d759afd82",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "815900",
+        "Tên Bưu cục": "VHX Phú Thạnh",
+        "Họ và tên người sử dụng": "NGUYỄN THỊ NGỌC NGA",
+        "Mã HRM": "00018050",
+        "Bộ phận / Phòng ban": "Giao dich vien",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-NT-PHUTHANH",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H61M-S2V-B3",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "Intel(R) Pentium(R) CPU G620 @ 2.60GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "240 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2016 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.6",
+        "MAC Address": "F8:1A:67:04:F8:5F"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-30T03:49:08",
+      "updatedAt": "2026-06-30T03:49:08"
     }
   ]
 }
