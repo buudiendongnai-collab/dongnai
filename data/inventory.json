@@ -1961,6 +1961,43 @@
       "attachments": [],
       "createdAt": "2026-06-30T04:07:55",
       "updatedAt": "2026-06-30T04:07:55"
+    },
+    {
+      "id": "4433ba46300d47df9ae2cb90dcb58070",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "8144",
+        "Tên Xã": "Nam Cát Tiên",
+        "Mã Bưu cục": "814750",
+        "Tên Bưu cục": "Núi Tượng",
+        "Họ và tên người sử dụng": "Nguyễn Thị Thủy",
+        "Mã HRM": "00018645",
+        "Bộ phận / Phòng ban": "Núi Tượng",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-DQ-NTUONG",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "2012",
+        "Serial Number": "40R61H2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "467 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.17763",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.19",
+        "MAC Address": "48:4D:7E:DE:2E:17"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon 2900",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-30T06:16:12",
+      "updatedAt": "2026-06-30T06:16:12"
     }
   ]
 }
