@@ -1713,6 +1713,37 @@
       "attachments": [],
       "createdAt": "2026-06-30T03:36:06",
       "updatedAt": "2026-06-30T03:36:06"
+    },
+    {
+      "id": "0f2fbe3ed8074aaca8d1ca482b6404a7",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "816010",
+        "Tên Bưu cục": "VHX Phuớc Khánh",
+        "Họ và tên người sử dụng": "HUỲNH THỊ AN",
+        "Mã HRM": "00018054",
+        "Bộ phận / Phòng ban": "Giao dich vien",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-NT-PKH",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "69PD8F2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "458 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.200.38.35",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-30T03:47:41",
+      "updatedAt": "2026-06-30T03:47:41"
     }
   ]
 }
