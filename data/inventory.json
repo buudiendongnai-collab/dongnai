@@ -1998,6 +1998,43 @@
       ],
       "createdAt": "2026-06-30T06:16:12",
       "updatedAt": "2026-06-30T06:16:12"
+    },
+    {
+      "id": "4f0650d2f58f44ca83eb1b9f2b1158a1",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "8143",
+        "Tên Xã": "Bưu điện xã Tà Lài",
+        "Mã Bưu cục": "814810",
+        "Tên Bưu cục": "Tà Lài",
+        "Họ và tên người sử dụng": "ĐỖ PHẠM NGỌC HẠNH",
+        "Mã HRM": "00018642",
+        "Bộ phận / Phòng ban": "Tà Lài",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-TP-VHX-TL",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "GB70TR2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "113 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.22631",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.200.38.85",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-30T06:33:32",
+      "updatedAt": "2026-06-30T06:33:32"
     }
   ]
 }
