@@ -2559,6 +2559,43 @@
       ],
       "createdAt": "2026-07-01T04:20:32",
       "updatedAt": "2026-07-01T04:20:32"
+    },
+    {
+      "id": "70e90144cbfa450e8ea264f789d47300",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "815800",
+        "Tên Bưu cục": "Giao dich Nhon Trach",
+        "Họ và tên người sử dụng": "xx",
+        "Mã HRM": "xx",
+        "Bộ phận / Phòng ban": "Giao dich vien",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-NT-GD14",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "B3TH862",
+        "CPU": "Intel(R) Core(TM) i3-4160T CPU @ 3.10GHz",
+        "RAM": "3.4 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.117.14",
+        "MAC Address": "64:00:6A:00:2C:93"
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "zebra",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-01T04:22:59",
+      "updatedAt": "2026-07-01T04:22:59"
     }
   ]
 }
