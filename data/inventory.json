@@ -2892,6 +2892,37 @@
       ],
       "createdAt": "2026-07-01T05:18:10",
       "updatedAt": "2026-07-01T05:18:10"
+    },
+    {
+      "id": "a7ef4a53676646fc9e549751e259f7c3",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "815580",
+        "Tên Bưu cục": "BCVH LONG THÀNH",
+        "Họ và tên người sử dụng": "ĐẶNG THỊ KIM YẾN",
+        "Mã HRM": "00225083",
+        "Bộ phận / Phòng ban": "BCVH LONG THÀNH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-LT-VP112",
+        "Loại máy": "Desktop",
+        "Hãng": "ASUS",
+        "Model": "System Product Name",
+        "Năm sản xuất": "",
+        "Serial Number": "System Serial Number",
+        "CPU": "Intel(R) Pentium(R) Gold G6405 CPU @ 4.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "111 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.22621",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.120.112",
+        "MAC Address": "58:11:22:8B:AA:2E"
+      },
+      "attachments": [],
+      "createdAt": "2026-07-01T06:49:58",
+      "updatedAt": "2026-07-01T06:49:58"
     }
   ]
 }
