@@ -2248,6 +2248,43 @@
       ],
       "createdAt": "2026-07-01T02:33:35",
       "updatedAt": "2026-07-01T02:33:35"
+    },
+    {
+      "id": "6186a7f79a364814be246bd8e0e5bffc",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "816400",
+        "Tên Bưu cục": "Giao dịch Trảng bom",
+        "Họ và tên người sử dụng": "xxx",
+        "Mã HRM": "xxx",
+        "Bộ phận / Phòng ban": "GIao dich vien",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-TB-GD11",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "1234567",
+        "CPU": "Intel(R) Core(TM) i3-4160T CPU @ 3.10GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "232 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.122.11",
+        "MAC Address": "64:00:6A:2F:36:0D"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon 2900",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-01T02:42:09",
+      "updatedAt": "2026-07-01T02:42:09"
     }
   ]
 }
