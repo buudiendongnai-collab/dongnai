@@ -2751,6 +2751,48 @@
       "attachments": [],
       "createdAt": "2026-07-01T04:33:51",
       "updatedAt": "2026-07-01T04:33:51"
+    },
+    {
+      "id": "00513116006d48989182b5476eb9d5d1",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "815954",
+        "Tên Bưu cục": "Bưu cục KHL Nhon Trach",
+        "Họ và tên người sử dụng": "xxx",
+        "Mã HRM": "xxx",
+        "Bộ phận / Phòng ban": "giao dich vien",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "ykk-pc",
+        "Loại máy": "desktop",
+        "Hãng": "HP",
+        "Model": "System Model\tHP 280 G3 MT",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz,",
+        "RAM": "4GB",
+        "Ổ cứng": "240GB",
+        "Hệ điều hành": "win pro",
+        "Office": "2010",
+        "Antivirus": "kasperkey",
+        "IP Address": "192.168.1.104",
+        "MAC Address": "40-B0-34-46-9C-1C"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon 2900",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "intermec pc43d",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-01T05:08:06",
+      "updatedAt": "2026-07-01T05:08:06"
     }
   ]
 }
