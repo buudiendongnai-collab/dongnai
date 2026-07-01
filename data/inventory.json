@@ -2480,6 +2480,43 @@
       ],
       "createdAt": "2026-07-01T03:08:08",
       "updatedAt": "2026-07-01T03:08:08"
+    },
+    {
+      "id": "406fb2341dd94547a85f460fc04398ad",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "816480",
+        "Tên Bưu cục": "BCP TRAng bom",
+        "Họ và tên người sử dụng": "xx",
+        "Mã HRM": "xxx",
+        "Bộ phận / Phòng ban": "NVXLNV",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-TB-KHT15",
+        "Loại máy": "DESKTOP",
+        "Hãng": "DELL",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "Intel(R) Core(TM) i3-4160T CPU @ 3.10GHz,",
+        "RAM": "4GB",
+        "Ổ cứng": "240GB",
+        "Hệ điều hành": "WIN7 ULTIMATE",
+        "Office": "OFFICE 2016",
+        "Antivirus": "KASPERSKY ENDPOINT",
+        "IP Address": "10.71.122.15",
+        "MAC Address": "‎64-00-6A-01-E5-9F"
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "SYMBOL",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-01T03:17:12",
+      "updatedAt": "2026-07-01T03:17:12"
     }
   ]
 }
