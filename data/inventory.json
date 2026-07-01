@@ -2170,6 +2170,37 @@
       "attachments": [],
       "createdAt": "2026-06-30T09:07:44",
       "updatedAt": "2026-06-30T09:07:44"
+    },
+    {
+      "id": "4c91336effa84e36b351d7db76132e21",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "815850",
+        "Tên Bưu cục": "VHX LONG TÂN",
+        "Họ và tên người sử dụng": "Châu Thị Ánh Tuyết",
+        "Mã HRM": "00018049",
+        "Bộ phận / Phòng ban": "Giao dịch viên",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-NT-LONGTAN",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "GBF5TR2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "240 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2013",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.200.38.37",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [],
+      "createdAt": "2026-07-01T02:12:57",
+      "updatedAt": "2026-07-01T02:12:57"
     }
   ]
 }
