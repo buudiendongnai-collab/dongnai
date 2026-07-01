@@ -2201,6 +2201,53 @@
       "attachments": [],
       "createdAt": "2026-07-01T02:12:57",
       "updatedAt": "2026-07-01T02:12:57"
+    },
+    {
+      "id": "bac7044c69a245d78e4e35bb4dbb362c",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "816480",
+        "Tên Bưu cục": "BCP Trảng Bom",
+        "Họ và tên người sử dụng": "xxx",
+        "Mã HRM": "xxx",
+        "Bộ phận / Phòng ban": "xxx",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-TB-KHT12",
+        "Loại máy": "Desktop",
+        "Hãng": "System manufacturer",
+        "Model": "System Product Name",
+        "Năm sản xuất": "",
+        "Serial Number": "System Serial Number",
+        "CPU": "Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "232 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.122.12",
+        "MAC Address": "2C:FD:A1:5B:31:D3"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon 2900",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "ZEBRA 620D",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRA DS2208",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-01T02:33:35",
+      "updatedAt": "2026-07-01T02:33:35"
     }
   ]
 }
