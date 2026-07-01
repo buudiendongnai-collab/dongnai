@@ -2824,6 +2824,37 @@
       "attachments": [],
       "createdAt": "2026-07-01T05:12:09",
       "updatedAt": "2026-07-01T05:12:09"
+    },
+    {
+      "id": "92825b046ef84997b3a5ae4c0311fc3c",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "815954",
+        "Tên Bưu cục": "Buu cucKHL Nhon Trach",
+        "Họ và tên người sử dụng": "xxx",
+        "Mã HRM": "xxx",
+        "Bộ phận / Phòng ban": "Giao dich vien",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-A4TBMS2",
+        "Loại máy": "Desktop",
+        "Hãng": "ASUS",
+        "Model": "All Series",
+        "Năm sản xuất": "",
+        "Serial Number": "System Serial Number",
+        "CPU": "Intel(R) Core(TM) i5-4570 CPU @ 3.20GHz",
+        "RAM": "5.9 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19042",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky",
+        "IP Address": "192.168.1.115",
+        "MAC Address": "24:2F:D0:8A:6B:58"
+      },
+      "attachments": [],
+      "createdAt": "2026-07-01T05:14:41",
+      "updatedAt": "2026-07-01T05:14:41"
     }
   ]
 }
