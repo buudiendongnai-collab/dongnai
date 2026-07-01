@@ -2627,6 +2627,37 @@
       "attachments": [],
       "createdAt": "2026-07-01T04:23:30",
       "updatedAt": "2026-07-01T04:23:30"
+    },
+    {
+      "id": "80b606e3254d4d5e82d5ad6983e98828",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "815300",
+        "Tên Bưu cục": "LONG THÀNH",
+        "Họ và tên người sử dụng": "NGUYỄN NGỌC THẢO VY",
+        "Mã HRM": "00260473",
+        "Bộ phận / Phòng ban": "GIAO DỊCH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-LT-GD249",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "B2GH862",
+        "CPU": "Intel(R) Core(TM) i3-4160T CPU @ 3.10GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "240 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.200.38.42",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [],
+      "createdAt": "2026-07-01T04:25:12",
+      "updatedAt": "2026-07-01T04:25:12"
     }
   ]
 }
