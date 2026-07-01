@@ -2406,6 +2406,43 @@
       ],
       "createdAt": "2026-07-01T03:03:45",
       "updatedAt": "2026-07-01T03:03:45"
+    },
+    {
+      "id": "1fc596d7fe1f4c06a50f3acd379da0d1",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "816480",
+        "Tên Bưu cục": "BCP Trarng Bom",
+        "Họ và tên người sử dụng": "xxx",
+        "Mã HRM": "xxx",
+        "Bộ phận / Phòng ban": "NVXL",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-TB-DH90",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "B1MHH62",
+        "CPU": "Intel(R) Core(TM) i3-4160T CPU @ 3.10GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "111 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.122.17",
+        "MAC Address": "50:9A:4C:15:7F:AA"
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "zebra ls2208",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-01T03:06:17",
+      "updatedAt": "2026-07-01T03:06:17"
     }
   ]
 }
