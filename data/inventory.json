@@ -2658,6 +2658,37 @@
       "attachments": [],
       "createdAt": "2026-07-01T04:25:12",
       "updatedAt": "2026-07-01T04:25:12"
+    },
+    {
+      "id": "071c2ebca348421d87c9123d72080f18",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "815300",
+        "Tên Bưu cục": "Giao dịch Long Thành",
+        "Họ và tên người sử dụng": "xxx",
+        "Mã HRM": "xxx",
+        "Bộ phận / Phòng ban": "Giao dich Vien",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-BDO9SIB",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "6WCMKG2",
+        "CPU": "Intel(R) Core(TM) i3-6100 CPU @ 3.70GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Trellix Endpoint Security, Windows Defender",
+        "IP Address": "10.71.120.108",
+        "MAC Address": "F4:8E:38:DC:17:7A"
+      },
+      "attachments": [],
+      "createdAt": "2026-07-01T04:27:45",
+      "updatedAt": "2026-07-01T04:27:45"
     }
   ]
 }
