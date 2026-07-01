@@ -2793,6 +2793,37 @@
       ],
       "createdAt": "2026-07-01T05:08:06",
       "updatedAt": "2026-07-01T05:08:06"
+    },
+    {
+      "id": "9e445b4e9a5048c9aec864763a750abd",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "815954",
+        "Tên Bưu cục": "Buu cục KHL NHơn Trạch",
+        "Họ và tên người sử dụng": "xx",
+        "Mã HRM": "xx",
+        "Bộ phận / Phòng ban": "Giao dich viên",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-6K5L5RS",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "CJXBH32",
+        "CPU": "Intel(R) Core(TM) i3-4150T CPU @ 3.00GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "224 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19042",
+        "Office": "Microsoft Office Professional Plus 2019 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky, Avast Antivirus",
+        "IP Address": "192.168.1.111",
+        "MAC Address": "24:2F:D0:8A:54:F5"
+      },
+      "attachments": [],
+      "createdAt": "2026-07-01T05:12:09",
+      "updatedAt": "2026-07-01T05:12:09"
     }
   ]
 }
