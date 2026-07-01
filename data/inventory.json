@@ -2322,6 +2322,43 @@
       ],
       "createdAt": "2026-07-01T02:43:09",
       "updatedAt": "2026-07-01T02:43:09"
+    },
+    {
+      "id": "01ddc369ce964cf598a37e5c06b11572",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "816400",
+        "Tên Bưu cục": "Giao dịch Trảng Bom",
+        "Họ và tên người sử dụng": "xxxx",
+        "Mã HRM": "xxx",
+        "Bộ phận / Phòng ban": "Giao dịch viên",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-TB-GD13",
+        "Loại máy": "Desktop",
+        "Hãng": "ASUS",
+        "Model": "All Series",
+        "Năm sản xuất": "",
+        "Serial Number": "System Serial Number",
+        "CPU": "Intel(R) Pentium(R) CPU G3250 @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "202 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.122.13",
+        "MAC Address": "30:5A:3A:5A:D3:A5"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon 2900",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-01T02:45:29",
+      "updatedAt": "2026-07-01T02:45:29"
     }
   ]
 }
