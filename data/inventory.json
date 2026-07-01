@@ -2443,6 +2443,43 @@
       ],
       "createdAt": "2026-07-01T03:06:17",
       "updatedAt": "2026-07-01T03:06:17"
+    },
+    {
+      "id": "f3079f51a3a54973845d0d2fcf68ae40",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "816480",
+        "Tên Bưu cục": "BCP TRẢNG BOM",
+        "Họ và tên người sử dụng": "PHẠM THỊ YẾN",
+        "Mã HRM": "00018076",
+        "Bộ phận / Phòng ban": "XLNV BCP TRẢNG BOM",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-5NH443G",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "FTWBH32",
+        "CPU": "Intel(R) Core(TM) i3-4150T CPU @ 3.00GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.71.122.14",
+        "MAC Address": "F8:BC:12:A5:81:A0"
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "intermec",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-01T03:08:08",
+      "updatedAt": "2026-07-01T03:08:08"
     }
   ]
 }
