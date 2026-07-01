@@ -2359,6 +2359,53 @@
       ],
       "createdAt": "2026-07-01T02:45:29",
       "updatedAt": "2026-07-01T02:45:29"
+    },
+    {
+      "id": "cbbf1bb3d8b645bb8e734b9fe454d064",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "816480",
+        "Tên Bưu cục": "BCP Trảng Bom",
+        "Họ và tên người sử dụng": "xxxx",
+        "Mã HRM": "xxx",
+        "Bộ phận / Phòng ban": "nhân viên xử lí nghiệp vu",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "PCQB-20200309XO",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "B3VL862",
+        "CPU": "Intel(R) Core(TM) i3-4160T CPU @ 3.10GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.18362",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, 360 Total Security",
+        "IP Address": "10.71.122.16",
+        "MAC Address": "64:00:6A:01:E4:82"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon 2900",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "zebra zd620",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "zebra",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-01T03:03:45",
+      "updatedAt": "2026-07-01T03:03:45"
     }
   ]
 }
