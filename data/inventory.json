@@ -2517,6 +2517,48 @@
       ],
       "createdAt": "2026-07-01T03:17:12",
       "updatedAt": "2026-07-01T03:17:12"
+    },
+    {
+      "id": "6e9c408da5ab4a389b557433215fead2",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "815300",
+        "Tên Bưu cục": "GIAO DỊCH LONG THÀNH",
+        "Họ và tên người sử dụng": "Trần Thị Ngọc Thủy",
+        "Mã HRM": "00017874",
+        "Bộ phận / Phòng ban": "Tổ Giao Dịch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DNI-LT-GD-157",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "B5WH862",
+        "CPU": "Intel(R) Core(TM) i3-4160T CPU @ 3.10GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.71.120.157",
+        "MAC Address": "64:00:6A:06:2A:1C"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "2900",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "intermac",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-01T04:20:32",
+      "updatedAt": "2026-07-01T04:20:32"
     }
   ]
 }
